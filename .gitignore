@@ -1,0 +1,15 @@
+*.DS_Store
+*.aif
+*.aiff
+*.flac
+*.wav
+*.mp3
+*.m4a
+*.reapeaks
+*.wav.reapeaks
+*.mov
+*.m4v
+*.mp4
+*.avi
+
+**/MediaFile/*.*
