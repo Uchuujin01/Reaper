@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "5.40/OSX64" 1499092651
+<REAPER_PROJECT 0.1 "5.40/OSX64" 1499166235
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -21,7 +21,7 @@
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
   LOOP 1
   LOOPGRAN 0 4
-  RECORD_PATH "Media Folder" ""
+  RECORD_PATH "MediaFolder" ""
   <RECORD_CFG
     ZXZhdxgAAA==
   >
@@ -288,7 +288,7 @@
       CHANMODE 3
       GUID {3D5C632E-B2BB-8947-B823-93AFA1A8FF33}
       <SOURCE WAVE
-        FILE "Media Folder/p78_ambience 3-Audio.aif"
+        FILE "MediaFolder/p78_ambience 3-Audio.aif"
       >
     >
   >
@@ -334,7 +334,7 @@
       CHANMODE 4
       GUID {EA363D9C-E4C6-3B47-9A3C-4BD8918EF97F}
       <SOURCE WAVE
-        FILE "Media Folder/p78_ambience 4-Audio.aif"
+        FILE "MediaFolder/p78_ambience 4-Audio.aif"
       >
     >
   >
@@ -450,7 +450,7 @@
       CHANMODE 3
       GUID {3FAAB7D2-D555-4F40-AD62-AB0343F8B6E3}
       <SOURCE WAVE
-        FILE "Media Folder/p78_ambience 6-Audio.aif"
+        FILE "MediaFolder/p78_ambience 6-Audio.aif"
       >
     >
   >
@@ -502,7 +502,7 @@
       CHANMODE 4
       GUID {1A1A8A5C-96DB-A641-8470-B47641D9C5F5}
       <SOURCE WAVE
-        FILE "Media Folder/p78_ambience 7-Audio.aif"
+        FILE "MediaFolder/p78_ambience 7-Audio.aif"
       >
     >
   >
@@ -622,7 +622,7 @@
       CHANMODE 0
       GUID {8ED37ED3-DCC6-9943-8EDA-AE626E682E7C}
       <SOURCE WAVE
-        FILE "Media Folder/p78_ambience 9-Audio.aif"
+        FILE "MediaFolder/p78_ambience 9-Audio.aif"
       >
     >
   >
@@ -666,7 +666,7 @@
         OTc3OAowIDAgMTczIDE3MyAwIDAgMCAwICoKKiAqICogKiA8L1BhcmFtZXRlcnM+CgkJPC9QcmVzZXREYXRhPgoJCTxQcmVzZXREYXRhIFNldHVwPSJTRVRVUF9CIj4K
         CQkJPFBhcmFtZXRlcnMgVHlwZT0iUmVhbFdvcmxkIj4wLjAxMDAwMDAwMDAwMDAwMDAwMDIwOCAwIDIgMzAgMCAtMTAwIC0xMDAgMCAtMTAwICoKKiAwIC0xMDAgLTEw
         MCAyIDUwIDAgMCAxCjAgMCAqICogMCAwIDAgLTEwMCAtMTAwCiogKiAqICogMCAwIDAgNzE3OSAwLjU5OTk5OTk5OTk5OTk5OTk3NzgKMCAwIDE3MyAxNzMgMCAwIDAg
-        MCAqCiogKiAqICogPC9QYXJhbWV0ZXJzPgoJCTwvUHJlc2V0RGF0YT4KCTwvUHJlc2V0Pgo8L1ByZXNldENodW5rWE1MVHJlZT4KAAA5AA==
+        MCAqCiogKiAqICogPC9QYXJhbWV0ZXJzPgoJCTwvUHJlc2V0RGF0YT4KCTwvUHJlc2V0Pgo8L1ByZXNldENodW5rWE1MVHJlZT4KOTk5OQ==
         AAAQAAAA
       >
       FLOATPOS 0 0 0 0
@@ -725,7 +725,7 @@
       CHANMODE 0
       GUID {E5A2BD63-9399-0D43-B8DC-0102A3DC900E}
       <SOURCE WAVE
-        FILE "Media Folder/p78_ambience 8-Audio.aif"
+        FILE "MediaFolder/p78_ambience 8-Audio.aif"
       >
     >
   >
@@ -769,7 +769,7 @@
         IDAgMCAqCiogKiAqICogPC9QYXJhbWV0ZXJzPgoJCTwvUHJlc2V0RGF0YT4KCQk8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQiI+CgkJCTxQYXJhbWV0ZXJzIFR5cGU9
         IlJlYWxXb3JsZCI+MC4wMTAwMDAwMDAwMDAwMDAwMDAyMDggMCAyIDMwIDAgLTEwMCAtMTAwIDAgLTEwMCAqCiogMCAtMTAwIC0xMDAgMiA1MCAwIDAgMQowIDAgKiAq
         IDAgMCAwIC0xMDAgLTEwMAoqICogKiAqIDAgMCAwIDcxNzkgMC41OTk5OTk5OTk5OTk5OTk5Nzc4CjAgMCAxNzMgMTczIDAgMCAwIDAgKgoqICogKiAqIDwvUGFyYW1l
-        dGVycz4KCQk8L1ByZXNldERhdGE+Cgk8L1ByZXNldD4KPC9QcmVzZXRDaHVua1hNTFRyZWU+CgAAAAA=
+        dGVycz4KCQk8L1ByZXNldERhdGE+Cgk8L1ByZXNldD4KPC9QcmVzZXRDaHVua1hNTFRyZWU+CgAAMik=
         AAAQAAAA
       >
       FLOATPOS 0 0 0 0
@@ -795,7 +795,7 @@
       CHANMODE 0
       GUID {3B6A2603-C51D-DE4C-A130-59225790334F}
       <SOURCE WAVE
-        FILE "Media Folder/p78_ambience 10-Audio-glued-01.wav"
+        FILE "MediaFolder/p78_ambience 10-Audio-glued-01.wav"
       >
     >
   >
