@@ -1,0 +1,615 @@
+<REAPER_PROJECT 0.1 "5.40/OSX64" 1501694271
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 0
+  ZOOM 38.39710295317192 0 0
+  VZOOMEX 10
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "MediaFiles" ""
+  <RECORD_CFG
+    ZXZhdxAAAA==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 0
+  TEMPOENVLOCKMODE 0
+  ITEMMIX 0
+  DEFPITCHMODE 589824
+  TAKELANE 1
+  SAMPLERATE 48000 0 0
+  <RENDER_CFG
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    ACT 0
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 1
+    VIS 0 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {4F3C5D31-CDB9-4444-93FC-95986FE55681}
+    NAME Beardy_Gameplay_1
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 114 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {4F3C5D31-CDB9-4444-93FC-95986FE55681}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 1 0
+      PT 99.42591032 1 0
+      PT 99.44064227 0.95454545 0
+      PT 99.47010617 0.77922078 0
+      PT 99.49957006 0.64935065 0
+      PT 99.69108537 0.64935065 0
+      PT 99.88260068 0.5974026 0
+      PT 100.0151882 0.5974026 0
+      PT 100.11831183 0.57142857 0
+      PT 101.88614547 0.57142857 0
+      PT 101.94507326 0.67532468 0
+      PT 101.95980521 0.72727273 0
+      PT 102.00400105 0.80519481 0
+      PT 102.018733 0.88311688 0
+      PT 102.04819689 0.98701299 0
+      PT 102.07766078 1 0
+      PT 113.15608493 1 0
+      PT 113.18554883 0.98701299 0
+      PT 113.21501272 0.80519481 0
+      PT 113.22974467 0.80519481 0
+      PT 113.25920856 0.64935065 0
+      PT 113.28867245 0.57142857 0
+      PT 113.31813635 0.54545455 0
+      PT 113.3328683 0.51948052 0
+      PT 113.90741423 0.51948052 0
+      PT 113.93687812 0.54545455 0
+      PT 113.96634202 1 0
+      PT 114.51142406 1 0
+      PT 114.54088795 0.54545455 0
+      PT 114.57035184 0.44155844 0
+      PT 114.62927963 0.41558442 0
+      PT 114.67347547 0.41558442 0
+      PT 114.806063 0.44155844 0
+      PT 115.48373256 0.44155844 0
+      PT 115.58685619 0.41558442 0
+      PT 115.66051592 0.41558442 0
+      PT 115.67524787 0.44155844 0
+      PT 115.89622707 0.44155844 0
+      PT 115.92569097 0.46753247 0
+      PT 115.94042291 0.46753247 0
+      PT 115.9993507 0.49350649 0
+      PT 116.01408265 0.49350649 0
+      PT 116.04354654 0.51948052 0
+      PT 116.05827849 0.7012987 0
+      PT 116.08774239 0.96103896 0
+      PT 116.10247433 0.96103896 0
+      PT 116.14667017 0.98701299 0
+      PT 116.17613407 1 0
+      PT 130.30407124 1 0
+      PT 130.33353514 0.51948052 0
+      PT 130.39246293 0.51948052 0
+      PT 130.48085461 0.46753247 0
+      PT 130.73129771 0.46753247 0
+      PT 130.92281302 0.44155844 0
+      PT 132.83796613 0.44155844 0
+      PT 133.08840923 0.41558442 0
+      PT 133.54509958 0.41558442 0
+      PT 133.67768711 0.44155844 0
+      PT 134.06071773 0.44155844 0
+      PT 134.14910941 0.41558442 0
+      PT 134.1785733 0.38961039 0
+      PT 134.23750109 0.44155844 0
+      PT 137.43433359 0.44155844 0
+      PT 137.59638501 0.41558442 0
+      PT 137.94995174 0.41558442 0
+      PT 137.99414758 0.38961039 0
+      PT 138.45083794 0.38961039 0
+      PT 138.46556988 0.36363636 0
+      PT 138.49503378 0.41558442 0
+      PT 138.50976572 0.48051948 0
+      PT 138.52449767 0.6038961 0
+      PT 138.55396156 0.96103896 0
+      PT 138.58342546 0.98701299 0
+      PT 139.32002281 0.98701299 0
+      PT 139.3789506 0.98701299 0
+      PT 139.65885759 0.96103896 0
+      PT 139.80617706 0.93506494 0
+      PT 140.74902167 0.93506494 0
+      PT 140.79321751 0.96103896 0
+      PT 142.00123716 0.96470483 0
+      PT 142.03070106 0.88311688 0
+      PT 142.11909274 0.87712288 0
+      PT 142.14855663 0.85714286 0
+      PT 142.23694832 0.85714286 0
+      PT 142.31060805 0.83116883 0
+      PT 142.42846363 0.83116883 0
+      PT 142.5463192 0.90909091 0
+      PT 142.5757831 0.85714286 0
+      PT 143.59228744 0.85714286 0
+      PT 143.69541107 0.88311688 0
+      PT 143.88692638 0.88311688 0
+      PT 144.12263753 0.90909091 0
+      PT 144.31415284 0.90909091 0
+      PT 144.34361674 1 0
+    >
+    <FXCHAIN
+      WNDRECT 0 4 2048 1125
+      SHOW 0
+      LASTSEL 4
+      DOCKED 0
+      BYPASS 0 0 0
+      <VIDEO_EFFECT "Video processor" ""
+        <CODE
+          |// auto-item vol/fade for video
+          |input_track(0) > 0 || input_count() == 0 ? (
+          |  ta=0;
+          |  input_info(0,w,h,0,ta);
+          |  ta < 1 ? gfx_blit(input_next_item(0),1);
+          |  ta > 0 ? (
+          |    gfx_a=ta;
+          |    gfx_blit(0,1);
+          |  )
+          |);
+        >
+        CODEPARM 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000
+      >
+      FLOATPOS 0 0 0 0
+      FXID {011C8CB1-6DA7-2E4C-A752-F979726A5F16}
+      WAK 0
+      BYPASS 0 0 0
+      <VIDEO_EFFECT "Video processor" ""
+        <CODE
+          |// Title text overlay
+          |text="
+          |
+          |                      - Саунд дизайн
+          |                      - Встраивание звуков в игру посредством скриптов";
+          | 
+          |font="Arial";
+          |
+          |//@param1:size 'text height' 0.05 0.01 0.2 0.1 0.01
+          |//@param2:ypos 'y position' 0.95 0 1 0.5 0.01
+          |//@param3:xpos 'x position' 0 0 1 0.5 0.01
+          |//@param4:border 'border' 0 0 1 0.5 0.01
+          |//@param5:fgc 'text bright' 1.0 0 1 0.5 0.01
+          |//@param6:fga 'text alpha' 1.0 0 1 0.5 0.01
+          |//@param7:bgc 'bg bright' 0.75 0 1 0.5 0.01
+          |//@param8:bga 'bg alpha' 0.5 0 1 0.5 0.01
+          |
+          |input = 0;
+          |!project_wh_valid && input_info(input,w,h) ? ( project_w=w; project_h=h; );
+          |gfx_blit(input,1);
+          |gfx_setfont(size*project_h,font);
+          |gfx_str_measure(text,txtw,txth);
+          |yt = (project_h- txth*(1+border*2))*ypos;
+          |gfx_set(bgc,bgc,bgc,bga);
+          |gfx_fillrect(0, yt, project_w, txth*(1+border*2));
+          |gfx_set(fgc,fgc,fgc,fga);
+          |gfx_str_draw(text,xpos * (project_w-txtw),yt+txth*border);
+        >
+        CODEPARM 0.0500000000 0.4500000000 0.0000000000 0.0000000000 0.5600000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000
+      >
+      FLOATPOS 0 0 0 0
+      FXID {AB812F6D-16FE-2F42-ABE4-A7DDB5E22039}
+      <PARMENV 5 0 1 0.5
+        ACT 1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 1
+        DEFSHAPE 0 -1 -1
+        PT -2.27151499 1 0
+        PT -2.22608469 0 0
+        PT -2.20336954 0 0
+        PT -2.15793924 0 0
+        PT 3.36184219 0 0
+        PT 3.47541794 0.01351351 0
+        PT 3.95243608 1 0
+        PT 4.02058153 1 0
+        PT 7.4995 1 0
+        PT 8 0 0
+        PT 8 0 0
+        PT 25.4995 0 0
+        PT 26 0 0
+        PT 84.5 0 0
+        PT 84.5005 0 0
+        PT 159.556667 0 0
+      >
+      WAK 0
+      BYPASS 0 0 0
+      <VIDEO_EFFECT "Video processor" ""
+        <CODE
+          |// Title text overlay
+          |text="Проект Бородач 3";
+          | 
+          |font="Arial";
+          |
+          |//@param1:size 'text height' 0.05 0.01 0.2 0.1 0.01
+          |//@param2:ypos 'y position' 0.95 0 1 0.5 0.01
+          |//@param3:xpos 'x position' 0 0 1 0.5 0.01
+          |//@param4:border 'border' 0 0 1 0.5 0.01
+          |//@param5:fgc 'text bright' 1.0 0 1 0.5 0.01
+          |//@param6:fga 'text alpha' 1.0 0 1 0.5 0.01
+          |//@param7:bgc 'bg bright' 0.75 0 1 0.5 0.01
+          |//@param8:bga 'bg alpha' 0.5 0 1 0.5 0.01
+          |
+          |input = 0;
+          |!project_wh_valid && input_info(input,w,h) ? ( project_w=w; project_h=h; );
+          |gfx_blit(input,1);
+          |gfx_setfont(size*project_h,font);
+          |gfx_str_measure(text,txtw,txth);
+          |yt = (project_h- txth*(1+border*2))*ypos;
+          |gfx_set(bgc,bgc,bgc,bga);
+          |gfx_fillrect(0, yt, project_w, txth*(1+border*2));
+          |gfx_set(fgc,fgc,fgc,fga);
+          |gfx_str_draw(text,xpos * (project_w-txtw),yt+txth*border);
+        >
+        CODEPARM 0.0800000000 0.3600000000 0.5200000000 0.0000000000 0.5600000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000
+      >
+      FLOATPOS 0 0 0 0
+      FXID {D3AEC645-795A-E249-8520-7616B5BEF69F}
+      <PARMENV 5 0 1 0.5
+        ACT 1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 1
+        DEFSHAPE 0 -1 -1
+        PT 0 0 0
+        PT 0.5 1 0 0 1
+        PT 3.29286491 1 0
+        PT 3.99813309 0 0
+        PT 45.5005 0 0
+        PT 159.556667 0 0
+      >
+      WAK 0
+      BYPASS 0 0 0
+      <VIDEO_EFFECT "Video processor" ""
+        <CODE
+          |// Title text overlay
+          |text="- Привязка звуковых событий к анимаци
+          |- Рандомизация параметров воспроизведения 
+          |  нативными средствами Unity";
+          | 
+          |font="Arial";
+          |
+          |//@param1:size 'text height' 0.05 0.01 0.2 0.1 0.01
+          |//@param2:ypos 'y position' 0.95 0 1 0.5 0.01
+          |//@param3:xpos 'x position' 0 0 1 0.5 0.01
+          |//@param4:border 'border' 0 0 1 0.5 0.01
+          |//@param5:fgc 'text bright' 1.0 0 1 0.5 0.01
+          |//@param6:fga 'text alpha' 1.0 0 1 0.5 0.01
+          |//@param7:bgc 'bg bright' 0.75 0 1 0.5 0.01
+          |//@param8:bga 'bg alpha' 0.5 0 1 0.5 0.01
+          |
+          |input = 0;
+          |!project_wh_valid && input_info(input,w,h) ? ( project_w=w; project_h=h; );
+          |gfx_blit(input,1);
+          |gfx_setfont(size*project_h,font);
+          |gfx_str_measure(text,txtw,txth);
+          |yt = (project_h- txth*(1+border*2))*ypos;
+          |gfx_set(bgc,bgc,bgc,bga);
+          |gfx_fillrect(0, yt, project_w, txth*(1+border*2));
+          |gfx_set(fgc,fgc,fgc,fga);
+          |gfx_str_draw(text,xpos * (project_w-txtw),yt+txth*border);
+        >
+        CODEPARM 0.0600000000 0.4500000000 0.5500000000 0.0000000000 0.5600000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000
+      >
+      FLOATPOS 0 0 0 0
+      FXID {CADCF487-D583-6044-9AE8-344FEBA0E87B}
+      <PARMENV 5 0 1 0.5
+        ACT 1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 1
+        DEFSHAPE 0 -1 -1
+        PT 0 0 0
+        PT 22 0 0
+        PT 22.5 1 0
+        PT 25.5 1 0
+        PT 26 0 0 0 1
+        PT 159.556667 0 0
+      >
+      WAK 0
+      BYPASS 0 0 0
+      <VIDEO_EFFECT "Video processor" ""
+        <CODE
+          |// Title text overlay
+          |text="- Привязка звуковых событий к жизненным циклам частиц";
+          | 
+          |font="Arial";
+          |
+          |//@param1:size 'text height' 0.05 0.01 0.2 0.1 0.01
+          |//@param2:ypos 'y position' 0.95 0 1 0.5 0.01
+          |//@param3:xpos 'x position' 0 0 1 0.5 0.01
+          |//@param4:border 'border' 0 0 1 0.5 0.01
+          |//@param5:fgc 'text bright' 1.0 0 1 0.5 0.01
+          |//@param6:fga 'text alpha' 1.0 0 1 0.5 0.01
+          |//@param7:bgc 'bg bright' 0.75 0 1 0.5 0.01
+          |//@param8:bga 'bg alpha' 0.5 0 1 0.5 0.01
+          |
+          |input = 0;
+          |!project_wh_valid && input_info(input,w,h) ? ( project_w=w; project_h=h; );
+          |gfx_blit(input,1);
+          |gfx_setfont(size*project_h,font);
+          |gfx_str_measure(text,txtw,txth);
+          |yt = (project_h- txth*(1+border*2))*ypos;
+          |gfx_set(bgc,bgc,bgc,bga);
+          |gfx_fillrect(0, yt, project_w, txth*(1+border*2));
+          |gfx_set(fgc,fgc,fgc,fga);
+          |gfx_str_draw(text,xpos * (project_w-txtw),yt+txth*border);
+        >
+        CODEPARM 0.0600000000 0.4500000000 0.5500000000 0.0000000000 0.5600000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000
+      >
+      FLOATPOS 0 0 0 0
+      FXID {963E7B54-3F47-D445-AB27-D6DB04C83310}
+      <PARMENV 5 0 1 0.5
+        ACT 1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 1
+        DEFSHAPE 0 -1 -1
+        PT 0 0 0
+        PT 84 0 0
+        PT 84.5 1 0
+        PT 86.54472114 1 0 0 1
+        PT 87.04472114 0 0 0 1
+        PT 159.556667 0 0
+      >
+      WAK 0
+    >
+    <ITEM
+      POSITION 7.5
+      SNAPOFFS 0
+      LENGTH 15
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 1.370116 0 1 0 0
+      FADEOUT 1 0.988483 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3DC2ED63-D695-9840-9280-C1FF496F8BC3}
+      IID 1
+      NAME Beardy_Gameplay_1.mov
+      VOLPAN 1 0 1 -1
+      SOFFS 21.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {32482068-B75E-5947-BDAE-B380E8CD24A3}
+      <SOURCE VIDEO
+        FILE "MediaFiles/Beardy_Gameplay_1.mov"
+      >
+    >
+    <ITEM
+      POSITION 25.5
+      SNAPOFFS 0
+      LENGTH 17
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.93185 0 1 0 0
+      FADEOUT 1 1.042569 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E7A99693-6EA9-4640-9809-52414AEE3457}
+      IID 1
+      NAME Beardy_Gameplay_1.mov
+      VOLPAN 1 0 1 -1
+      SOFFS 56.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {80A8447C-15BC-7046-87C1-0419492A2777}
+      <SOURCE VIDEO
+        FILE "MediaFiles/Beardy_Gameplay_1.mov"
+      >
+    >
+    <ITEM
+      POSITION 42.5
+      SNAPOFFS 0
+      LENGTH 11.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.703891 0 1 0 0
+      FADEOUT 1 1.41561 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3546ED4B-BB9D-8744-A41B-62CC6EAEBFA8}
+      IID 1
+      NAME Beardy_Gameplay_1.mov
+      VOLPAN 1 0 1 -1
+      SOFFS 77.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6F6FA118-C04B-CC49-B68D-F53AC3FCB23F}
+      <SOURCE VIDEO
+        FILE "MediaFiles/Beardy_Gameplay_1.mov"
+      >
+    >
+    <ITEM
+      POSITION 54
+      SNAPOFFS 0
+      LENGTH 30.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 1.168023 0 1 0 0
+      FADEOUT 1 0.557608 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {58C45AE1-A1F2-0A47-8264-79D7FEA2DFDD}
+      IID 1
+      NAME Beardy_Gameplay_1.mov
+      VOLPAN 1 0 1 -1
+      SOFFS 107
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7935596E-F703-7541-AD13-D7EC9DF62A0D}
+      <SOURCE VIDEO
+        FILE "MediaFiles/Beardy_Gameplay_1.mov"
+      >
+    >
+    <ITEM
+      POSITION 86.5
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.70346 0 1 0 0
+      FADEOUT 1 0.549873 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FB4AFFBE-6B26-9F4F-BBD9-FB631BA1F143}
+      IID 22
+      NAME Beardy_Street_1.mov
+      VOLPAN 1 0 3.981072 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {937EBE6A-6CAC-6742-AE60-4FE7CD66C2E6}
+      <SOURCE VIDEO
+        FILE "MediaFiles/Beardy_Street_1.mov"
+      >
+    >
+    <ITEM
+      POSITION 94
+      SNAPOFFS 0
+      LENGTH 48
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.562902 0 1 0 0
+      FADEOUT 1 0.575477 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4B754BD0-1514-D849-AF6A-F472F0B52E81}
+      IID 25
+      NAME Beardy_Garage_1.mov
+      VOLPAN 1 0 1.995262 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CF321DCE-C695-094F-8F48-80BB824EC9EE}
+      <SOURCE VIDEO
+        FILE "MediaFiles/Beardy_Garage_1.mov"
+      >
+    >
+  >
+  <TRACK {2166F5DB-37F9-D945-B9BC-B4158FCBCA85}
+    NAME tdOutside1
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.28937191492725 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2166F5DB-37F9-D945-B9BC-B4158FCBCA85}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 8.88043604646297
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.468785 0 1 0 0
+      FADEOUT 1 0.938448 0 1 0 0
+      MUTE 0
+      SEL 1
+      IGUID {EBA7F62B-BC67-4E48-8D22-A591D1A965B2}
+      IID 28
+      NAME tdInside1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A3BE1A03-2D6B-EE48-89D8-F97447165525}
+      <SOURCE WAVE
+        FILE "MediaFiles/tdInside1.wav"
+      >
+    >
+  >
+  <EXTENSIONS
+  >
+>
