@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "5.40/OSX64" 1500631292
+<REAPER_PROJECT 0.1 "5.40/OSX64" 1501773058
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -13,8 +13,8 @@
   TIMEMODE 1 5 -1 30 0
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0
-  ZOOM 100 0 0
+  CURSOR 28
+  ZOOM 57.8703703703704 812 0
   VZOOMEX 6
   USE_REC_CFG 0
   RECMODE 1
@@ -40,7 +40,7 @@
   ITEMMIX 0
   DEFPITCHMODE 589824
   TAKELANE 1
-  SAMPLERATE 44100 0 0
+  SAMPLERATE 48000 0 0
   <RENDER_CFG
     UE1GRgMAAAAAAAAAAAgAAAMAAACAAAAAgAcAADgEAAAAAPBBAQAAAF8AAAA=
   >
@@ -107,20 +107,37 @@
     MIDIOUT -1
     MAINSEND 1 0
     <FXCHAIN
-      WNDRECT 461 833 989 627
+      WNDRECT 0 4 2048 1125
       SHOW 0
-      LASTSEL 0
+      LASTSEL 4
       DOCKED 0
       BYPASS 0 0 0
       <VIDEO_EFFECT "Video processor" ""
         <CODE
+          |// auto-item vol/fade for video
+          |input_track(0) > 0 || input_count() == 0 ? (
+          |  ta=0;
+          |  input_info(0,w,h,0,ta);
+          |  ta < 1 ? gfx_blit(input_next_item(0),1);
+          |  ta > 0 ? (
+          |    gfx_a=ta;
+          |    gfx_blit(0,1);
+          |  )
+          |);
+        >
+        CODEPARM 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000
+      >
+      FLOATPOS 0 0 0 0
+      FXID {28883869-25D9-644B-8DF7-327C8FFCDD5F}
+      WAK 0
+      BYPASS 0 0 0
+      <VIDEO_EFFECT "Video processor" ""
+        <CODE
           |// Title text overlay
-          |text="Звук в этой демо сцене генерируется в реальном времени.
-          |Позиционирование в пространстве источников звука и реверберационная 
-          |зона вокруг слушателя непрерывно пересчитываются в зависимости от игрового окружения.
-          |Звуки так же генерируются в реальном времени, нет никаких предзаписанных сэмплов.
-          |В основе всего звука лежит белый шум и немного синтеза в его вариациях.
-          |Использованы: Unity3d, Csound, Csound wrapper for Unity3d (by Rory Walsh)";
+          |text="Демо-сцена алгоритмической генерации звука
+          |
+          |
+          |        Algorithmic generation of game sound";
           |font="Arial";
           |
           |//@param1:size 'text height' 0.05 0.01 0.2 0.1 0.01
@@ -143,10 +160,197 @@
           |gfx_set(fgc,fgc,fgc,fga);
           |gfx_str_draw(text,xpos * (project_w-txtw),yt+txth*border);
         >
-        CODEPARM 0.0400000000 0.9500000000 0.0000000000 0.0000000000 1.0000000000 1.0000000000 0.0000000000 0.5000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000
+        CODEPARM 0.0600000000 0.5000000000 0.5000000000 0.0000000000 1.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000
+      >
+      FLOATPOS 0 0 0 0
+      FXID {C2DB532B-E69F-5849-9FF3-953B089DE123}
+      <PARMENV 5 0 1 0.5
+        ACT 1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 1
+        DEFSHAPE 0 -1 -1
+        PT 0 0 0
+        PT 0.5 0.995 0
+        PT 3 1 0
+        PT 3.5 0 0
+      >
+      WAK 0
+      BYPASS 0 0 0
+      <VIDEO_EFFECT "Video processor" ""
+        <CODE
+          |// Title text overlay
+          |
+          |/*Позиционирование в пространстве источников звука и реверберационная 
+          |зона вокруг слушателя непрерывно пересчитываются в зависимости от игрового окружения.
+          |Звуки так же генерируются в реальном времени, нет никаких предзаписанных сэмплов.
+          |В основе всего звука лежит белый шум и немного синтеза в его вариациях.
+          |Использованы: Unity3d, Csound, Csound wrapper for Unity3d (by Rory Walsh)
+          |*/
+          |text="               Звук генерируется в реальном времени,
+          |
+          |то есть не использовано никаких предзаписанных сэмплов.
+          |
+          |
+          |
+          |
+          |
+          |        Real-time generated sound, no pre-recorded samples.";
+          |        
+          |font="Arial";
+          |
+          |//@param1:size 'text height' 0.05 0.01 0.2 0.1 0.01
+          |//@param2:ypos 'y position' 0.95 0 1 0.5 0.01
+          |//@param3:xpos 'x position' 0 0 1 0.5 0.01
+          |//@param4:border 'border' 0 0 1 0.5 0.01
+          |//@param5:fgc 'text bright' 1.0 0 1 0.5 0.01
+          |//@param6:fga 'text alpha' 1.0 0 1 0.5 0.01
+          |//@param7:bgc 'bg bright' 0.75 0 1 0.5 0.01
+          |//@param8:bga 'bg alpha' 0.5 0 1 0.5 0.01
+          |
+          |input = 0;
+          |!project_wh_valid && input_info(input,w,h) ? ( project_w=w; project_h=h; );
+          |gfx_blit(input,1);
+          |gfx_setfont(size*project_h,font);
+          |gfx_str_measure(text,txtw,txth);
+          |yt = (project_h- txth*(1+border*2))*ypos;
+          |gfx_set(bgc,bgc,bgc,bga);
+          |gfx_fillrect(0, yt, project_w, txth*(1+border*2));
+          |gfx_set(fgc,fgc,fgc,fga);
+          |gfx_str_draw(text,xpos * (project_w-txtw),yt+txth*border);
+        >
+        CODEPARM 0.0400000000 0.4500000000 0.4700000000 0.0000000000 1.0000000000 1.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000
       >
       FLOATPOS 0 0 0 0
       FXID {C51D2DF5-6BCA-704A-9707-AA7CB5AF35E8}
+      <PARMENV 5 0 1 0.5
+        ACT 1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 1
+        DEFSHAPE 0 -1 -1
+        PT 0 0 0
+        PT 3.02 0 0
+        PT 3.5 1 0
+        PT 7.5 1 0
+        PT 8 0 0 0 1
+      >
+      WAK 0
+      BYPASS 0 0 0
+      <VIDEO_EFFECT "Video processor" ""
+        <CODE
+          |// Title text overlay
+          |
+          |/*Позиционирование в пространстве источников звука и реверберационная 
+          |зона вокруг слушателя непрерывно пересчитываются в зависимости от игрового окружения.
+          |Звуки так же генерируются в реальном времени, нет никаких предзаписанных сэмплов.
+          |В основе всего звука лежит белый шум и немного синтеза в его вариациях.
+          |Использованы: Unity3d, Csound, Csound wrapper for Unity3d (by Rory Walsh)
+          |*/
+          |text="Пространственное позиционирование звука
+          |
+          |        благодаря алгоритму амбисоникс.
+          |
+          |
+          |
+          |
+          |  3D spatial sound using ambisonics algorythm";
+          |        
+          |font="Arial";
+          |
+          |//@param1:size 'text height' 0.05 0.01 0.2 0.1 0.01
+          |//@param2:ypos 'y position' 0.95 0 1 0.5 0.01
+          |//@param3:xpos 'x position' 0 0 1 0.5 0.01
+          |//@param4:border 'border' 0 0 1 0.5 0.01
+          |//@param5:fgc 'text bright' 1.0 0 1 0.5 0.01
+          |//@param6:fga 'text alpha' 1.0 0 1 0.5 0.01
+          |//@param7:bgc 'bg bright' 0.75 0 1 0.5 0.01
+          |//@param8:bga 'bg alpha' 0.5 0 1 0.5 0.01
+          |
+          |input = 0;
+          |!project_wh_valid && input_info(input,w,h) ? ( project_w=w; project_h=h; );
+          |gfx_blit(input,1);
+          |gfx_setfont(size*project_h,font);
+          |gfx_str_measure(text,txtw,txth);
+          |yt = (project_h- txth*(1+border*2))*ypos;
+          |gfx_set(bgc,bgc,bgc,bga);
+          |gfx_fillrect(0, yt, project_w, txth*(1+border*2));
+          |gfx_set(fgc,fgc,fgc,fga);
+          |gfx_str_draw(text,xpos * (project_w-txtw),yt+txth*border);
+        >
+        CODEPARM 0.0400000000 0.4500000000 0.4700000000 0.0000000000 1.0000000000 1.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000
+      >
+      FLOATPOS 0 0 0 0
+      FXID {05C9989D-579E-924B-9572-CDFDF4E78431}
+      <PARMENV 5 0 1 0.5
+        ACT 1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 1
+        DEFSHAPE 0 -1 -1
+        PT 0 0 0
+        PT 7.5 0 0
+        PT 8 1 0
+        PT 12 1 0
+        PT 12.5 0 0
+      >
+      WAK 0
+      BYPASS 0 0 0
+      <VIDEO_EFFECT "Video processor" ""
+        <CODE
+          |// Title text overlay
+          |
+          |/*Позиционирование в пространстве источников звука и реверберационная 
+          |зона вокруг слушателя непрерывно пересчитываются в зависимости от игрового окружения.
+          |Звуки так же генерируются в реальном времени, нет никаких предзаписанных сэмплов.
+          |В основе всего звука лежит белый шум и немного синтеза в его вариациях.
+          |Использованы: Unity3d, Csound, Csound wrapper for Unity3d (by Rory Walsh)
+          |*/
+          |text="Реверберация просчитывается в зависимости от геометрии текущего окружения.
+          |
+          |
+          |
+          |
+          |            Reverb parameters calculated in depending of current environment";
+          |        
+          |font="Arial";
+          |
+          |//@param1:size 'text height' 0.05 0.01 0.2 0.1 0.01
+          |//@param2:ypos 'y position' 0.95 0 1 0.5 0.01
+          |//@param3:xpos 'x position' 0 0 1 0.5 0.01
+          |//@param4:border 'border' 0 0 1 0.5 0.01
+          |//@param5:fgc 'text bright' 1.0 0 1 0.5 0.01
+          |//@param6:fga 'text alpha' 1.0 0 1 0.5 0.01
+          |//@param7:bgc 'bg bright' 0.75 0 1 0.5 0.01
+          |//@param8:bga 'bg alpha' 0.5 0 1 0.5 0.01
+          |
+          |input = 0;
+          |!project_wh_valid && input_info(input,w,h) ? ( project_w=w; project_h=h; );
+          |gfx_blit(input,1);
+          |gfx_setfont(size*project_h,font);
+          |gfx_str_measure(text,txtw,txth);
+          |yt = (project_h- txth*(1+border*2))*ypos;
+          |gfx_set(bgc,bgc,bgc,bga);
+          |gfx_fillrect(0, yt, project_w, txth*(1+border*2));
+          |gfx_set(fgc,fgc,fgc,fga);
+          |gfx_str_draw(text,xpos * (project_w-txtw),yt+txth*border);
+        >
+        CODEPARM 0.0400000000 0.4700000000 0.4700000000 0.0000000000 1.0000000000 1.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000
+      >
+      FLOATPOS 0 0 0 0
+      FXID {62DFA841-00C4-D342-A894-7AB6F24167BE}
+      <PARMENV 5 0 1 0.5
+        ACT 1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 1
+        DEFSHAPE 0 -1 -1
+        PT 0 0 0
+        PT 25.5 0 0
+        PT 26 1 0
+        PT 30 1 0
+        PT 30.5 0 0 0 1
+      >
       WAK 0
       BYPASS 0 0 0
       <VST "VST: FabFilter Pro-MB (FabFilter)" "FabFilter Pro-MB.vst" 0 "" 1179667810
@@ -165,10 +369,10 @@
       FXID {849C34EA-4327-CE40-943F-8B527E194AED}
       WAK 0
       BYPASS 0 0 0
-      <VST "VST: L1 limiter Stereo (Waves)" "WaveShell-VST 9.3.vst" 0 "" 1278296915
+      <VST "VST: L1 limiter Stereo (Waves)" "WaveShell-VST 9.2.vst" 0 "" 1278296915
         U0MxTO5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAPQIAAAEAAAAAABAA
         AAACPQAAAAMAAAABTDFDU3NldEEAAAIdWFBzdDxQcmVzZXRDaHVua1hNTFRyZWUgdmVyc2lvbj0iMiI+Cgk8UHJlc2V0IE5hbWU9IiIgR2VuZXJpY1R5cGU9IkwxICAi
-        PgoJCTxQcmVzZXRIZWFkZXI+CgkJCTxQbHVnaW5OYW1lPkwxPC9QbHVnaW5OYW1lPgoJCQk8UGx1Z2luVmVyc2lvbj45LjMuMDwvUGx1Z2luVmVyc2lvbj4KCQkJPEFj
+        PgoJCTxQcmVzZXRIZWFkZXI+CgkJCTxQbHVnaW5OYW1lPkwxPC9QbHVnaW5OYW1lPgoJCQk8UGx1Z2luVmVyc2lvbj45LjEuMDwvUGx1Z2luVmVyc2lvbj4KCQkJPEFj
         dGl2ZVNldHVwPlNFVFVQX0E8L0FjdGl2ZVNldHVwPgoJCQk8UmVhZE9ubHk+dHJ1ZTwvUmVhZE9ubHk+CgkJPC9QcmVzZXRIZWFkZXI+CgkJPE1lc3NhZ2VUb1NoZWxs
         Lz4KCQk8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQSI+CgkJCTxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+MSAtMTAgLTEgKiAqICogKiAqIDAgMAowIDEgMSAw
         IDwvUGFyYW1ldGVycz4KCQk8L1ByZXNldERhdGE+CgkJPFByZXNldERhdGEgU2V0dXA9IlNFVFVQX0IiPgoJCQk8UGFyYW1ldGVycyBUeXBlPSJSZWFsV29ybGQiPjEg
@@ -179,10 +383,10 @@
       FXID {51910C57-4556-F748-9710-A1AADF6A75AE}
       WAK 0
       BYPASS 0 0 0
-      <VST "VST: H-EQ Stereo (Waves)" "WaveShell-VST 9.3.vst" 0 "" 1212502355
+      <VST "VST: H-EQ Stereo (Waves)" "WaveShell-VST 9.2.vst" 0 "" 1212502355
         U1FFSO5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAQAkAAAEAAAAAABAA
         AAAJQAAAAAMAAAABSEVRU3NldEEAAAkgWFBzdDxQcmVzZXRDaHVua1hNTFRyZWUgdmVyc2lvbj0iMiI+Cgk8UHJlc2V0IE5hbWU9IiIgR2VuZXJpY1R5cGU9IkgtRVEi
-        PgoJCTxQcmVzZXRIZWFkZXI+CgkJCTxQbHVnaW5OYW1lPkgtRVE8L1BsdWdpbk5hbWU+CgkJCTxQbHVnaW5WZXJzaW9uPjkuMy4wPC9QbHVnaW5WZXJzaW9uPgoJCQk8
+        PgoJCTxQcmVzZXRIZWFkZXI+CgkJCTxQbHVnaW5OYW1lPkgtRVE8L1BsdWdpbk5hbWU+CgkJCTxQbHVnaW5WZXJzaW9uPjkuMS4wPC9QbHVnaW5WZXJzaW9uPgoJCQk8
         QWN0aXZlU2V0dXA+U0VUVVBfQTwvQWN0aXZlU2V0dXA+CgkJCTxSZWFkT25seT50cnVlPC9SZWFkT25seT4KCQk8L1ByZXNldEhlYWRlcj4KCQk8TWVzc2FnZVRvU2hl
         bGwvPgoJCTxQcmVzZXREYXRhIFNldHVwPSJTRVRVUF9BIj4KCQkJPFBhcmFtZXRlcnMgVHlwZT0iUmVhbFdvcmxkIj4wLjQwMDAwMDAwMDAwMDAwMDAyMjIgMSAwIDMu
         NzAwMDAwMDAwMDAwMDAwMTc3NiAwIDMuNzAwMDAwMDAwMDAwMDAwMTc3NiAwIDAgKiAqCiogMCAwIDAgMzAgNzUgMS41IDIuNSAwCiogKiAqICogMCAwIDAgMCAwCjAg
@@ -192,9 +396,9 @@
         IDUwCjAgMCAwIDAgMCAxMiA5MTAwIDUgMTIwMAozNzUwIDQ1NTAgNDcwMCAzLjA4OTk5OTk5OTk5OTk5OTg1NzkgMy41IDEwMCAyNCAxNDAwIDEwODAKMTQwMCAxMDgw
         IDE0MDAgMTA4MCAxNDAwIDExMzAgMzIuNSAyNCAwCjEgLTg4IC0xNi41IDEwOSAwLjcwODk5OTk5OTk5OTk5OTk2MzU4IDggMiAwICoKKiAwIDEgMSAwIDEwICogKiAq
         CjE5OSAwICogKiAxIDEgMSAtOTggMzAKMjAwIC0xMi4xOTk5OTk5OTk5OTk5OTkyODkgMTExMjQgLTk4IDAgLTI5LjUgMTI1LjI5OTk5OTk5OTk5OTk5NzE2IDIyLjMw
-        MDAwMDAwMDAwMDAwMDcxMSAyNTAKMCA4ODc3Ljg5OTk5OTk5OTk5OTYzNjIgNy4wOTk5OTk5OTk5OTk5OTk2NDQ3IDAgLTIwLjEwMDAwMDAwMDAwMDAwMTQyMSAwIDE2
+        MDAwMDAwMDAwMDAwMDcxMSAyNTAKMCA4ODc3Ljg5OTk5OTk5OTk5NTk5ODIgNy4wOTk5OTk5OTk5OTk5OTk2NDQ3IDAgLTIwLjEwMDAwMDAwMDAwMDAwMTQyMSAwIDE2
         IDAgMTcwMjYuMjk5OTk5OTk5OTk5MjcyCjAgMCAwIDAgLTI5LjUgMTI1LjI5OTk5OTk5OTk5OTk5NzE2IDIyLjMwMDAwMDAwMDAwMDAwMDcxMSAyNTAgMAo4ODc3Ljg5
-        OTk5OTk5OTk5OTYzNjIgNy4wOTk5OTk5OTk5OTk5OTk2NDQ3IDAgLTIwLjEwMDAwMDAwMDAwMDAwMTQyMSAtMTQwIDAgMCAwIDEKMCAwIDAgMSAxIDEgMSAwICoKKiA8
+        OTk5OTk5OTk5NTk5ODIgNy4wOTk5OTk5OTk5OTk5OTk2NDQ3IDAgLTIwLjEwMDAwMDAwMDAwMDAwMTQyMSAtMTQwIDAgMCAwIDEKMCAwIDAgMSAxIDEgMSAwICoKKiA8
         L1BhcmFtZXRlcnM+CgkJPC9QcmVzZXREYXRhPgoJCTxQcmVzZXREYXRhIFNldHVwPSJTRVRVUF9CIj4KCQkJPFBhcmFtZXRlcnMgVHlwZT0iUmVhbFdvcmxkIj4wLjQw
         MDAwMDAwMDAwMDAwMDAyMjIgMSAwIDAgMCAwIDAgMCAqICoKKiAwIDAgMCAzMCA3NSAxLjUgMi41IDAKKiAqICogKiAwIDAgMCAwIDAKMCAwIDAgMCAwIDEgMSAxIDEK
         MSAwIDAgMSAxIDEgMSAxIDAKMCAwIDAgMCAwIDAgMCAwIDAKMCAwIDAgMCAwIDAgMCAxMDAgMAoxMDAgMSAxIDg3IDg3IDQ5NCA0OTQgOTg4IDk4OAozNTIwIDM1MjAg
@@ -202,10 +406,10 @@
         MAowIDAgMCAwIDAgMTIgOTEwMCA1IDEyMDAKMzc1MCA0NTUwIDQ3MDAgMy4wODk5OTk5OTk5OTk5OTk4NTc5IDMuNSAxMDAgMjQgMTQwMCAxMDgwCjE0MDAgMTA4MCAx
         NDAwIDEwODAgMTQwMCAxMTMwIDMyLjUgMjQgMAoxIC04OCAtMTYuNSAxMDkgMC43MDg5OTk5OTk5OTk5OTk5NjM1OCA4IDIgMCAqCiogMCAxIDEgMCAxMCAqICogKgox
         OTkgMCAqICogMSAxIDEgLTk4IDMwCjIwMCAtMTIuMTk5OTk5OTk5OTk5OTk5Mjg5IDExMTI0IC05OCAwIC0yOS41IDEyNS4yOTk5OTk5OTk5OTk5OTcxNiAyMi4zMDAw
-        MDAwMDAwMDAwMDA3MTEgMjUwCjAgODg3Ny44OTk5OTk5OTk5OTk2MzYyIDcuMDk5OTk5OTk5OTk5OTk5NjQ0NyAwIC0yMC4xMDAwMDAwMDAwMDAwMDE0MjEgMCAxNiAw
+        MDAwMDAwMDAwMDA3MTEgMjUwCjAgODg3Ny44OTk5OTk5OTk5OTU5OTgyIDcuMDk5OTk5OTk5OTk5OTk5NjQ0NyAwIC0yMC4xMDAwMDAwMDAwMDAwMDE0MjEgMCAxNiAw
         IDE3MDI2LjI5OTk5OTk5OTk5OTI3MgowIDAgMCAwIC0yOS41IDEyNS4yOTk5OTk5OTk5OTk5OTcxNiAyMi4zMDAwMDAwMDAwMDAwMDA3MTEgMjUwIDAKODg3Ny44OTk5
-        OTk5OTk5OTk2MzYyIDcuMDk5OTk5OTk5OTk5OTk5NjQ0NyAwIC0yMC4xMDAwMDAwMDAwMDAwMDE0MjEgLTE0MCAwIDAgMCAxCjAgMCAwIDEgMSAxIDEgMCAqCiogPC9Q
-        YXJhbWV0ZXJzPgoJCTwvUHJlc2V0RGF0YT4KCTwvUHJlc2V0Pgo8L1ByZXNldENodW5rWE1MVHJlZT4KN2ujXQ==
+        OTk5OTk5OTU5OTgyIDcuMDk5OTk5OTk5OTk5OTk5NjQ0NyAwIC0yMC4xMDAwMDAwMDAwMDAwMDE0MjEgLTE0MCAwIDAgMCAxCjAgMCAwIDEgMSAxIDEgMCAqCiogPC9Q
+        YXJhbWV0ZXJzPgoJCTwvUHJlc2V0RGF0YT4KCTwvUHJlc2V0Pgo8L1ByZXNldENodW5rWE1MVHJlZT4KAAAAAA==
         AAAQAAAA
       >
       FLOATPOS 0 0 0 0
@@ -213,13 +417,13 @@
       WAK 0
     >
     <ITEM
-      POSITION 0
+      POSITION 12
       SNAPOFFS 0
-      LENGTH 140.621333
+      LENGTH 14
       LOOP 1
       ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
+      FADEIN 1 1.01 0 1 0 0
+      FADEOUT 1 0.98 0 1 0 0
       MUTE 0
       SEL 0
       IGUID {87055843-338A-7549-AA36-F72B2CCC186F}
@@ -233,6 +437,212 @@
       <SOURCE VIDEO
         FILE "MediaFiles/TheReward.mov"
       >
+    >
+    <ITEM
+      POSITION 30
+      SNAPOFFS 0
+      LENGTH 125.621333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.9312 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E9A016DF-800C-AD43-BBEF-F5FC3FE27BA9}
+      IID 1
+      NAME TheReward.mov
+      VOLPAN 1 0 1 -1
+      SOFFS 15
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C0F6C3CF-8445-8244-BF81-F0B0A2504A2B}
+      <SOURCE VIDEO
+        FILE "MediaFiles/TheReward.mov"
+      >
+    >
+  >
+  <TRACK {E6576E0E-1B33-FC42-B347-8D6F96A96899}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.33398278328423 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E6576E0E-1B33-FC42-B347-8D6F96A96899}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 448 689 529 351
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 1 0 0
+      <VST "VSTi: FractalNoise (CabbageAudio)" FractalNoise.vst 0 "" 1702063718
+        Zm5zZe5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAACHAAAAAQAAAAAAEAA=
+        VkMyIX4AAAA8Q0FCQkFHRV9QTFVHSU5fU0VUVElOR1Mgb25vZmY9IjEiIGFtcD0iMC4xMDAwMDAwMDE0OTAxMTYxMTkzOCIgYmV0YT0iMC43NTQzODU5NDgxODExNTIz
+        NDM3NSIgd2lkdGg9IjAuOTk5OTk5OTQwMzk1MzU1MjI0NjEiLz4A
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {160AE5C5-6228-9240-99BD-1ABC03FA370A}
+      <PARMENV 2 0 1 0.5
+        ACT 1
+        VIS 0 1 1
+        LANEHEIGHT 0 0
+        ARM 1
+        DEFSHAPE 0 -1 -1
+        PT -0.41472 0.63114291 0
+        PT -0.38016 1 0
+        PT -0.0864 1 0
+        PT -0.05184 0.87719298 0
+        PT -0.01728 0.85964912 0
+        PT 0.01728 0.85964912 0
+        PT 0.12096 0.78947368 0
+        PT 0.1728 0.78947368 0
+        PT 0.24192 0.75438596 0
+        PT 0.2592 0.75438596 0
+        PT 0.29376 0.73684211 0
+        PT 0.3456 0.68421053 0
+        PT 0.36288 0.61403509 0
+        PT 0.50112 0.61403509 0
+        PT 0.53568 0.59649123 0
+        PT 0.55296 0.59649123 0
+        PT 0.67392 0.57894737 0
+        PT 0.72576 0.56140351 0
+        PT 0.79488 0.56140351 0
+        PT 0.82944 0.54385965 0
+        PT 0.88128 0.54385965 0
+        PT 0.89856 0.50877193 0
+        PT 0.91584 0.50877193 0
+        PT 0.9504 0.47368421 0
+        PT 0.96768 0.47368421 0
+        PT 0.98496 0.49122807 0
+        PT 1.05408 0.49122807 0
+        PT 1.08864 0.52631579 0
+        PT 1.1232 0.54385965 0
+        PT 1.17504 0.54385965 0
+        PT 1.2096 0.56140351 0
+        PT 1.296 0.56140351 0
+        PT 1.33056 0.57894737 0
+        PT 1.36512 0.57894737 0
+        PT 1.43424 0.61403509 0
+        PT 1.48608 0.63157895 0
+        PT 1.91808 0.63157895 0
+        PT 1.93536 0.64912281 0
+        PT 2.03904 0.66666667 0
+        PT 2.09088 0.66666667 0
+        PT 2.10816 0.68421053 0
+        PT 2.21184 0.68421053 0
+        PT 2.47104 0.70175439 0
+        PT 2.57472 0.73684211 0
+        PT 2.64384 0.75438596 0
+        PT 2.69568 0.75438596 0
+        PT 2.73024 0.75438596 0
+        PT 2.78208 0.75438596 0
+        PT 2.81664 0.79919028 0
+        PT 3.09312 0.8245614 0
+        PT 3.2832 0.85964912 0
+        PT 3.74976 0.85964912 0
+        PT 4.19904 0.80701754 0
+        PT 4.28544 0.80701754 0
+        PT 4.38912 0.78947368 0
+        PT 4.5792 0.77192982 0
+        PT 4.71744 0.73684211 0
+        PT 4.8384 0.7 0
+        PT 4.87296 0.71929825 0
+        PT 4.9248 0.68421053 0
+        PT 4.95936 0.66666667 0
+        PT 4.97664 0.64912281 0
+        PT 4.99392 0.64912281 0
+        PT 5.0112 0.63157895 0
+        PT 5.08032 0.59649123 0
+        PT 5.11488 0.56140351 0
+        PT 5.184 0.50877193 0
+        PT 5.25312 0.49122807 0
+        PT 5.2704 0.47368421 0
+        PT 5.39136 0.47368421 0
+        PT 5.40864 0.43859649 0
+        PT 5.4432 0.42105263 0
+        PT 5.47776 0.42105263 0
+        PT 5.51232 0.40350877 0
+        PT 5.59872 0.40350877 0
+        PT 5.7024 0.43859649 0
+        PT 5.73696 0.43859649 0
+        PT 5.82336 0.49122807 0
+        PT 5.99616 0.50877193 0
+        PT 6.15168 0.50877193 0
+        PT 6.16896 0.52631579 0
+        PT 6.23808 0.52631579 0
+        PT 6.34176 0.56140351 0
+        PT 6.41088 0.56140351 0
+        PT 6.48 0.5754386 0
+        PT 6.54912 0.61403509 0
+        PT 6.75648 0.61403509 0
+        PT 6.98112 0.63157895 0
+        PT 7.05024 0.63157895 0
+        PT 7.0848 0.72587719 0
+        PT 7.13664 0.71929825 0
+        PT 7.6032 0.71929825 0
+        PT 7.776 0.70175439 0 0 1
+        PT 8.74368 0.70175439 0 0 1
+        PT 8.8128 0.64912281 0 0 1
+        PT 8.8992 0.61403509 0 0 1
+        PT 9.1584 0.56140351 0 0 1
+        PT 9.17568 0.54385965 0 0 1
+        PT 9.504 0.52631579 0 0 1
+        PT 9.62496 0.52631579 0 0 1
+        PT 9.7632 0.54385965 0 0 1
+        PT 10.0224 0.54385965 0 0 1
+        PT 10.05696 0.56140351 0 0 1
+        PT 10.16064 0.57894737 0 0 1
+        PT 10.26432 0.61403509 0 0 1
+        PT 10.55808 0.64912281 0 0 1
+        PT 10.59264 0.66666667 0 0 1
+        PT 10.64448 0.68421053 0 0 1
+        PT 10.7136 0.70175439 0 0 1
+        PT 10.76544 0.71929825 0 0 1
+        PT 10.8864 0.73684211 0 0 1
+        PT 11.0592 0.73684211 0 0 1
+        PT 11.09376 0.75438596 0 0 1
+        PT 11.21472 0.75438596 0 0 1
+        PT 11.232 0.73684211 0 0 1
+        PT 11.26656 0.75438596 0 0 1
+        PT 11.80224 0.75438596 0
+        PT 11.94048 0.77192982 0
+        PT 12.11328 0.77192982 0
+        PT 12.14784 0.84210526 0
+        PT 12.1824 0.92982456 0
+        PT 12.19968 1 0
+        PT 14.89536 1 0
+        PT 14.92992 0.63114291 0
+      >
+      <PARMENV 4:bypass 0 1 0.5
+        ACT 1
+        VIS 0 1 1
+        LANEHEIGHT 0 0
+        ARM 1
+        DEFSHAPE 1 -1 -1
+        PT -3.2832 1 1 0 1
+        PT -3.24864 0 1 0 1
+        PT -3.23136 0 1 0 1
+        PT -3.1968 0 1 0 1
+        PT 11.94048 1 1 0 1
+        PT 22.0005 1 1
+      >
+      WAK 0
     >
   >
   <EXTENSIONS
