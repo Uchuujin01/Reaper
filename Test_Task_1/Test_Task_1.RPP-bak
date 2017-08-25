@@ -1,0 +1,5315 @@
+<REAPER_PROJECT 0.1 "5.40/OSX64" 1503624704
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 976
+  ZOOM 10.47447055298353 9407 0
+  VZOOMEX 6
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 1
+  LOOPGRAN 0 4
+  RECORD_PATH "MediaFiles" ""
+  <RECORD_CFG
+    ZXZhdxgAAA==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "/Users/antonkuznecov/Documents/FMOD Designer/Test_Task_1/Source/panzer_tracks_stop.wav"
+  RENDER_FMT 0 1 0
+  RENDER_1X 0
+  RENDER_RANGE 4 0 0 2 1000
+  RENDER_RESAMPLE 8 3 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 32
+  RENDER_DITHER 0
+  TIMELOCKMODE 0
+  TEMPOENVLOCKMODE 0
+  ITEMMIX 0
+  DEFPITCHMODE 589824
+  TAKELANE 1
+  SAMPLERATE 48000 1 0
+  <RENDER_CFG
+    ZXZhdxgAAA==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 1024 1053
+  SELECTION2 1024 1053
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERFXLIST
+    WNDRECT 32 710 724 387
+    SHOW 0
+    LASTSEL 0
+    DOCKED 0
+  >
+  <MASTERPLAYSPEEDENV
+    ACT 0
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 0
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  MARKER 1 18 1 0 0 1 B
+  MARKER 9 98.005 2 0 0 1 B
+  MARKER 3 110 4 0 0 1 B
+  MARKER 5 146 2 0 0 1 B
+  MARKER 10 154 2 0 0 1 B
+  MARKER 4 192 3 0 0 1 B
+  MARKER 14 212 "tracks stop" 0 0 1 B
+  MARKER 11 276 4 0 0 1 B
+  MARKER 2 284 5 0 0 1 B
+  MARKER 6 334 6 0 0 1 B
+  MARKER 13 357 "tracks stop" 0 0 1 B
+  MARKER 7 418 7 0 0 1 B
+  MARKER 8 440 8 0 0 1 B
+  MARKER 12 480 "tracks stop" 0 0 1 B
+  MARKER 1 728 GAS 1 0 1 B
+  MARKER 1 765.50319570761872 "" 1 0 1 B
+  MARKER 2 768 IDLING 1 23368370 1 B
+  MARKER 2 806 "" 1 23368370 1 B
+  MARKER 3 808 GEAR 1 0 1 B
+  MARKER 3 1014 "" 1 0 1 B
+  MARKER 4 1024 "TRACKS STOP" 1 0 1 B
+  MARKER 4 1053 "" 1 0 1 B
+  <PROJBAY
+  >
+  <TRACK {1F0D1EB6-6F55-9A41-B610-628D8D2DEF22}
+    NAME SOURCE
+    PEAKCOL 21664926
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 1 1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1F0D1EB6-6F55-9A41-B610-628D8D2DEF22}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {E36ABB4A-6575-6943-BD1A-AD6D6E64087A}
+    NAME EXHAUST
+    PEAKCOL 18772142
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 80 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E36ABB4A-6575-6943-BD1A-AD6D6E64087A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 797 709 300
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 14
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.05 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 22
+      IGUID {2A350B60-F658-BC42-A7C9-D0CA90FA2E81}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E298825C-0F15-9E4F-96ED-DE073B5A2652}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 14
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 50
+      IGUID {9E5CAFB0-BF7F-634C-AC46-9A2AE6A5B154}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 14
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {45CD8AB7-9000-9E4E-9692-AA37801AF690}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 18
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 23
+      IGUID {952F61A3-60B2-7143-A382-4C1CF15608C5}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 18
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8AA0BAEF-CB51-1547-8565-2A8543EF4FBF}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 26
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 27
+      IGUID {9C46A837-F175-FF49-8205-0F0B70469F66}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 26
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E5EC7877-506D-3E43-BEAE-71F9517BD109}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 34
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 94
+      IGUID {6AA3A9C5-8AA8-EE4A-977C-DA15DC4292D1}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 34
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F27768B6-3215-1549-8B13-4570F98EE46B}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 42
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 95
+      IGUID {B9B8E60B-0DC6-6147-A5F6-0AA8EE35A9DF}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 42
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CA0825AC-D782-9D4E-BDFD-D3A9878721C1}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 50
+      SNAPOFFS 0
+      LENGTH 48
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 96
+      IGUID {0CEA8C7F-92F9-4E42-8124-A9732976A9D7}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 50
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {46C5D7AF-485F-8B4D-AFBE-F3C06431E881}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 98
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 28
+      IGUID {45F5BD5F-A112-2C4D-A07B-D68652D5E74F}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 98
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {017341DA-E6B3-6548-B6B0-DCACA2765C07}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 106
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 32
+      IGUID {F00F0793-A74F-3D4E-BE6F-0F4F544BFDDB}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 106
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E1320E6D-A828-5541-A575-73A8F90FF5B2}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 110
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 33
+      IGUID {78A39690-97DD-6F41-99AD-E29521183DC7}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 110
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8C34A322-5FBC-6A49-8A03-74622A47AFDC}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 118
+      SNAPOFFS 0
+      LENGTH 28
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 35
+      IGUID {89EB94AC-AE51-3E48-926C-265C94E34AEA}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 118
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {027DD584-18E6-6C40-B8A4-DCB55EA08691}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 146
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 100
+      IGUID {26800A33-C49F-4E42-8268-52C75987501D}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 146
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B59EE356-7702-7D41-ADE0-7974B7DFB25B}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 154
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 40
+      IGUID {E6ED5232-CC12-9F4A-A4E2-B2A8F4FC1091}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 154
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D8AAA7D1-C023-0047-9433-D852C668A5CC}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 162
+      SNAPOFFS 0
+      LENGTH 11
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 41
+      IGUID {DE4E4634-594C-F34C-AC5A-208A735DC126}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 162
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0E6C30F7-267A-FD4C-9E65-B1A9A76D1747}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 173
+      SNAPOFFS 0
+      LENGTH 7
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 36
+      IGUID {CA462AC0-9395-5047-A222-3CADF946DB3C}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 173
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4CAD4CD0-8270-A94C-9255-32D5C0FFF380}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 180
+      SNAPOFFS 0
+      LENGTH 12
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 37
+      IGUID {6776D321-15EE-D44E-84EE-6F4B6FB3E31C}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 180
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4D6052D3-9CCC-EB40-8E2A-2AF986701500}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 192
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 44
+      IGUID {659487BA-33D2-0742-B135-553B9F0B757E}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 192
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2E2565E9-3839-9E49-915C-414080FCB3E0}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 200
+      SNAPOFFS 0
+      LENGTH 12
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 43
+      IGUID {D2A82C38-DCD6-8345-9407-C130B30336AF}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 200
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {899654DC-DD0D-5042-87E7-59C22A416070}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 212
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 144
+      IGUID {39DCE964-3D47-1D43-B394-9AE88AF0FD1B}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 212
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {25B22817-1D9A-1748-A9EC-A09DAAB83AC4}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 218
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 79
+      IGUID {4FF92A38-A4A7-974C-874D-B5C24FE02327}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 218
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9B3BB9E6-B7B5-624A-9E84-3003BF61C65E}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 222
+      SNAPOFFS 0
+      LENGTH 30
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 80
+      IGUID {62D2155E-600B-6B4F-BA67-0D8EEADF85D8}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 222
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1C1226C3-ECAB-614F-A4EB-49C430D0DB7F}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 252
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 52
+      IGUID {65E7CB3E-E0E4-B647-8D72-5DE655BD3DCF}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 252
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2E36D22E-4AFB-E346-9A62-F44DEDA3F37D}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 256
+      SNAPOFFS 0
+      LENGTH 20
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 54
+      IGUID {BBC24C2F-9A7B-8E4A-B0EB-92F0C0169568}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 256
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0093478E-CADA-854B-B9D9-E11AB9CC832A}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 276
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 47
+      IGUID {610DDEAB-12C4-3A4E-8F07-392E9CF0F89B}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 276
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8BB73352-7416-3D40-99AD-15BFA57FE5F7}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 284
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 48
+      IGUID {895D59BD-65D8-8E42-91CE-280AE5AD138C}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 284
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {709E4EE8-9DFD-AA41-9CC2-A67B3896EC59}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 292
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 107
+      IGUID {8F7969C9-2F7F-604F-90A1-DDA98A4BE249}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 292
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3A0B5A1A-61F8-8045-8D18-A24C67B8C499}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 300
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 108
+      IGUID {0A5769A6-7A08-7D44-8D04-11DE08984861}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 300
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D106E368-191B-284A-9D56-E414A3C8B4F2}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 308
+      SNAPOFFS 0
+      LENGTH 26
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 109
+      IGUID {17C55079-C4B1-634F-8C23-4F96D3D2D552}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 308
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F30D294A-E956-CB46-9C95-AF7E14370058}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 334
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 62
+      IGUID {93CD7302-6A62-AB4F-ACDB-3EABA63150A4}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 334
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {893C0974-7AD7-7043-B1B3-242C54FA2928}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 342
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 63
+      IGUID {9EBF8496-2538-D848-AF8C-24CB6FDC45C1}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 342
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {743E4D36-BA29-4E4E-B68C-4B5687B57887}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 350
+      SNAPOFFS 0
+      LENGTH 7
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 60
+      IGUID {08B16DBF-473E-DB4B-8A5C-11A803637A27}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 350
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6AD98CBB-7F12-9547-AD27-1D786170AAC0}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 357
+      SNAPOFFS 0
+      LENGTH 3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 141
+      IGUID {E12BFF51-B34A-F448-B564-67A87B49BB02}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 357
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8076D1B1-B079-5A4B-B17D-16D94834DF8D}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 360
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 83
+      IGUID {33370614-E6D0-814E-8619-AEBDC85EFAEC}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 360
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A8BAE1CB-F2CA-2A4C-8E33-28F43F461F65}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 366
+      SNAPOFFS 0
+      LENGTH 16
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 84
+      IGUID {6F2D40EA-3BD3-1F47-AB86-08E2E8F281C0}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 366
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DF6866FE-1170-A54B-9CB5-7B3CAF4D798F}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 382
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 66
+      IGUID {A78B1C11-5C0A-364F-BAF7-6820D2C99C5C}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 382
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A41EE7F7-879F-934C-9F23-5A34338EFC01}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 386
+      SNAPOFFS 0
+      LENGTH 24
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 67
+      IGUID {79F3DD0A-F266-9D4A-8863-1165146CDA5E}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 386
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DC0E1751-9911-984E-82A4-97356B01D2FF}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 410
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 135
+      IGUID {5FD0B6EA-66EC-B447-86B8-BEBEA3575B0D}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 410
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E050A719-293A-3E4B-9872-D7447CCCC7D2}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 418
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 69
+      IGUID {FFFE0D68-6C4B-DF4C-BC0E-40019BDC24FE}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 418
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7E354DF2-12DF-1B44-9893-8E028931BC28}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 426
+      SNAPOFFS 0
+      LENGTH 14
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 70
+      IGUID {DFA557CB-6C27-3541-9EA6-7FEF8A5D10B6}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 426
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {26FDFC45-16FA-2441-BF75-099EE86B6E29}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 440
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 72
+      IGUID {5597935E-C80C-9640-8C3B-A512F0AF7805}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 440
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A649FBFA-EAAC-CA43-B582-BA616ED9783D}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 448
+      SNAPOFFS 0
+      LENGTH 32
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 73
+      IGUID {70593693-5E06-B840-A4A3-DA1ECAA349EB}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 448
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {68D37364-6D9F-A446-8DC0-D24E87B6F0E3}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 480
+      SNAPOFFS 0
+      LENGTH 11
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 147
+      IGUID {29CE36AA-73BD-5D42-8F12-035750288D1C}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 480
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3C360D37-E1C8-D54D-B54B-3A50AFFB75DD}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 491
+      SNAPOFFS 0
+      LENGTH 121
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 88
+      IGUID {29D4C6EC-B793-0D49-B439-C056D0D69C5F}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 491
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A6346B7A-0C28-6B49-BD99-2EDED29B0531}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 612
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 76
+      IGUID {4A8F052E-B2BA-B64F-9AA2-B25EC87E2869}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 612
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {92BA84D1-E606-604E-A3BC-83A74B96F274}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 616
+      SNAPOFFS 0
+      LENGTH 16
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 77
+      IGUID {54498F8B-ECDC-C14D-ABE9-BFFE598FA2C5}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 616
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {67732054-05FE-BA4B-A482-A1154CB3BA61}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 632
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 104
+      IGUID {1A973300-494B-F246-8C13-7FB265EB8914}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 632
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2C2F7154-E0DA-4D4F-81F5-61CD1C169340}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+    <ITEM
+      POSITION 640
+      SNAPOFFS 0
+      LENGTH 84.82958333333329
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.05 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 105
+      IGUID {05953E5C-50F7-0942-B2FF-C9B3A429630D}
+      IID 1
+      NAME tank_engine_exhaust.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 640
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FEA822E5-67EE-E14A-9373-37A19DEC9E84}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust.wav"
+      >
+    >
+  >
+  <TRACK {A487569B-1713-C545-957C-FBEF81E947ED}
+    NAME FRONT
+    PEAKCOL 23695871
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A487569B-1713-C545-957C-FBEF81E947ED}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 14
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.05 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 22
+      IGUID {E985F3BF-3A40-8E46-AA4D-A2FAA9938152}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A8361336-9BA1-9942-8119-1EB84A7C904D}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 14
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.05 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 50
+      IGUID {8FFDCBD5-C74E-F449-9DFF-22081B3BA82F}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 14
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6BC8F398-274F-554D-8C39-4300D0480061}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 18
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.05 0 1 0 0
+      FADEOUT 1 0.05 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 23
+      IGUID {464C6F09-D534-7D4B-9F40-77BC7E1CE328}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 18
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E413FE80-642F-484C-B635-3197E7276268}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 26
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.05 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 27
+      IGUID {56F993C4-69D8-9A4A-B663-DFD481F4AB99}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 26
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D10850F5-18B4-5048-BBE3-E8B8012D7DB5}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 34
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 94
+      IGUID {CDD05F0E-2FCB-9140-973C-B6AB172A20FC}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 34
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6B78BEC2-E928-1F4C-A04C-53EA5730D299}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 42
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 95
+      IGUID {000EC086-FDF1-654F-BADE-35B4266EB2DD}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 42
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {614599E1-277C-2846-8E74-BA413ACC4500}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 50
+      SNAPOFFS 0
+      LENGTH 48
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 96
+      IGUID {253FA2B7-2CA5-0542-9322-02E888814C67}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 50
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {73F10845-9828-5E4D-9B80-CA8752325CC1}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 98
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 28
+      IGUID {35EE0BA3-12C5-DE4F-917C-3A9F2C3B3618}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 98
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BEF46CDA-8E88-524E-8223-C90482F2C3A9}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 106
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 32
+      IGUID {CE6044E8-F827-804C-A806-782879788C15}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 106
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6BEB7805-C49F-DC42-93B4-0E9A29E0851E}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 110
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 33
+      IGUID {9F49CCFE-1FC4-2641-BF94-E54ABF3F7607}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 110
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {826C0982-C32F-A04B-B0A2-3C2858C26791}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 118
+      SNAPOFFS 0
+      LENGTH 28
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 35
+      IGUID {AFDBEAB6-805A-5444-9432-09B7EB16D41A}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 118
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C32C02E7-8959-1542-8495-312F44FC33DA}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 146
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 100
+      IGUID {874B7FC7-1A68-8C46-954D-35ED533B0729}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 146
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B3BB163F-BB35-884A-BF1A-F5A4F4325D0B}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 154
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 40
+      IGUID {9C066447-C8D4-6143-B781-BD884072DD66}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 154
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {21BA1E23-D5E2-CA40-8EEA-121A722A5B8D}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 162
+      SNAPOFFS 0
+      LENGTH 11
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 41
+      IGUID {B213BD13-B4C5-B34A-ABA5-E9E9DB4869D7}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 162
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {58B98B3B-36A7-AF4B-8C46-2637EA7566E3}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 173
+      SNAPOFFS 0
+      LENGTH 7
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 36
+      IGUID {73625937-DBC1-394E-9D5B-C8645B050AA8}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 173
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F5486D45-2CA1-554F-B588-DB0763EA1517}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 180
+      SNAPOFFS 0
+      LENGTH 12
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 37
+      IGUID {6E0AB5ED-D6D0-2340-BCE0-DEB2DFD48400}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 180
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {68818825-608F-D444-8408-C74F980043DC}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 192
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 44
+      IGUID {87FD1C7B-5D2D-F54B-ABA9-CCFCD16CE49C}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 192
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7DB1FC7D-7129-0F41-ABA5-7CBAD5DC3753}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 200
+      SNAPOFFS 0
+      LENGTH 12
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 43
+      IGUID {1FEE0931-AE83-214B-80E3-7BD91B2BF1FE}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 200
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F04CEDA1-8464-FF47-9FC7-6358E092F27A}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 212
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 144
+      IGUID {EC27F1D3-E7CD-2544-8047-26985C0D2353}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 212
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A3CBDE0E-2C0E-4447-A44E-69204447895A}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 218
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 79
+      IGUID {E64F0503-7C3D-DE4B-8012-AC388F1F17B3}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 218
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {96659AD7-BB51-B54B-9441-958E8400B3CD}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 222
+      SNAPOFFS 0
+      LENGTH 30
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 80
+      IGUID {932F8A70-F3C1-2A4A-B518-94B0B284B288}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 222
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1ED76AA5-7896-C243-98D2-7A2E045795BE}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 252
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 52
+      IGUID {1AC3E0D0-5623-D240-B536-C5A29F337387}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 252
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8D6FD6D6-9D97-0C45-A2A5-CB5AD5E4C19A}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 256
+      SNAPOFFS 0
+      LENGTH 20
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 54
+      IGUID {DDBF8771-1AD0-6A4B-86E7-958F82B2EC61}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 256
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {34E3935D-1433-C244-94C9-3790E33C5758}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 276
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 47
+      IGUID {8FFA7779-0E5A-2B47-BA74-504F000129B7}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 276
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EF98ABDD-3E8B-5D48-A434-6AE55971D5F6}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 284
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 48
+      IGUID {F39EBA61-E990-DE48-8136-98970F660B08}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 284
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9F77C2F0-1D27-3348-BE58-51BF7965FF67}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 292
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 107
+      IGUID {69F20BCB-09EB-D74B-8DBC-75DC64A5F9F6}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 292
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C7B41D01-55B2-5D4C-83B1-E744E4000B9C}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 300
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 108
+      IGUID {486E147A-5626-DF40-ACE2-506DD4CD36AB}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 300
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {29A9691E-8BCA-8B40-BC92-E6CD73687302}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 308
+      SNAPOFFS 0
+      LENGTH 26
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 109
+      IGUID {29845545-0798-9C4D-9DDA-F59680F908FA}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 308
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {01412922-E7F3-234C-9FA4-9CC49B4D5FDE}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 334
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 62
+      IGUID {9CC1E28D-D681-0047-B596-34D028C5C57A}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 334
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D20766EB-1161-1245-B035-35DDFED05FB6}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 342
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 63
+      IGUID {32756D4C-1D79-BD49-818E-43EFC5F1373F}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 342
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E13601B1-52D6-AD48-9117-F3E16E3DDBEF}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 350
+      SNAPOFFS 0
+      LENGTH 7
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 60
+      IGUID {0EC63CE0-38C3-1440-867D-EE5EDF8E0EF2}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 350
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4541DD67-33E1-E449-A47D-E481A2FCE58E}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 357
+      SNAPOFFS 0
+      LENGTH 3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 141
+      IGUID {32E9DF0D-9392-3A48-B509-711E52398654}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 357
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CAAF6EFF-A12F-5A44-A7A4-60177B29024A}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 360
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 83
+      IGUID {6525D0AF-F3D7-B74D-811A-C932BA2E4726}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 360
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8B258697-3BDF-ED4D-BF36-3C0F2D14E538}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 366
+      SNAPOFFS 0
+      LENGTH 16
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 84
+      IGUID {8FCDB9D7-A29C-324A-88BD-9B653832EEF9}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 366
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8C01B5C4-5132-4E47-9F5F-7CD4F03D02E3}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 382
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 66
+      IGUID {137B66A2-4A91-9144-9700-E80BC3D0A1D7}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 382
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A45217D4-E2F2-E948-80A7-3A055499F653}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 386
+      SNAPOFFS 0
+      LENGTH 24
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 67
+      IGUID {D6938174-DF0C-2147-AC60-F5875A523AC4}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 386
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {345C6AFB-D6BA-9F44-B264-56ABD3688FF6}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 410
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 135
+      IGUID {356511FE-3D81-9148-973F-58EA026403DB}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 410
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {844D8CF2-D97D-8940-BC03-86AC3C38BDB1}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 418
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 69
+      IGUID {768B58ED-ED68-8E49-AE20-6129A1CD5072}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 418
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9CE0D890-4BFB-024A-9E2E-DE9280A383EF}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 426
+      SNAPOFFS 0
+      LENGTH 14
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 70
+      IGUID {A6700EEF-8A0E-E04A-85AD-5AADB591502F}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 426
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3C19CA50-816B-6C49-A2A7-92D4E103A99D}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 440
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 72
+      IGUID {40110A29-ED91-D843-AF7D-90C0CAB3FC45}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 440
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AA06BBD7-1A90-B143-8B4E-FDA56347524A}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 448
+      SNAPOFFS 0
+      LENGTH 32
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 73
+      IGUID {5EA46554-9D96-344E-891E-FD3622EEE51E}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 448
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {44F7EDEE-E883-BD40-9CE2-12DF114060B0}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 480
+      SNAPOFFS 0
+      LENGTH 11
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 147
+      IGUID {C114D744-CFC5-C746-B697-E0DFBF9DE11F}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 480
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5A835F6D-079B-7D46-89E8-1BC7DFCF2921}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 491
+      SNAPOFFS 0
+      LENGTH 121
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 88
+      IGUID {25713E31-127E-294C-9897-C442E9AA7184}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 491
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {375D174A-5CBC-7643-AB08-371D75B42B23}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 612
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 76
+      IGUID {F571764E-28CF-194C-8D39-416C5D9AB735}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 612
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C04ECD9F-FB65-3140-91A8-DBBC1148791A}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 616
+      SNAPOFFS 0
+      LENGTH 16
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 77
+      IGUID {13C05D95-617D-6F43-97B6-41F2F0FB3E51}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 616
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {286F4E26-6C3D-CE49-9FEA-75B4882512B2}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 632
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 104
+      IGUID {7C5103A0-4269-D543-A87E-28130E4DBB86}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 632
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7B682B68-E52D-284B-BEBA-542D1C10A8B8}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+    <ITEM
+      POSITION 640
+      SNAPOFFS 0
+      LENGTH 84.82958333333329
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.05 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 105
+      IGUID {80BE103C-69C7-7443-9218-6D230BE63432}
+      IID 3
+      NAME tank_engine_front.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 640
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1DE62BEB-E3DF-CD4A-83BE-332B212B6C53}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front.wav"
+      >
+    >
+  >
+  <TRACK {FC28B155-3E98-E849-B2E1-DA691576653A}
+    NAME TRACKS
+    PEAKCOL 21468562
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 2 -1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {FC28B155-3E98-E849-B2E1-DA691576653A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 14
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.05 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 22
+      IGUID {00BC1899-D82E-A044-9506-3C80A83B5B97}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3EC3994A-F946-C444-B7A7-7F70C9D38FCD}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 14
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.05 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 50
+      IGUID {8FCD83CD-8250-0E45-810E-AAA6DE44379E}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 14
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {736856B7-6EC8-2F48-A250-7D60AD9B3BE6}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 18
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.05 0 1 0 0
+      FADEOUT 1 0.05 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 23
+      IGUID {D0C34E5D-E729-5041-A3CF-38D60A4F1233}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 18
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FE4066B0-9923-1D48-B341-AFD215AD6E11}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 26
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.05 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 27
+      IGUID {A9160931-29EF-9C42-A4D3-956894BE008B}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 26
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2BEC795D-1D5E-F744-9BBD-114DC9B84DA0}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 34
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 94
+      IGUID {88D2CE3A-1F0B-E24F-9C98-72077C5A6FC9}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 34
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3BA065A6-99EA-8E4C-85A2-85C37D5BF854}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 42
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 95
+      IGUID {EC1ABD05-18B8-FC4D-9752-5784D775D4C8}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 42
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {97B5BACD-6017-CA43-A8EF-EE636F11EDEE}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 50
+      SNAPOFFS 0
+      LENGTH 48
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 96
+      IGUID {60AC5DB9-6C47-FC46-B478-52B52292B92B}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 50
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EC5BE811-E46B-BD49-8356-60C2A547AC53}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 98
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 28
+      IGUID {35531604-1DB9-FA40-A1D4-B298A404B734}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 98
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2572A324-C1A8-264B-8852-08505BF67861}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 106
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 32
+      IGUID {3E52A172-6EB8-D84B-8EEE-BBEB7D69D37F}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 106
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DE363FE3-9912-B643-A1B2-E4128601942B}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 110
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 33
+      IGUID {3C0E2095-E177-B442-BEEC-D8DA4180A285}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 110
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E2CD6D9A-7259-BC47-9CAB-CB7CE08B0C55}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 118
+      SNAPOFFS 0
+      LENGTH 28
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 35
+      IGUID {AE223661-56FB-D04F-8954-0A4EC75ECC45}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 118
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4EF18F31-9446-3A41-911B-5A18302D117E}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 146
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 100
+      IGUID {D2FB45FB-6C76-6245-95AB-F2DFF915CF84}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 146
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {92B80804-A2D2-7645-9C61-AD8A746FDDD8}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 154
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 40
+      IGUID {392FF36E-F0B9-D041-92FD-39D75DFB3D2F}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 154
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {747BF873-81BC-F44B-958C-25DE09892E44}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 162
+      SNAPOFFS 0
+      LENGTH 11
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 41
+      IGUID {56319735-8937-264A-8BE6-8EE84A76EA08}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 162
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4B8B9989-FE52-7543-BF60-2622AB0FA8BB}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 173
+      SNAPOFFS 0
+      LENGTH 7
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 36
+      IGUID {CB731318-4976-874F-967A-AE10347407A1}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 173
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7A9C4A9A-2190-5940-BBB7-C8E02BF1940B}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 180
+      SNAPOFFS 0
+      LENGTH 12
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 37
+      IGUID {036F4BBA-181E-894C-A52C-02AADE1C1E90}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 180
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {106E31CA-C123-1644-8E7D-CFA00FE35A38}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 192
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 44
+      IGUID {2EF1BB97-2578-424A-A544-CE4D44DA61DA}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 192
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D25BDECA-5382-8043-8056-238B2CFA5C47}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 200
+      SNAPOFFS 0
+      LENGTH 12
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 43
+      IGUID {718CAB5A-F736-4C4C-8CB0-6FB851BC2229}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 200
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3C2E278E-5CD7-B84F-938B-6C423BDD9F72}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 212
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 144
+      IGUID {AF3A8F19-CE26-6342-A9B1-81027D5D9174}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 212
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F5095D96-D310-6F44-8558-6085147F65E5}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 218
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 79
+      IGUID {2BDE7685-0D61-9E46-9F36-745640DAE7FC}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 218
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AE04943D-F3B6-174A-B9BF-982E95C3E4CB}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 222
+      SNAPOFFS 0
+      LENGTH 30
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 80
+      IGUID {9B539338-79C9-5141-BC76-E822E2295142}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 222
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {84E55EBE-DA6E-134F-8068-5261CFB62483}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 252
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 52
+      IGUID {80EE3AD5-5025-A948-B97F-2D150E35D8F6}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 252
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DA8F7452-BC9C-AD4B-AEB7-D9BF772F5AA8}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 256
+      SNAPOFFS 0
+      LENGTH 20
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 54
+      IGUID {D8DE36FF-756C-3C41-BDC6-53DD39E81237}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 256
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2342EA2C-B5F9-884E-9169-A312551FE9F9}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 276
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 47
+      IGUID {475A9338-448A-C640-A902-0101B546170D}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 276
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {580FFC0C-DCDB-594C-A8EC-1CCDFC2C1415}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 284
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 48
+      IGUID {DD2493F4-79A2-6046-827F-E9D5FC629151}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 284
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {392428E8-C588-FA4E-9812-CFA9D553AA02}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 292
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 107
+      IGUID {85755BB5-1559-494F-AE0B-416DCDD6EAE4}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 292
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BBF0DB4C-16AC-C44A-91D6-A998FEB3E221}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 300
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 108
+      IGUID {1484FA37-88FA-194D-AE3A-98AF6E47E046}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 300
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7B252A57-9059-CE40-93CA-98F14D6C9D39}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 308
+      SNAPOFFS 0
+      LENGTH 26
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 109
+      IGUID {20974B78-D88E-8441-8E44-1C50CBF4A961}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 308
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F6CD177E-C7A8-E54F-AA10-5B02E96A807F}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 334
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 62
+      IGUID {25CA8ADB-E589-8341-9A87-8D15155A878E}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 334
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7200EAD1-458F-B547-82C6-129322091FDF}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 342
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 63
+      IGUID {C7B92DAA-5972-1541-A9F0-947FDE1C3605}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 342
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BA8FC9AC-D6AE-FE49-95A3-EAFB28E64C63}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 350
+      SNAPOFFS 0
+      LENGTH 7
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 60
+      IGUID {F17A6EE1-4205-A542-A429-081E6E2F18A6}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 350
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {67F491B0-6041-4E48-A0F7-E0EE3A71A5AF}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 357
+      SNAPOFFS 0
+      LENGTH 3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 141
+      IGUID {361B7D47-7000-1C48-A5E9-457B825CAF0B}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 357
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F9F95C65-DE0C-8646-A498-7FFEBEA17FB3}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 360
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 83
+      IGUID {3F2475F2-75B3-504E-82E7-A5D4BF57AE56}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 360
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5ECD6C88-7D0B-E545-B99F-90AD62DAA798}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 366
+      SNAPOFFS 0
+      LENGTH 16
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 84
+      IGUID {319FE15B-5C35-6440-B8D5-FCA39A6BAC01}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 366
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CA3CE3E9-31AF-3E4A-A572-48CF210FC949}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 382
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 66
+      IGUID {37DF6E79-CADB-3448-8130-85FB1D6E0E2F}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 382
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F936E95A-E7BC-7C4D-8476-DB1B2D58464B}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 386
+      SNAPOFFS 0
+      LENGTH 24
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 67
+      IGUID {455D3412-A3DE-3747-999D-2AA0463062C6}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 386
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {07A37F95-D4E3-5D46-BFE9-4F6D27EB3BA0}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 410
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 135
+      IGUID {2648C6EA-4BCB-1347-9603-8E81621B3623}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 410
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8E996FFC-DB10-EC4B-9CC4-BD605679F53F}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 418
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 69
+      IGUID {5DC5638D-5007-3A44-AE2B-5D3CD79C9C84}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 418
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BDF7907A-7764-D14E-A0BE-615A52752D65}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 426
+      SNAPOFFS 0
+      LENGTH 14
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 70
+      IGUID {3ED4281B-E57C-1E4B-8895-9C20F26AF15B}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 426
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {25608DE9-BD18-BE47-A3C4-47F00830864D}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 440
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 72
+      IGUID {3067DB35-3E96-2F47-B116-01A560B7C774}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 440
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F7EA74FF-D423-5A48-BC67-FCD8A1A0FC36}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 448
+      SNAPOFFS 0
+      LENGTH 32
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 73
+      IGUID {54BB26BE-E1BE-244D-98A4-A4BAA3E44505}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 448
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CD2A70F1-913A-7445-80C7-9B87C8FE7F7B}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 480
+      SNAPOFFS 0
+      LENGTH 11
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 147
+      IGUID {7B3643EA-067B-0848-8AF5-04F9BD5142E3}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 480
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {53477002-9F1B-F54A-9844-07B4A830372F}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 491
+      SNAPOFFS 0
+      LENGTH 121
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 88
+      IGUID {6DE36A63-7034-5F46-860F-F2492226397A}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 491
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5153238A-ADA4-664D-8142-F5D1967D703F}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 612
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 76
+      IGUID {68BBABDE-34FD-6A43-9B26-EAFEA4C36B89}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 612
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DF39EA2E-1853-014D-B89A-1AE224646CBD}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 616
+      SNAPOFFS 0
+      LENGTH 16
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 77
+      IGUID {68025538-4A82-B34C-951B-4314FB77256D}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 616
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {84BC2AEA-85AF-0A44-9BB6-0510D063A75A}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 632
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 104
+      IGUID {FF952D20-1176-C54A-B186-4DB445B0A061}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 632
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E841E271-E929-7B4C-BDAF-CFD27F358F9A}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 640
+      SNAPOFFS 0
+      LENGTH 84.82958333333329
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.05 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 105
+      IGUID {1D338990-190A-7745-880B-7B0C23223F96}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 640
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5492B482-F0ED-3848-87C3-705CE3DA65E7}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+  >
+  <TRACK {7B86FB69-2AEF-2248-87BE-8B8C98FD2911}
+    NAME "PANZER III"
+    PEAKCOL 16777429
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 1 1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7B86FB69-2AEF-2248-87BE-8B8C98FD2911}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 866 263 988 627
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 1 0 0
+      <VST "VST: H-EQ Mono (Waves)" "WaveShell-VST 9.2.vst" 0 "" 1212502349
+        TVFFSO5e7f4BAAAAAQAAAAAAAAABAAAAAwAAAAAAAADOCAAAAQAAAAAAEAA=
+        AAAIzgAAAAMAAAABSEVRTXNldEEAAAiuWFBzdDxQcmVzZXRDaHVua1hNTFRyZWUgdmVyc2lvbj0iMiI+Cgk8UHJlc2V0IE5hbWU9IiIgR2VuZXJpY1R5cGU9IkgtRVEi
+        PgoJCTxQcmVzZXRIZWFkZXI+CgkJCTxQbHVnaW5OYW1lPkgtRVE8L1BsdWdpbk5hbWU+CgkJCTxQbHVnaW5WZXJzaW9uPjkuMS4wPC9QbHVnaW5WZXJzaW9uPgoJCQk8
+        QWN0aXZlU2V0dXA+U0VUVVBfQTwvQWN0aXZlU2V0dXA+CgkJCTxSZWFkT25seT50cnVlPC9SZWFkT25seT4KCQk8L1ByZXNldEhlYWRlcj4KCQk8TWVzc2FnZVRvU2hl
+        bGwvPgoJCTxQcmVzZXREYXRhIFNldHVwPSJTRVRVUF9BIj4KCQkJPFBhcmFtZXRlcnMgVHlwZT0iUmVhbFdvcmxkIj4wLjQwMDAwMDAwMDAwMDAwMDAyMjIgMSAwIDAg
+        MCAwIDAgMCAqICoKKiAwIDAgMCAzMCA3NSAxLjUgMi41IDAKKiAqICogKiAwIDAgMCAwIDAKMCAwIDAgMCAwIDEgMSAxIDEKMSAxIDAgMSAxIDEgMSAxIDEKMCAwIDAg
+        MCAwIDAgMCAwIDAKMCAwIDAgMCAwIDAgMCAxMDAgMAoxMDAgMSAxIDg3IDg3IDQ5NCA0OTQgNjA1IDYwNQozNTIwIDM1MjAgODM3MiA4MzcyIDMwIDMwIDE2MDU2IDE2
+        MDU2IDAKMCAwIDAgLTQuMjUgLTQuMjUgMCAwIDAgMAowIDAgMCAwIDUwIDUwIDUwIDUwIDUwCjUwIDUwIDUwIDUwIDUwIDUwIDUwIDUwIDUwCjAgMCAwIDAgMCAxMiA5
+        MTAwIDUgMTIwMAozNzUwIDQ1NTAgNDcwMCAzLjA4OTk5OTk5OTk5OTk5OTg1NzkgMy41IDEwMCAyNCAxNDAwIDEwODAKMTQwMCAxMDgwIDE0MDAgMTA4MCAxNDAwIDEx
+        MzAgMzIuNSAyNCAwCjEgLTg4IC0xNi41IDEwOSAwLjcwODk5OTk5OTk5OTk5OTk2MzU4IDggMiAwICoKKiAwIDEgMSAwIDEwICogKiAqCjE5OSAwICogKiAxIDEgMSAt
+        OTggMzAKMjAwIC0xMi4xOTk5OTk5OTk5OTk5OTkyODkgMTExMjQgLTk4IDAgLTI5LjUgMTI1LjI5OTk5OTk5OTk5OTk5NzE2IDIyLjMwMDAwMDAwMDAwMDAwMDcxMSAy
+        NTAKMCA4ODc3Ljg5OTk5OTk5OTk5NzgxNzIgNy4wOTk5OTk5OTk5OTk5OTk2NDQ3IDAgLTIwLjEwMDAwMDAwMDAwMDAwMTQyMSAwIDE2IDAgMTcwMjYuMjk5OTk5OTk5
+        OTk5MjcyCjAgMCAwIDAgLTI5LjUgMTI1LjI5OTk5OTk5OTk5OTk5NzE2IDIyLjMwMDAwMDAwMDAwMDAwMDcxMSAyNTAgMAo4ODc3Ljg5OTk5OTk5OTk5NzgxNzIgNy4w
+        OTk5OTk5OTk5OTk5OTk2NDQ3IDAgLTIwLjEwMDAwMDAwMDAwMDAwMTQyMSAtMTQwIDAgMCAwIDEKMCAwIDAgMSAxIDEgMSAwICoKKiA8L1BhcmFtZXRlcnM+CgkJPC9Q
+        cmVzZXREYXRhPgoJCTxQcmVzZXREYXRhIFNldHVwPSJTRVRVUF9CIj4KCQkJPFBhcmFtZXRlcnMgVHlwZT0iUmVhbFdvcmxkIj4wLjQwMDAwMDAwMDAwMDAwMDAyMjIg
+        MSAwIDAgMCAwIDAgMCAqICoKKiAwIDAgMCAzMCA3NSAxLjUgMi41IDAKKiAqICogKiAwIDAgMCAwIDAKMCAwIDAgMCAwIDEgMSAxIDEKMSAwIDAgMSAxIDEgMSAxIDAK
+        MCAwIDAgMCAwIDAgMCAwIDAKMCAwIDAgMCAwIDAgMCAxMDAgMAoxMDAgMSAxIDg3IDg3IDQ5NCA0OTQgOTg4IDk4OAozNTIwIDM1MjAgODM3MiA4MzcyIDMwIDMwIDE2
+        MDU2IDE2MDU2IDAKMCAwIDAgMCAwIDAgMCAwIDAKMCAwIDAgMCA1MCA1MCA1MCA1MCA1MAo1MCA1MCA1MCA1MCA1MCA1MCA1MCA1MCA1MAowIDAgMCAwIDAgMTIgOTEw
+        MCA1IDEyMDAKMzc1MCA0NTUwIDQ3MDAgMy4wODk5OTk5OTk5OTk5OTk4NTc5IDMuNSAxMDAgMjQgMTQwMCAxMDgwCjE0MDAgMTA4MCAxNDAwIDEwODAgMTQwMCAxMTMw
+        IDMyLjUgMjQgMAoxIC04OCAtMTYuNSAxMDkgMC43MDg5OTk5OTk5OTk5OTk5NjM1OCA4IDIgMCAqCiogMCAxIDEgMCAxMCAqICogKgoxOTkgMCAqICogMSAxIDEgLTk4
+        IDMwCjIwMCAtMTIuMTk5OTk5OTk5OTk5OTk5Mjg5IDExMTI0IC05OCAwIC0yOS41IDEyNS4yOTk5OTk5OTk5OTk5OTcxNiAyMi4zMDAwMDAwMDAwMDAwMDA3MTEgMjUw
+        CjAgODg3Ny44OTk5OTk5OTk5OTc4MTcyIDcuMDk5OTk5OTk5OTk5OTk5NjQ0NyAwIC0yMC4xMDAwMDAwMDAwMDAwMDE0MjEgMCAxNiAwIDE3MDI2LjI5OTk5OTk5OTk5
+        OTI3MgowIDAgMCAwIC0yOS41IDEyNS4yOTk5OTk5OTk5OTk5OTcxNiAyMi4zMDAwMDAwMDAwMDAwMDA3MTEgMjUwIDAKODg3Ny44OTk5OTk5OTk5OTc4MTcyIDcuMDk5
+        OTk5OTk5OTk5OTk5NjQ0NyAwIC0yMC4xMDAwMDAwMDAwMDAwMDE0MjEgLTE0MCAwIDAgMCAxCjAgMCAwIDEgMSAxIDEgMCAqCiogPC9QYXJhbWV0ZXJzPgoJCTwvUHJl
+        c2V0RGF0YT4KCTwvUHJlc2V0Pgo8L1ByZXNldENodW5rWE1MVHJlZT4KAAAAAA==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {69A405E6-C1CC-DD4F-991D-614D0CAF40F1}
+      WAK 0
+      BYPASS 1 0 0
+      <VST "VST: L1 limiter Mono (Waves)" "WaveShell-VST 9.2.vst" 0 "" 1278296909
+        TUMxTO5e7f4BAAAAAQAAAAAAAAABAAAAAwAAAAAAAAA8AgAAAQAAAAAAEAA=
+        AAACPAAAAAMAAAABTDFDTXNldEEAAAIcWFBzdDxQcmVzZXRDaHVua1hNTFRyZWUgdmVyc2lvbj0iMiI+Cgk8UHJlc2V0IE5hbWU9IiIgR2VuZXJpY1R5cGU9IkwxICAi
+        PgoJCTxQcmVzZXRIZWFkZXI+CgkJCTxQbHVnaW5OYW1lPkwxPC9QbHVnaW5OYW1lPgoJCQk8UGx1Z2luVmVyc2lvbj45LjEuMDwvUGx1Z2luVmVyc2lvbj4KCQkJPEFj
+        dGl2ZVNldHVwPlNFVFVQX0E8L0FjdGl2ZVNldHVwPgoJCQk8UmVhZE9ubHk+dHJ1ZTwvUmVhZE9ubHk+CgkJPC9QcmVzZXRIZWFkZXI+CgkJPE1lc3NhZ2VUb1NoZWxs
+        Lz4KCQk8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQSI+CgkJCTxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+MSAtMSAtMSAqICogKiAqICogMCAwCjAgMSAxIDAg
+        PC9QYXJhbWV0ZXJzPgoJCTwvUHJlc2V0RGF0YT4KCQk8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQiI+CgkJCTxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+MSAw
+        IDAgKiAqICogKiAqIDAgMAowIDEgMSAwIDwvUGFyYW1ldGVycz4KCQk8L1ByZXNldERhdGE+Cgk8L1ByZXNldD4KPC9QcmVzZXRDaHVua1hNTFRyZWU+CpEKGBA=
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E880F2AB-7D0A-9E41-91E1-9C4513FFC128}
+      WAK 0
+    >
+  >
+  <TRACK {60E965AA-7DB8-EB44-B8F5-F90003E696FB}
+    NAME EXHAUST
+    PEAKCOL 17663691
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 93 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {60E965AA-7DB8-EB44-B8F5-F90003E696FB}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 808 54 988 627
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: H-EQ Mono (Waves)" "WaveShell-VST 9.2.vst" 0 "" 1212502349
+        TVFFSO5e7f4BAAAAAQAAAAAAAAABAAAAAwAAAAAAAAC+CQAAAQAAAAAAEAA=
+        AAAJvgAAAAMAAAABSEVRTXNldEEAAAmeWFBzdDxQcmVzZXRDaHVua1hNTFRyZWUgdmVyc2lvbj0iMiI+Cgk8UHJlc2V0IE5hbWU9IiIgR2VuZXJpY1R5cGU9IkgtRVEi
+        PgoJCTxQcmVzZXRIZWFkZXI+CgkJCTxQbHVnaW5OYW1lPkgtRVE8L1BsdWdpbk5hbWU+CgkJCTxQbHVnaW5WZXJzaW9uPjkuMS4wPC9QbHVnaW5WZXJzaW9uPgoJCQk8
+        QWN0aXZlU2V0dXA+U0VUVVBfQTwvQWN0aXZlU2V0dXA+CgkJCTxSZWFkT25seT50cnVlPC9SZWFkT25seT4KCQk8L1ByZXNldEhlYWRlcj4KCQk8TWVzc2FnZVRvU2hl
+        bGwvPgoJCTxQcmVzZXREYXRhIFNldHVwPSJTRVRVUF9BIj4KCQkJPFBhcmFtZXRlcnMgVHlwZT0iUmVhbFdvcmxkIj4wLjQwMDAwMDAwMDAwMDAwMDAyMjIgMSAwIDAg
+        MCAwIDAgMCAqICoKKiAwIDAgMCAzMCA3NSAxLjUgMi41IDAKKiAqICogKiAwIDAgMCAwIDAKMCAwIDAgMCAwIDEgMSAxIDEKMSAxIDAgMSAxIDEgMSAxIDEKMCA2IDAg
+        MCAwIDAgMCAwIDYKMCAwIDAgMCAwIDAgMCAxMDAgMAoxMDAgMSAxIDEwNiAxMDYgNTA1IDUwNSA5ODggOTg4CjM0NzEgMzQ3MSA4MjE1IDgyMTUgMzAgMzAgMTg2NzAu
+        NSAxODY3MC41IC0zLjM1MDAwMDAwMDAwMDAwMDA4ODgKLTMuMzUwMDAwMDAwMDAwMDAwMDg4OCAtMi44OTk5OTk5OTk5OTk5OTk5MTEyIC0yLjg5OTk5OTk5OTk5OTk5
+        OTkxMTIgMCAwIDQuMjAwMDAwMDAwMDAwMDAwMTc3NiA0LjIwMDAwMDAwMDAwMDAwMDE3NzYgLTEuMTQ5OTk5OTk5OTk5OTk5OTExMiAtMS4xNDk5OTk5OTk5OTk5OTk5
+        MTEyCjAgMCAwIDAgNDUuNzAwMDAwMDAwMDAwMDAyODQyIDQ1LjcwMDAwMDAwMDAwMDAwMjg0MiA2Ny40MDAwMDAwMDAwMDAwMTk4OTUgNjcuNDAwMDAwMDAwMDAwMDE5
+        ODk1IDUwCjUwIDUwIDUwIDUwIDUwIDUwIDUwIDYwIDYwCjEgMCAxIDAgMCAxMiA5MTAwIDUgMTIwMAozNzUwIDQ1NTAgNDcwMCAzLjA4OTk5OTk5OTk5OTk5OTg1Nzkg
+        My41IDEwMCAyNCAxNDAwIDEwODAKMTQwMCAxMDgwIDE0MDAgMTA4MCAxNDAwIDExMzAgMzIuNSAyNCAwCjEgLTg4IC0xNi41IDEwOSAwLjcwODk5OTk5OTk5OTk5OTk2
+        MzU4IDggMiAwICoKKiAwIDEgMSAwIDEwICogKiAqCjE5OSAwICogKiAxIDEgMSAtOTggMzAKMjAwIC0xMi4xOTk5OTk5OTk5OTk5OTkyODkgMTExMjQgLTk4IDAgLTI5
+        LjUgMTI1LjI5OTk5OTk5OTk5OTk5NzE2IDIyLjMwMDAwMDAwMDAwMDAwMDcxMSAyNTAKMCA4ODc3Ljg5OTk5OTk5OTk5NzgxNzIgNy4wOTk5OTk5OTk5OTk5OTk2NDQ3
+        IDAgLTIwLjEwMDAwMDAwMDAwMDAwMTQyMSAwIDE2IDAgMTcwMjYuMjk5OTk5OTk5OTk5MjcyCjAgMCAwIDAgLTI5LjUgMTI1LjI5OTk5OTk5OTk5OTk5NzE2IDIyLjMw
+        MDAwMDAwMDAwMDAwMDcxMSAyNTAgMAo4ODc3Ljg5OTk5OTk5OTk5NzgxNzIgNy4wOTk5OTk5OTk5OTk5OTk2NDQ3IDAgLTIwLjEwMDAwMDAwMDAwMDAwMTQyMSAtMTQw
+        IDAgMCAwIDEKMCAwIDAgMSAxIDEgMSAwICoKKiA8L1BhcmFtZXRlcnM+CgkJPC9QcmVzZXREYXRhPgoJCTxQcmVzZXREYXRhIFNldHVwPSJTRVRVUF9CIj4KCQkJPFBh
+        cmFtZXRlcnMgVHlwZT0iUmVhbFdvcmxkIj4wLjQwMDAwMDAwMDAwMDAwMDAyMjIgMSAwIDAgMCAwIDAgMCAqICoKKiAwIDAgMCAzMCA3NSAxLjUgMi41IDAKKiAqICog
+        KiAwIDAgMCAwIDAKMCAwIDAgMCAwIDEgMSAxIDEKMSAwIDAgMSAxIDEgMSAxIDAKMCAwIDAgMCAwIDAgMCAwIDAKMCAwIDAgMCAwIDAgMCAxMDAgMAoxMDAgMSAxIDg3
+        IDg3IDQ5NCA0OTQgOTg4IDk4OAozNTIwIDM1MjAgODM3MiA4MzcyIDMwIDMwIDE2MDU2IDE2MDU2IDAKMCAwIDAgMCAwIDAgMCAwIDAKMCAwIDAgMCA1MCA1MCA1MCA1
+        MCA1MAo1MCA1MCA1MCA1MCA1MCA1MCA1MCA1MCA1MAowIDAgMCAwIDAgMTIgOTEwMCA1IDEyMDAKMzc1MCA0NTUwIDQ3MDAgMy4wODk5OTk5OTk5OTk5OTk4NTc5IDMu
+        NSAxMDAgMjQgMTQwMCAxMDgwCjE0MDAgMTA4MCAxNDAwIDEwODAgMTQwMCAxMTMwIDMyLjUgMjQgMAoxIC04OCAtMTYuNSAxMDkgMC43MDg5OTk5OTk5OTk5OTk5NjM1
+        OCA4IDIgMCAqCiogMCAxIDEgMCAxMCAqICogKgoxOTkgMCAqICogMSAxIDEgLTk4IDMwCjIwMCAtMTIuMTk5OTk5OTk5OTk5OTk5Mjg5IDExMTI0IC05OCAwIC0yOS41
+        IDEyNS4yOTk5OTk5OTk5OTk5OTcxNiAyMi4zMDAwMDAwMDAwMDAwMDA3MTEgMjUwCjAgODg3Ny44OTk5OTk5OTk5OTc4MTcyIDcuMDk5OTk5OTk5OTk5OTk5NjQ0NyAw
+        IC0yMC4xMDAwMDAwMDAwMDAwMDE0MjEgMCAxNiAwIDE3MDI2LjI5OTk5OTk5OTk5OTI3MgowIDAgMCAwIC0yOS41IDEyNS4yOTk5OTk5OTk5OTk5OTcxNiAyMi4zMDAw
+        MDAwMDAwMDAwMDA3MTEgMjUwIDAKODg3Ny44OTk5OTk5OTk5OTc4MTcyIDcuMDk5OTk5OTk5OTk5OTk5NjQ0NyAwIC0yMC4xMDAwMDAwMDAwMDAwMDE0MjEgLTE0MCAw
+        IDAgMCAxCjAgMCAwIDEgMSAxIDEgMCAqCiogPC9QYXJhbWV0ZXJzPgoJCTwvUHJlc2V0RGF0YT4KCTwvUHJlc2V0Pgo8L1ByZXNldENodW5rWE1MVHJlZT4Ki/PT8w==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {890F8CA5-7590-0445-8B03-3850E2ED0DAD}
+      WAK 0
+      BYPASS 0 0 0
+      <VST "VST: C1 comp Stereo (Waves)" "WaveShell-VST 9.2.vst" 0 "" 1129140307
+        U1BNQ+5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAuAMAAAEAAAAAABAA
+        AAADuAAAAAMAAAABQ01QU3NldEEAAAOYWFBzdDxQcmVzZXRDaHVua1hNTFRyZWUgdmVyc2lvbj0iMiI+Cgk8UHJlc2V0IE5hbWU9IkNsYXNzaWMgY29tcHJlc3NvciIg
+        R2VuZXJpY1R5cGU9IkMxICAiPgoJCTxQcmVzZXRIZWFkZXI+CgkJCTxQbHVnaW5OYW1lPkMxQ29tcDwvUGx1Z2luTmFtZT4KCQkJPFBsdWdpblZlcnNpb24+OS4xLjA8
+        L1BsdWdpblZlcnNpb24+CgkJCTxBY3RpdmVTZXR1cD5TRVRVUF9BPC9BY3RpdmVTZXR1cD4KCQkJPFJlYWRPbmx5PnRydWU8L1JlYWRPbmx5PgoJCTwvUHJlc2V0SGVh
+        ZGVyPgoJCTxNZXNzYWdlVG9TaGVsbC8+CgkJPFByZXNldERhdGEgU2V0dXA9IlNFVFVQX0EiIFNldHVwTmFtZT0iQ2xhc3NpYyBjb21wcmVzc29yIj4KCQkJPFBhcmFt
+        ZXRlcnMgVHlwZT0iUmVhbFdvcmxkIj4wLjAxMDAwMDAwMDAwMDAwMDAwMDIwOCAxIDIgMTAwIDAgLTY2IC02NiAxIC0xMDAgKgoqIDAgLTEwMCAtMTAwIDIgMTAwIDEw
+        IC0yMC4xMDAwMDAwMDAwMDAwMDE0MjEgNy4wMzAwMDAwMDAwMDAwMDAyNDg3CjcgMCAqICogMCAwIDAgLTEwMCAtMjAKKiAqICogKiAwIDAgMSA3MTI3IDAuNTk5OTk5
+        OTk5OTk5OTk5OTc3OAowIDAgMTczIDE3MyAyIDAgMCA1ICoKKiAqICogKiA8L1BhcmFtZXRlcnM+CgkJPC9QcmVzZXREYXRhPgoJCTxQcmVzZXREYXRhIFNldHVwPSJT
+        RVRVUF9CIj4KCQkJPFBhcmFtZXRlcnMgVHlwZT0iUmVhbFdvcmxkIj4wLjAxMDAwMDAwMDAwMDAwMDAwMDIwOCAwIDIgMzAgMCAtMTAwIC0xMDAgMCAtMTAwICoKKiAw
+        IC0xMDAgLTEwMCAyIDUwIDAgMCAxCjAgMCAqICogMCAwIDAgLTEwMCAtMTAwCiogKiAqICogMCAwIDAgNzE3OSAwLjU5OTk5OTk5OTk5OTk5OTk3NzgKMCAwIDE3MyAx
+        NzMgMCAwIDAgMCAqCiogKiAqICogPC9QYXJhbWV0ZXJzPgoJCTwvUHJlc2V0RGF0YT4KCTwvUHJlc2V0Pgo8L1ByZXNldENodW5rWE1MVHJlZT4KAQAAAA==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {1168DDA3-8CF7-9847-92B4-B7AAA8DADB42}
+      WAK 0
+      BYPASS 0 0 0
+      <VST "VST: L1 limiter Mono (Waves)" "WaveShell-VST 9.2.vst" 0 "" 1278296909
+        TUMxTO5e7f4BAAAAAQAAAAAAAAABAAAAAwAAAAAAAAA8AgAAAQAAAAAAEAA=
+        AAACPAAAAAMAAAABTDFDTXNldEEAAAIcWFBzdDxQcmVzZXRDaHVua1hNTFRyZWUgdmVyc2lvbj0iMiI+Cgk8UHJlc2V0IE5hbWU9IiIgR2VuZXJpY1R5cGU9IkwxICAi
+        PgoJCTxQcmVzZXRIZWFkZXI+CgkJCTxQbHVnaW5OYW1lPkwxPC9QbHVnaW5OYW1lPgoJCQk8UGx1Z2luVmVyc2lvbj45LjEuMDwvUGx1Z2luVmVyc2lvbj4KCQkJPEFj
+        dGl2ZVNldHVwPlNFVFVQX0E8L0FjdGl2ZVNldHVwPgoJCQk8UmVhZE9ubHk+dHJ1ZTwvUmVhZE9ubHk+CgkJPC9QcmVzZXRIZWFkZXI+CgkJPE1lc3NhZ2VUb1NoZWxs
+        Lz4KCQk8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQSI+CgkJCTxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+MSAtMSAtMSAqICogKiAqICogMCAwCjAgMSAxIDAg
+        PC9QYXJhbWV0ZXJzPgoJCTwvUHJlc2V0RGF0YT4KCQk8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQiI+CgkJCTxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+MSAw
+        IDAgKiAqICogKiAqIDAgMAowIDEgMSAwIDwvUGFyYW1ldGVycz4KCQk8L1ByZXNldERhdGE+Cgk8L1ByZXNldD4KPC9QcmVzZXRDaHVua1hNTFRyZWU+Csj3GgA=
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {838072EF-007F-EE4E-9BE1-E0785BE6B271}
+      WAK 0
+    >
+    <ITEM
+      POSITION 728
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.836659 0 1 0 0
+      FADEOUT 1 2.546939 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {94DBB39C-1608-ED46-87B4-91CB7E8C2837}
+      IID 268
+      NAME tank_engine_exhaust-glued.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 4
+      GUID {2AB372F1-1862-8E4E-B8C9-63831BD27BD4}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 735
+      SNAPOFFS 0
+      LENGTH 7
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.379526 0 1 0 0
+      FADEOUT 1 3.026941 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4A05047B-F99A-E646-A8C4-2F79DD3FC5F9}
+      IID 296
+      NAME tank_engine_exhaust-glued-04.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 4
+      GUID {7BAD7538-AB25-F94B-B241-E7CA2F575515}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust-glued-04.wav"
+      >
+    >
+    <ITEM
+      POSITION 745
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.759051 0 1 0 0
+      FADEOUT 1 4.66531 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F8026E04-BBA1-D84D-8C55-6EA894F07F58}
+      IID 299
+      NAME tank_engine_exhaust-glued-05.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 4
+      GUID {F3B8B931-AC6A-9C46-818D-C2EB2F5FCAD0}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust-glued-05.wav"
+      >
+    >
+    <ITEM
+      POSITION 757
+      SNAPOFFS 0
+      LENGTH 8.5031957076187
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.324242 0 1 0 0
+      FADEOUT 1 3.241161 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {431C3C2F-065A-694F-855C-7C400846ACA7}
+      IID 302
+      NAME tank_engine_exhaust-glued-06.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 4
+      GUID {FE3E7F63-9820-3F4C-9E32-65AF9C792BB6}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust-glued-06.wav"
+      >
+    >
+    <ITEM
+      POSITION 768
+      SNAPOFFS 0
+      LENGTH 7.49150097599909
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0B953FEA-4A4E-8D44-9E26-D8BC35657936}
+      IID 387
+      NAME tank_engine_exhaust-glued-07.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {106AE583-1AD0-AF4A-8853-E60AC0446915}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust-glued-07.wav"
+      >
+    >
+    <ITEM
+      POSITION 778.5
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8C5F840B-17D7-D44E-B11E-CC9015F554B5}
+      IID 390
+      NAME tank_engine_exhaust-glued-08.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {19A5210A-13DA-8C4B-A7B9-3868FCFD4CB0}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust-glued-08.wav"
+      >
+    >
+    <ITEM
+      POSITION 788.5
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2BC73ADF-0EC4-BE48-A0DD-D04B466C29AC}
+      IID 399
+      NAME tank_engine_exhaust-glued-09.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {053B81A2-3059-2D4E-BF8A-0040D7EE236F}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust-glued-09.wav"
+      >
+    >
+    <ITEM
+      POSITION 798
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {99C08CAD-11CB-614D-BB59-3FCF14063D9B}
+      IID 402
+      NAME tank_engine_exhaust-glued-10.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {99C0451F-B946-5340-B37F-DAE0070FDD0A}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust-glued-10.wav"
+      >
+    >
+    <ITEM
+      POSITION 808
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {268AD6E1-C21B-F944-9059-96D813F43223}
+      IID 463
+      NAME tank_engine_exhaust-glued-11.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EBE4B1B9-7BCD-BE49-AB46-5A9B37A9423C}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust-glued-11.wav"
+      >
+    >
+    <ITEM
+      POSITION 818
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A91E2637-C904-CC45-8D4D-FF5004ADC99B}
+      IID 466
+      NAME tank_engine_exhaust-glued-12.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {12B1AE95-82D9-A546-B359-AB4DF577D867}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust-glued-12.wav"
+      >
+    >
+    <ITEM
+      POSITION 828
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {468F1818-0C99-F744-B4E4-A5F49126DCDF}
+      IID 469
+      NAME tank_engine_exhaust-glued-13.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {23558211-5E87-D249-B3DC-E848269CBBE3}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust-glued-13.wav"
+      >
+    >
+    <ITEM
+      POSITION 844.5
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {324D74DC-18CD-D945-B892-6F755174E6A2}
+      IID 472
+      NAME tank_engine_exhaust-glued-14.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AC786E46-C894-2C4D-A60C-8A8AE65ED94A}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust-glued-14.wav"
+      >
+    >
+    <ITEM
+      POSITION 862
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2EDD7C53-4405-8D40-97EB-FF78B9BD6C8C}
+      IID 475
+      NAME tank_engine_exhaust-glued-15.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {90388AA4-A019-FD4C-89B1-F58ECF06C0F6}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust-glued-15.wav"
+      >
+    >
+    <ITEM
+      POSITION 874
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0046EF92-0301-B342-920C-29CCC113A11B}
+      IID 478
+      NAME tank_engine_exhaust-glued-16.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6D6E8504-DDF3-9A40-80B2-021459DB2CAE}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust-glued-16.wav"
+      >
+    >
+    <ITEM
+      POSITION 884
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {76D36A2D-AE34-7046-9DBC-6C5059E82C46}
+      IID 481
+      NAME tank_engine_exhaust-glued-17.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FB6A4D1C-C7CB-4744-ACF0-323BE159A874}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust-glued-17.wav"
+      >
+    >
+    <ITEM
+      POSITION 898
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F894ACFB-3C04-E147-940A-1BEBB247E939}
+      IID 484
+      NAME tank_engine_exhaust-glued-18.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A1ECE495-BE53-B64C-9BF8-DF7E0DC73FCD}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust-glued-18.wav"
+      >
+    >
+    <ITEM
+      POSITION 914
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {058549CC-436A-134C-B6A1-F69E920363EF}
+      IID 487
+      NAME tank_engine_exhaust-glued-19.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {004C323E-BBC1-8E49-8980-2C1FC663C18E}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust-glued-19.wav"
+      >
+    >
+    <ITEM
+      POSITION 926
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {272D3DAA-0294-A94A-9B2A-8980FADEC3A9}
+      IID 490
+      NAME tank_engine_exhaust-glued-20.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {41044EFC-A3E7-4D46-AE78-311D1657A5C4}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust-glued-20.wav"
+      >
+    >
+    <ITEM
+      POSITION 938
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B809AFBF-EC9F-D246-955C-DD0014982ACE}
+      IID 493
+      NAME tank_engine_exhaust-glued-21.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {183242E3-0144-B245-87EE-41257C426A57}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust-glued-21.wav"
+      >
+    >
+    <ITEM
+      POSITION 956
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {131D8B64-EFC4-BD4E-B9C7-D9AE5A307C08}
+      IID 496
+      NAME tank_engine_exhaust-glued-22.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 -1 -1 0 0.0025
+      CHANMODE 0
+      GUID {16C66FE9-E8B2-AF4F-8FFA-026C130F8021}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust-glued-22.wav"
+      >
+    >
+    <ITEM
+      POSITION 966
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B4DFC092-BEE2-2140-AA89-A90342D989A1}
+      IID 511
+      NAME tank_engine_exhaust-glued-24.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {97F0E9BB-9A64-AC44-8921-4ECCCC570D14}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust-glued-24.wav"
+      >
+    >
+    <ITEM
+      POSITION 976
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 1
+      IGUID {2108485F-BC76-B74D-AA97-B4632EF7223C}
+      IID 499
+      NAME tank_engine_exhaust-glued-23.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {566926E9-83AC-6E46-A5C5-65C11D3B0897}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_exhaust-glued-23.wav"
+      >
+    >
+  >
+  <TRACK {894ABB98-A52C-7B43-AE00-9D4F6474EEE9}
+    NAME FRONT
+    PEAKCOL 24999597
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {894ABB98-A52C-7B43-AE00-9D4F6474EEE9}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 2213 677 805 404
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: H-EQ Mono (Waves)" "WaveShell-VST 9.2.vst" 0 "" 1212502349
+        TVFFSO5e7f4BAAAAAQAAAAAAAAABAAAAAwAAAAAAAABoCQAAAQAAAAAAEAA=
+        AAAJaAAAAAMAAAABSEVRTXNldEEAAAlIWFBzdDxQcmVzZXRDaHVua1hNTFRyZWUgdmVyc2lvbj0iMiI+Cgk8UHJlc2V0IE5hbWU9IiIgR2VuZXJpY1R5cGU9IkgtRVEi
+        PgoJCTxQcmVzZXRIZWFkZXI+CgkJCTxQbHVnaW5OYW1lPkgtRVE8L1BsdWdpbk5hbWU+CgkJCTxQbHVnaW5WZXJzaW9uPjkuMS4wPC9QbHVnaW5WZXJzaW9uPgoJCQk8
+        QWN0aXZlU2V0dXA+U0VUVVBfQTwvQWN0aXZlU2V0dXA+CgkJCTxSZWFkT25seT50cnVlPC9SZWFkT25seT4KCQk8L1ByZXNldEhlYWRlcj4KCQk8TWVzc2FnZVRvU2hl
+        bGwvPgoJCTxQcmVzZXREYXRhIFNldHVwPSJTRVRVUF9BIj4KCQkJPFBhcmFtZXRlcnMgVHlwZT0iUmVhbFdvcmxkIj4wLjQwMDAwMDAwMDAwMDAwMDAyMjIgMSAwIDAg
+        MCAwIDAgMCAqICoKKiAwIDAgMCAzMCA3NSAxLjUgMi41IDAKKiAqICogKiAwIDAgMCAwIDAKMCAwIDAgMCAwIDEgMSAxIDEKMSAxIDEgMSAxIDEgMSAxIDEKMSAwIDYg
+        MCAwIDAgMCAwIDAKNiAwIDAgMCAwIDAgMCAxMDAgMAoxMDAgMSAxIDg3IDg3IDEwMCAxMDAgNDk0IDQ5NAozNTIwIDM1MjAgMzUyMCAzNTIwIDMwIDMwIDEzOTA3IDEz
+        OTA3IDAKMCAtOC42NTAwMDAwMDAwMDAwMDAzNTUzIC04LjY1MDAwMDAwMDAwMDAwMDM1NTMgLTUuNDAwMDAwMDAwMDAwMDAwMzU1MyAtNS40MDAwMDAwMDAwMDAwMDAz
+        NTUzIDAgMCAzLjM1MDAwMDAwMDAwMDAwMDA4ODggMy4zNTAwMDAwMDAwMDAwMDAwODg4CjAgMCAwIDAgNTAgNTAgNjYuNzk5OTk5OTk5OTk5OTk3MTU4IDY2Ljc5OTk5
+        OTk5OTk5OTk5NzE1OCA1MAo1MCA1MCA1MCA1MCA1MCA1MCA1MCA1MCA1MAowIDAgMCAwIDAgMTIgOTEwMCA1IDEyMDAKMzc1MCA0NTUwIDQ3MDAgMy4wODk5OTk5OTk5
+        OTk5OTk4NTc5IDMuNSAxMDAgMjQgMTQwMCAxMDgwCjE0MDAgMTA4MCAxNDAwIDEwODAgMTQwMCAxMTMwIDMyLjUgMjQgMAoxIC04OCAtMTYuNSAxMDkgMC43MDg5OTk5
+        OTk5OTk5OTk5NjM1OCA4IDIgMCAqCiogMCAxIDEgMCAxMCAqICogKgoxOTkgMCAqICogMSAxIDEgLTk4IDMwCjIwMCAtMTIuMTk5OTk5OTk5OTk5OTk5Mjg5IDExMTI0
+        IC05OCAwIC0yOS41IDEyNS4yOTk5OTk5OTk5OTk5OTcxNiAyMi4zMDAwMDAwMDAwMDAwMDA3MTEgMjUwCjAgODg3Ny44OTk5OTk5OTk5OTc4MTcyIDcuMDk5OTk5OTk5
+        OTk5OTk5NjQ0NyAwIC0yMC4xMDAwMDAwMDAwMDAwMDE0MjEgMCAxNiAwIDE3MDI2LjI5OTk5OTk5OTk5OTI3MgowIDAgMCAwIC0yOS41IDEyNS4yOTk5OTk5OTk5OTk5
+        OTcxNiAyMi4zMDAwMDAwMDAwMDAwMDA3MTEgMjUwIDAKODg3Ny44OTk5OTk5OTk5OTc4MTcyIDcuMDk5OTk5OTk5OTk5OTk5NjQ0NyAwIC0yMC4xMDAwMDAwMDAwMDAw
+        MDE0MjEgLTE0MCAwIDAgMCAxCjAgMCAwIDEgMSAxIDEgMCAqCiogPC9QYXJhbWV0ZXJzPgoJCTwvUHJlc2V0RGF0YT4KCQk8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBf
+        QiI+CgkJCTxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+MC40MDAwMDAwMDAwMDAwMDAwMjIyIDEgMCAwIDAgMCAwIDAgKiAqCiogMCAwIDAgMzAgNzUgMS41IDIu
+        NSAwCiogKiAqICogMCAwIDAgMCAwCjAgMCAwIDAgMCAxIDEgMSAxCjEgMCAwIDEgMSAxIDEgMSAwCjAgMCAwIDAgMCAwIDAgMCAwCjAgMCAwIDAgMCAwIDAgMTAwIDAK
+        MTAwIDEgMSA4NyA4NyA0OTQgNDk0IDk4OCA5ODgKMzUyMCAzNTIwIDgzNzIgODM3MiAzMCAzMCAxNjA1NiAxNjA1NiAwCjAgMCAwIDAgMCAwIDAgMCAwCjAgMCAwIDAg
+        NTAgNTAgNTAgNTAgNTAKNTAgNTAgNTAgNTAgNTAgNTAgNTAgNTAgNTAKMCAwIDAgMCAwIDEyIDkxMDAgNSAxMjAwCjM3NTAgNDU1MCA0NzAwIDMuMDg5OTk5OTk5OTk5
+        OTk5ODU3OSAzLjUgMTAwIDI0IDE0MDAgMTA4MAoxNDAwIDEwODAgMTQwMCAxMDgwIDE0MDAgMTEzMCAzMi41IDI0IDAKMSAtODggLTE2LjUgMTA5IDAuNzA4OTk5OTk5
+        OTk5OTk5OTYzNTggOCAyIDAgKgoqIDAgMSAxIDAgMTAgKiAqICoKMTk5IDAgKiAqIDEgMSAxIC05OCAzMAoyMDAgLTEyLjE5OTk5OTk5OTk5OTk5OTI4OSAxMTEyNCAt
+        OTggMCAtMjkuNSAxMjUuMjk5OTk5OTk5OTk5OTk3MTYgMjIuMzAwMDAwMDAwMDAwMDAwNzExIDI1MAowIDg4NzcuODk5OTk5OTk5OTk3ODE3MiA3LjA5OTk5OTk5OTk5
+        OTk5OTY0NDcgMCAtMjAuMTAwMDAwMDAwMDAwMDAxNDIxIDAgMTYgMCAxNzAyNi4yOTk5OTk5OTk5OTkyNzIKMCAwIDAgMCAtMjkuNSAxMjUuMjk5OTk5OTk5OTk5OTk3
+        MTYgMjIuMzAwMDAwMDAwMDAwMDAwNzExIDI1MCAwCjg4NzcuODk5OTk5OTk5OTk3ODE3MiA3LjA5OTk5OTk5OTk5OTk5OTY0NDcgMCAtMjAuMTAwMDAwMDAwMDAwMDAx
+        NDIxIC0xNDAgMCAwIDAgMQowIDAgMCAxIDEgMSAxIDAgKgoqIDwvUGFyYW1ldGVycz4KCQk8L1ByZXNldERhdGE+Cgk8L1ByZXNldD4KPC9QcmVzZXRDaHVua1hNTFRy
+        ZWU+CmFtZXQ=
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {DDE2AC64-81B4-234F-9935-BA8644E9F5A4}
+      WAK 0
+      BYPASS 0 0 0
+      <VST "VST: C1 comp Mono (Waves)" "WaveShell-VST 9.2.vst" 0 "" 1129140301
+        TVBNQ+5e7f4BAAAAAQAAAAAAAAABAAAAAwAAAAAAAAC4AwAAAQAAAAAAEAA=
+        AAADuAAAAAMAAAABQ01QTXNldEEAAAOYWFBzdDxQcmVzZXRDaHVua1hNTFRyZWUgdmVyc2lvbj0iMiI+Cgk8UHJlc2V0IE5hbWU9IkNsYXNzaWMgY29tcHJlc3NvciIg
+        R2VuZXJpY1R5cGU9IkMxICAiPgoJCTxQcmVzZXRIZWFkZXI+CgkJCTxQbHVnaW5OYW1lPkMxQ29tcDwvUGx1Z2luTmFtZT4KCQkJPFBsdWdpblZlcnNpb24+OS4xLjA8
+        L1BsdWdpblZlcnNpb24+CgkJCTxBY3RpdmVTZXR1cD5TRVRVUF9BPC9BY3RpdmVTZXR1cD4KCQkJPFJlYWRPbmx5PnRydWU8L1JlYWRPbmx5PgoJCTwvUHJlc2V0SGVh
+        ZGVyPgoJCTxNZXNzYWdlVG9TaGVsbC8+CgkJPFByZXNldERhdGEgU2V0dXA9IlNFVFVQX0EiIFNldHVwTmFtZT0iQ2xhc3NpYyBjb21wcmVzc29yIj4KCQkJPFBhcmFt
+        ZXRlcnMgVHlwZT0iUmVhbFdvcmxkIj4wLjAxMDAwMDAwMDAwMDAwMDAwMDIwOCAxIDIgMTAwIDAgLTY2IC02NiAxIC0xMDAgKgoqIDAgLTEwMCAtMTAwIDIgMTAwIDEw
+        IC0yMi4xMDAwMDAwMDAwMDAwMDE0MjEgNy4wMzAwMDAwMDAwMDAwMDAyNDg3CjYgMCAqICogMCAwIDAgLTEwMCAtMjAKKiAqICogKiAwIDAgMSA3MTI3IDAuNTk5OTk5
+        OTk5OTk5OTk5OTc3OAowIDAgMTczIDE3MyAyIDAgMCA1ICoKKiAqICogKiA8L1BhcmFtZXRlcnM+CgkJPC9QcmVzZXREYXRhPgoJCTxQcmVzZXREYXRhIFNldHVwPSJT
+        RVRVUF9CIj4KCQkJPFBhcmFtZXRlcnMgVHlwZT0iUmVhbFdvcmxkIj4wLjAxMDAwMDAwMDAwMDAwMDAwMDIwOCAwIDIgMzAgMCAtMTAwIC0xMDAgMCAtMTAwICoKKiAw
+        IC0xMDAgLTEwMCAyIDUwIDAgMCAxCjAgMCAqICogMCAwIDAgLTEwMCAtMTAwCiogKiAqICogMCAwIDAgNzE3OSAwLjU5OTk5OTk5OTk5OTk5OTk3NzgKMCAwIDE3MyAx
+        NzMgMCAwIDAgMCAqCiogKiAqICogPC9QYXJhbWV0ZXJzPgoJCTwvUHJlc2V0RGF0YT4KCTwvUHJlc2V0Pgo8L1ByZXNldENodW5rWE1MVHJlZT4KAQAAAA==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {9D6FEA7C-2616-D946-ADD6-58A476F9A09F}
+      WAK 0
+    >
+    <ITEM
+      POSITION 728
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.836659 0 1 0 0
+      FADEOUT 1 2.546939 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0B815768-1F7D-3A41-B7AE-5CC63C4D47CF}
+      IID 294
+      NAME tank_engine_front-glued-02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C958981E-46FA-E14B-92C5-FC6183CBA9BB}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front-glued-02.wav"
+      >
+    >
+    <ITEM
+      POSITION 735
+      SNAPOFFS 0
+      LENGTH 7
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.379526 0 1 0 0
+      FADEOUT 1 2.988573 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A60E5130-6CA9-C542-9434-65691C543EB7}
+      IID 297
+      NAME tank_engine_front-glued-03.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F8E7329C-BFDE-7543-845B-C777970AF268}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front-glued-03.wav"
+      >
+    >
+    <ITEM
+      POSITION 745
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.759051 0 1 0 0
+      FADEOUT 1 4.703677 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D2C86BB8-21CD-0D49-8C9C-842F9D1E3121}
+      IID 300
+      NAME tank_engine_front-glued-04.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {11788BE4-BD2D-5B47-80B8-32BF12B5AAE8}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front-glued-04.wav"
+      >
+    >
+    <ITEM
+      POSITION 757
+      SNAPOFFS 0
+      LENGTH 8.5031957076187
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.324242 0 1 0 0
+      FADEOUT 1 3.241161 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {904F991A-5604-7F43-B505-046158726208}
+      IID 303
+      NAME tank_engine_front-glued-05.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CFF5303F-C949-DC4E-8608-EC8BBB171447}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front-glued-05.wav"
+      >
+    >
+    <ITEM
+      POSITION 768
+      SNAPOFFS 0
+      LENGTH 7.49150097599909
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {77E6F018-766E-2F49-8AF5-E656AB338AE5}
+      IID 388
+      NAME tank_engine_front-glued-06.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {02E75D47-3AFA-C941-8BC1-0404456173A0}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front-glued-06.wav"
+      >
+    >
+    <ITEM
+      POSITION 778.5
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C976D7A0-549C-D546-BAFB-D5441809FCEA}
+      IID 391
+      NAME tank_engine_front-glued-07.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ACB97DF9-1B08-CD40-A27C-7B9538B70315}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front-glued-07.wav"
+      >
+    >
+    <ITEM
+      POSITION 788.5
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C0EA3D64-9BA8-7A42-A402-8D5F7E49C856}
+      IID 400
+      NAME tank_engine_front-glued-08.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F0018DDF-A683-EE42-A35B-FD6B6E236CE1}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front-glued-08.wav"
+      >
+    >
+    <ITEM
+      POSITION 798
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {048E1663-1A46-1B41-80B0-163144306545}
+      IID 403
+      NAME tank_engine_front-glued-09.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B22C46E4-6A7E-4044-913F-562F3284DB3B}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front-glued-09.wav"
+      >
+    >
+    <ITEM
+      POSITION 808
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6C371C22-752D-FD41-AC8B-0D3470DDEC2F}
+      IID 464
+      NAME tank_engine_front-glued-10.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {24EA2762-DF92-D14C-B85E-0C0C75CC8D83}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front-glued-10.wav"
+      >
+    >
+    <ITEM
+      POSITION 818
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1DF535BE-4D30-8B43-B17C-68E2746FDDA5}
+      IID 467
+      NAME tank_engine_front-glued-11.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {194DE4C9-EE93-1949-9EBF-E4E1B9FE47A2}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front-glued-11.wav"
+      >
+    >
+    <ITEM
+      POSITION 828
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2DFBF8E5-8880-EB4A-B8C5-68DCA1C9C952}
+      IID 470
+      NAME tank_engine_front-glued-12.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CB1C663A-6C1A-064D-8F0B-CE6F0563C815}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front-glued-12.wav"
+      >
+    >
+    <ITEM
+      POSITION 844.5
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3353BF35-670D-904A-ADA6-ED51FC990B23}
+      IID 473
+      NAME tank_engine_front-glued-13.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C1D7598E-2F6A-D44F-A921-A336E032A694}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front-glued-13.wav"
+      >
+    >
+    <ITEM
+      POSITION 862
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {953C8150-B7FC-7C48-AD84-38294F27A965}
+      IID 476
+      NAME tank_engine_front-glued-14.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {40CA3FE7-934F-B64E-98D9-5D6DD08E4B11}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front-glued-14.wav"
+      >
+    >
+    <ITEM
+      POSITION 874
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E6120862-9C5B-7341-AB3F-29D65F78D936}
+      IID 479
+      NAME tank_engine_front-glued-15.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {509924DF-F071-9542-87E2-6CEA7FB9A13A}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front-glued-15.wav"
+      >
+    >
+    <ITEM
+      POSITION 884
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {32350C05-D48A-D846-84FB-DFA02EC2A727}
+      IID 482
+      NAME tank_engine_front-glued-16.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5CB3A2C6-623D-534A-AD28-1C6C79A25759}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front-glued-16.wav"
+      >
+    >
+    <ITEM
+      POSITION 898
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9EE2983C-FB04-2743-B82C-E016C1906E24}
+      IID 485
+      NAME tank_engine_front-glued-17.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A06A390C-C4EC-2E41-BA40-0EE4DC32FB38}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front-glued-17.wav"
+      >
+    >
+    <ITEM
+      POSITION 914
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7AEAA91F-02EA-A54B-8B96-8BC663677D81}
+      IID 488
+      NAME tank_engine_front-glued-18.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {099996F5-58E6-CA4D-936F-5A71196B2DCF}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front-glued-18.wav"
+      >
+    >
+    <ITEM
+      POSITION 926
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C3B29DF1-8A15-6D4E-B285-ABDC49E29232}
+      IID 491
+      NAME tank_engine_front-glued-19.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {606A8D70-6926-E442-BCCE-F661ABAC1737}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front-glued-19.wav"
+      >
+    >
+    <ITEM
+      POSITION 938
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {22353FAC-3AE5-894B-8E6D-7FF6A87D476F}
+      IID 494
+      NAME tank_engine_front-glued-20.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2B6BABEB-7C45-ED4D-A5B5-FDBD7B5BBCD8}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front-glued-20.wav"
+      >
+    >
+    <ITEM
+      POSITION 956
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {557CFF16-4A2E-1442-9D31-02E2B7F94E74}
+      IID 497
+      NAME tank_engine_front-glued-21.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 -1 -1 0 0.0025
+      CHANMODE 0
+      GUID {68FED60B-5D77-3540-9A92-257BDAFF1888}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front-glued-21.wav"
+      >
+    >
+    <ITEM
+      POSITION 966
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F589543F-EFB1-6143-8B71-D468CE24C04C}
+      IID 512
+      NAME tank_engine_front-glued-23.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {32C98596-76AC-2D40-9B67-863051604DAF}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front-glued-23.wav"
+      >
+    >
+    <ITEM
+      POSITION 976
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {13CF3BD3-7512-4D46-9DBA-634561FA4617}
+      IID 500
+      NAME tank_engine_front-glued-22.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AA98E0C3-9CA0-3B49-95FE-A93822D7950E}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_engine_front-glued-22.wav"
+      >
+    >
+  >
+  <TRACK {8A4C58A6-B5E3-704D-8AFF-C2A7E337DDCF}
+    NAME TRACKS
+    PEAKCOL 19054754
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 86 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {8A4C58A6-B5E3-704D-8AFF-C2A7E337DDCF}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 2245 679 712 370
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: H-EQ Mono (Waves)" "WaveShell-VST 9.2.vst" 0 "" 1212502349
+        TVFFSO5e7f4BAAAAAQAAAAAAAAABAAAAAwAAAAAAAAAeCQAAAQAAAAAAEAA=
+        AAAJHgAAAAMAAAABSEVRTXNldEEAAAj+WFBzdDxQcmVzZXRDaHVua1hNTFRyZWUgdmVyc2lvbj0iMiI+Cgk8UHJlc2V0IE5hbWU9IiIgR2VuZXJpY1R5cGU9IkgtRVEi
+        PgoJCTxQcmVzZXRIZWFkZXI+CgkJCTxQbHVnaW5OYW1lPkgtRVE8L1BsdWdpbk5hbWU+CgkJCTxQbHVnaW5WZXJzaW9uPjkuMS4wPC9QbHVnaW5WZXJzaW9uPgoJCQk8
+        QWN0aXZlU2V0dXA+U0VUVVBfQTwvQWN0aXZlU2V0dXA+CgkJCTxSZWFkT25seT50cnVlPC9SZWFkT25seT4KCQk8L1ByZXNldEhlYWRlcj4KCQk8TWVzc2FnZVRvU2hl
+        bGwvPgoJCTxQcmVzZXREYXRhIFNldHVwPSJTRVRVUF9BIj4KCQkJPFBhcmFtZXRlcnMgVHlwZT0iUmVhbFdvcmxkIj4wLjQwMDAwMDAwMDAwMDAwMDAyMjIgMSAwIDAg
+        MCAwIDAgMCAqICoKKiAwIDAgMCAzMCA3NSAxLjUgMi41IDAKKiAqICogKiAwIDAgMCAwIDAKMCAwIDAgMCAwIDEgMSAxIDEKMSAxIDAgMSAxIDEgMSAxIDEKMCAwIDAg
+        MCAwIDAgMCAwIDAKMCAwIDAgMCAwIDAgMCAxMDAgMAoxMDAgMSAxIDg3IDg3IDkxMyA5MTMgOTg4IDk4OAozNTIwIDM1MjAgMzcwNiAzNzA2IDI4OS41IDI4OS41IDE2
+        MDU2IDE2MDU2IDAKMCAtMC40NTAwMDAwMDAwMDAwMDAwMTExIC0wLjQ1MDAwMDAwMDAwMDAwMDAxMTEgMCAwIDAgMCAxLjA1MDAwMDAwMDAwMDAwMDA0NDQgMS4wNTAw
+        MDAwMDAwMDAwMDAwNDQ0CjAgMCAwIDAgNTAgNTAgNTAgNTAgNTAKNTAgNTAgNTAgNTAgNTAgNTAgNTAgNTAgNTAKMCAwIDAgMCAwIDEyIDkxMDAgNSAxMjAwCjM3NTAg
+        NDU1MCA0NzAwIDMuMDg5OTk5OTk5OTk5OTk5ODU3OSAzLjUgMTAwIDI0IDE0MDAgMTA4MAoxNDAwIDEwODAgMTQwMCAxMDgwIDE0MDAgMTEzMCAzMi41IDI0IDAKMSAt
+        ODggLTE2LjUgMTA5IDAuNzA4OTk5OTk5OTk5OTk5OTYzNTggOCAyIDAgKgoqIDAgMSAxIDAgMTAgKiAqICoKMTk5IDAgKiAqIDEgMSAxIC05OCAzMAoyMDAgLTEyLjE5
+        OTk5OTk5OTk5OTk5OTI4OSAxMTEyNCAtOTggMCAtMjkuNSAxMjUuMjk5OTk5OTk5OTk5OTk3MTYgMjIuMzAwMDAwMDAwMDAwMDAwNzExIDI1MAowIDg4NzcuODk5OTk5
+        OTk5OTk3ODE3MiA3LjA5OTk5OTk5OTk5OTk5OTY0NDcgMCAtMjAuMTAwMDAwMDAwMDAwMDAxNDIxIDAgMTYgMCAxNzAyNi4yOTk5OTk5OTk5OTkyNzIKMCAwIDAgMCAt
+        MjkuNSAxMjUuMjk5OTk5OTk5OTk5OTk3MTYgMjIuMzAwMDAwMDAwMDAwMDAwNzExIDI1MCAwCjg4NzcuODk5OTk5OTk5OTk3ODE3MiA3LjA5OTk5OTk5OTk5OTk5OTY0
+        NDcgMCAtMjAuMTAwMDAwMDAwMDAwMDAxNDIxIC0xNDAgMCAwIDAgMQowIDAgMCAxIDEgMSAxIDAgKgoqIDwvUGFyYW1ldGVycz4KCQk8L1ByZXNldERhdGE+CgkJPFBy
+        ZXNldERhdGEgU2V0dXA9IlNFVFVQX0IiPgoJCQk8UGFyYW1ldGVycyBUeXBlPSJSZWFsV29ybGQiPjAuNDAwMDAwMDAwMDAwMDAwMDIyMiAxIDAgMCAwIDAgMCAwICog
+        KgoqIDAgMCAwIDMwIDc1IDEuNSAyLjUgMAoqICogKiAqIDAgMCAwIDAgMAowIDAgMCAwIDAgMSAxIDEgMQoxIDAgMCAxIDEgMSAxIDEgMAowIDAgMCAwIDAgMCAwIDAg
+        MAowIDAgMCAwIDAgMCAwIDEwMCAwCjEwMCAxIDEgODcgODcgNDk0IDQ5NCA5ODggOTg4CjM1MjAgMzUyMCA4MzcyIDgzNzIgMzAgMzAgMTYwNTYgMTYwNTYgMAowIDAg
+        MCAwIDAgMCAwIDAgMAowIDAgMCAwIDUwIDUwIDUwIDUwIDUwCjUwIDUwIDUwIDUwIDUwIDUwIDUwIDUwIDUwCjAgMCAwIDAgMCAxMiA5MTAwIDUgMTIwMAozNzUwIDQ1
+        NTAgNDcwMCAzLjA4OTk5OTk5OTk5OTk5OTg1NzkgMy41IDEwMCAyNCAxNDAwIDEwODAKMTQwMCAxMDgwIDE0MDAgMTA4MCAxNDAwIDExMzAgMzIuNSAyNCAwCjEgLTg4
+        IC0xNi41IDEwOSAwLjcwODk5OTk5OTk5OTk5OTk2MzU4IDggMiAwICoKKiAwIDEgMSAwIDEwICogKiAqCjE5OSAwICogKiAxIDEgMSAtOTggMzAKMjAwIC0xMi4xOTk5
+        OTk5OTk5OTk5OTkyODkgMTExMjQgLTk4IDAgLTI5LjUgMTI1LjI5OTk5OTk5OTk5OTk5NzE2IDIyLjMwMDAwMDAwMDAwMDAwMDcxMSAyNTAKMCA4ODc3Ljg5OTk5OTk5
+        OTk5NzgxNzIgNy4wOTk5OTk5OTk5OTk5OTk2NDQ3IDAgLTIwLjEwMDAwMDAwMDAwMDAwMTQyMSAwIDE2IDAgMTcwMjYuMjk5OTk5OTk5OTk5MjcyCjAgMCAwIDAgLTI5
+        LjUgMTI1LjI5OTk5OTk5OTk5OTk5NzE2IDIyLjMwMDAwMDAwMDAwMDAwMDcxMSAyNTAgMAo4ODc3Ljg5OTk5OTk5OTk5NzgxNzIgNy4wOTk5OTk5OTk5OTk5OTk2NDQ3
+        IDAgLTIwLjEwMDAwMDAwMDAwMDAwMTQyMSAtMTQwIDAgMCAwIDEKMCAwIDAgMSAxIDEgMSAwICoKKiA8L1BhcmFtZXRlcnM+CgkJPC9QcmVzZXREYXRhPgoJPC9QcmVz
+        ZXQ+CjwvUHJlc2V0Q2h1bmtYTUxUcmVlPgovUHJl
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {AEE1E534-E338-8A4C-8591-BEA1205FF87E}
+      WAK 0
+      BYPASS 0 0 0
+      <VST "VST: TransX Multi Mono (Waves)" "WaveShell-VST 9.2.vst" 0 "" 1415066701
+        TTRYVO5e7f4BAAAAAQAAAAAAAAABAAAAAwAAAAAAAAAdBAAAAQAAAAAAEAA=
+        AAAEHQAAAAMAAAABVFg0TXNldEEAAAP9WFBzdDxQcmVzZXRDaHVua1hNTFRyZWUgdmVyc2lvbj0iMiI+Cgk8UHJlc2V0IE5hbWU9Ik1vcmUgUHVuY2giIEdlbmVyaWNU
+        eXBlPSJUWFREIj4KCQk8UHJlc2V0SGVhZGVyPgoJCQk8UGx1Z2luTmFtZT5UcmFuc1g8L1BsdWdpbk5hbWU+CgkJCTxQbHVnaW5WZXJzaW9uPjkuMS4wPC9QbHVnaW5W
+        ZXJzaW9uPgoJCQk8QWN0aXZlU2V0dXA+U0VUVVBfQTwvQWN0aXZlU2V0dXA+CgkJCTxSZWFkT25seT50cnVlPC9SZWFkT25seT4KCQk8L1ByZXNldEhlYWRlcj4KCQk8
+        TWVzc2FnZVRvU2hlbGwvPgoJCTxQcmVzZXREYXRhIFNldHVwPSJTRVRVUF9BIiBTZXR1cE5hbWU9Ik1vcmUgUHVuY2giPgoJCQk8UGFyYW1ldGVycyBUeXBlPSJSZWFs
+        V29ybGQiPjkxIDU2MSA0NTU1IDAuNTk5OTk5OTk5OTk5OTk5OTc3OCAwIDUuNTQ5OTk5OTk5OTk5OTk5ODIyNCAxODYuMTk5OTk5OTk5OTk5OTg4NjMgMCAxMiAqCiog
+        KiAqICogKiAwIDEgMCAwCjYuNzk5OTk5OTk5OTk5OTk5ODIyNCAwLjUgMSAxIDAgMCAqIDAgMAoxIDAgMTAgNi43OTk5OTk5OTk5OTk5OTk4MjI0IDAuNSAxIDEgMCAw
+        CiogMCAwIDEgMCAwIDguOTAwMDAwMDAwMDAwMDAwMzU1MyAwLjUgMQoxIDAgMCAqIDAgMCAxIDAgNC43OTk5OTk5OTk5OTk5OTk4MjI0CjguOTAwMDAwMDAwMDAwMDAw
+        MzU1MyAwLjUgMSAxIDAgMCAqIDAgPC9QYXJhbWV0ZXJzPgoJCTwvUHJlc2V0RGF0YT4KCQk8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQiI+CgkJCTxQYXJhbWV0ZXJz
+        IFR5cGU9IlJlYWxXb3JsZCI+ODAgNTAwIDQwMDAgMC41OTk5OTk5OTk5OTk5OTk5Nzc4IDAgNC45ODAwMDAwMDAwMDAwMDA0MjYzIDEwLjAxOTk5OTk5OTk5OTk5OTU3
+        NCAwIDAgKgoqICogKiAqICogMCAxIDAgMAo2IDAuNSAxIDEgMCAwICogMCAwCjEgMCAwIDYgMC41IDEgMSAwIDAKKiAwIDAgMSAwIDAgNiAwLjUgMQoxIDAgMCAqIDAg
+        MCAxIDAgMAo2IDAuNSAxIDEgMCAwICogMCA8L1BhcmFtZXRlcnM+CgkJPC9QcmVzZXREYXRhPgoJPC9QcmVzZXQ+CjwvUHJlc2V0Q2h1bmtYTUxUcmVlPgoqIAA4
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {7282CB39-ADCA-1648-9F3D-B6944E90A529}
+      WAK 0
+    >
+    <ITEM
+      POSITION 728
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.836659 0 1 0 0
+      FADEOUT 1 2.546939 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9F4546FA-CB7B-B246-9DDA-6470E7D174BD}
+      IID 295
+      NAME tank_tracks-glued-01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B75B8D50-BB87-3A4F-964B-0D4F438BFA6D}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks-glued-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 735
+      SNAPOFFS 0
+      LENGTH 7
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.379526 0 1 0 0
+      FADEOUT 1 2.988573 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {10172A56-8334-9449-994A-B72A0D3FF046}
+      IID 298
+      NAME tank_tracks-glued-02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8F8A7796-0966-6C4F-B391-871891251E2C}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks-glued-02.wav"
+      >
+    >
+    <ITEM
+      POSITION 745
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.759051 0 1 0 0
+      FADEOUT 1 4.703677 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {73A419E6-C728-9342-B53E-6D998FEDF176}
+      IID 301
+      NAME tank_tracks-glued-03.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0350E93E-1241-2841-93FD-B00374942831}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks-glued-03.wav"
+      >
+    >
+    <ITEM
+      POSITION 757
+      SNAPOFFS 0
+      LENGTH 8.5031957076187
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.324242 0 1 0 0
+      FADEOUT 1 3.241161 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4BF0B1CC-D05E-E848-9C59-F9E8F3B9351A}
+      IID 304
+      NAME tank_tracks-glued-04.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9FC4E4E4-095A-5043-9FFF-7147497E642E}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks-glued-04.wav"
+      >
+    >
+    <ITEM
+      POSITION 768
+      SNAPOFFS 0
+      LENGTH 7.49150097599909
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A6DA10A2-C987-264C-85DA-2B6981CA9BF0}
+      IID 389
+      NAME tank_tracks-glued-05.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DAC67F41-3E67-864F-BD9A-A89D0B57E1B4}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks-glued-05.wav"
+      >
+    >
+    <ITEM
+      POSITION 778.5
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {26271DE8-2524-3A44-AB2B-FCFCE6FDF7B3}
+      IID 392
+      NAME tank_tracks-glued-06.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8E96DA6C-22F9-1149-98D2-E01A05283900}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks-glued-06.wav"
+      >
+    >
+    <ITEM
+      POSITION 788.5
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {ADC9F289-742A-4543-BB43-064F0E7772D6}
+      IID 401
+      NAME tank_tracks-glued-07.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C5A5E58D-65CE-DA48-9D5C-4EF58DA39189}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks-glued-07.wav"
+      >
+    >
+    <ITEM
+      POSITION 798
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6B36F46F-A10F-2E44-9707-E5A96030E647}
+      IID 404
+      NAME tank_tracks-glued-08.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {179DD474-9B2D-1E44-852D-0344DDE87974}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks-glued-08.wav"
+      >
+    >
+    <ITEM
+      POSITION 808
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F40A2D5A-741B-584C-9018-104752ADF222}
+      IID 465
+      NAME tank_tracks-glued-09.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5FC46EF6-9B74-AD49-B42A-62C9E1721B88}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks-glued-09.wav"
+      >
+    >
+    <ITEM
+      POSITION 818
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E827AD42-3114-9445-BB6A-88ABC2D9EF31}
+      IID 468
+      NAME tank_tracks-glued-10.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F3DEF938-C963-7146-B0C4-C68EBBA04799}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks-glued-10.wav"
+      >
+    >
+    <ITEM
+      POSITION 828
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {84679583-1C04-3943-BC2C-DAE8C3977667}
+      IID 471
+      NAME tank_tracks-glued-11.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {854A701A-B3B1-0640-A235-EE250C00E7CB}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks-glued-11.wav"
+      >
+    >
+    <ITEM
+      POSITION 844.5
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B412DB6B-A28D-0C47-9175-56D103DC4550}
+      IID 474
+      NAME tank_tracks-glued-12.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B156912D-FD5A-AA4E-AC65-8CECC0B1618A}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks-glued-12.wav"
+      >
+    >
+    <ITEM
+      POSITION 862
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FB68524F-0326-1C4C-91F6-7182FCA4232C}
+      IID 477
+      NAME tank_tracks-glued-13.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2E07CF92-16AE-5E4B-99F6-2AD80A131EB7}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks-glued-13.wav"
+      >
+    >
+    <ITEM
+      POSITION 874
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E598BD20-4E89-6C40-852B-4D5E1E29F3CF}
+      IID 480
+      NAME tank_tracks-glued-14.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1F2F3A79-DD84-3D4C-B0EA-FE800FF72966}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks-glued-14.wav"
+      >
+    >
+    <ITEM
+      POSITION 884
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {BA8B0FCC-30AE-544F-9932-A4EEE309BDB1}
+      IID 483
+      NAME tank_tracks-glued-15.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9868DDE5-4E49-6D49-815F-F339FF6326F1}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks-glued-15.wav"
+      >
+    >
+    <ITEM
+      POSITION 898
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {16B86929-B88A-6543-9155-B9B6B532BB7C}
+      IID 486
+      NAME tank_tracks-glued-16.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CE6CAE57-B9F3-CE49-BC61-1C24F982AD69}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks-glued-16.wav"
+      >
+    >
+    <ITEM
+      POSITION 914
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {271BC670-53CF-3D41-AF64-8E4FA416D973}
+      IID 489
+      NAME tank_tracks-glued-17.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {90721EEB-9985-0D45-9E13-FE6C24920231}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks-glued-17.wav"
+      >
+    >
+    <ITEM
+      POSITION 926
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D20EBBE4-7408-BE48-860B-AE15D0093E5E}
+      IID 492
+      NAME tank_tracks-glued-18.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {32A816E5-8481-734D-9D22-A0B56A6E59C8}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks-glued-18.wav"
+      >
+    >
+    <ITEM
+      POSITION 938
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4DBA7AF4-BDC3-2B4F-852D-765BBB809CB4}
+      IID 495
+      NAME tank_tracks-glued-19.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D12F1D64-F22A-754A-9470-A313D50475D8}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks-glued-19.wav"
+      >
+    >
+    <ITEM
+      POSITION 956
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {24486D08-2A4F-2D44-B007-2E4F538AB2C4}
+      IID 498
+      NAME tank_tracks-glued-20.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 -1 -1 0 0.0025
+      CHANMODE 0
+      GUID {0A9AB170-5C0C-1348-8B3F-162327952509}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks-glued-20.wav"
+      >
+    >
+    <ITEM
+      POSITION 966
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D67D7D12-2B86-914A-9E5A-36151743DFC2}
+      IID 513
+      NAME tank_tracks-glued-22.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {091803B9-3079-784A-B783-0DB84A3C8650}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks-glued-22.wav"
+      >
+    >
+    <ITEM
+      POSITION 976
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {98363D2B-F7A0-004E-942E-BF6E10A5B576}
+      IID 501
+      NAME tank_tracks-glued-21.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {56F3D062-544A-2544-97A6-D059CA313D67}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks-glued-21.wav"
+      >
+    >
+    <ITEM
+      POSITION 1024
+      SNAPOFFS 0
+      LENGTH 9
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AFBBB507-DA94-0246-85F1-B506FFD4A36D}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 480
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6949F52D-59E8-4F40-A027-5577A9AF9B22}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 1034
+      SNAPOFFS 0
+      LENGTH 9
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {54FFD35C-EF92-954C-8978-4E27030BAA8B}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 357
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D8A186C8-C88B-1241-9599-D67E7E57A694}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+    <ITEM
+      POSITION 1044
+      SNAPOFFS 0
+      LENGTH 9
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A3FDE963-6954-9D4C-A9E1-C40A85973D8F}
+      IID 4
+      NAME tank_tracks.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 212
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D261771D-BC99-A347-BC13-90BC26065042}
+      <SOURCE WAVE
+        FILE "MediaFiles/tank_tracks.wav"
+      >
+    >
+  >
+  <EXTENSIONS
+  >
+>
