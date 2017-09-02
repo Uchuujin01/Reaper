@@ -1,0 +1,4764 @@
+<REAPER_PROJECT 0.1 "5.40/OSX64" 1504316688
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 0 30 0
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 585.5
+  ZOOM 89.23017016889276 51226 0
+  VZOOMEX 2
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 1
+  LOOPGRAN 0 4
+  RECORD_PATH "MediaFiles" ""
+  <RECORD_CFG
+    ZXZhdxgAAA==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "/Users/antonkuznecov/GIT/Reaper/BF109_FMOD/MediaFiles"
+  RENDER_PATTERN $region
+  RENDER_FMT 0 1 0
+  RENDER_1X 0
+  RENDER_RANGE 3 0 0 18 1000
+  RENDER_RESAMPLE 8 3 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 8
+  RENDER_DITHER 0
+  TIMELOCKMODE 0
+  TEMPOENVLOCKMODE 0
+  ITEMMIX 0
+  DEFPITCHMODE 589824
+  TAKELANE 1
+  SAMPLERATE 48000 1 0
+  <RENDER_CFG
+    ZXZhdxgAAA==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    ACT 0
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 0
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  MARKER 1 78 "SELECTED TAKE" 1 27525120 1 B
+  MARKER 1 418 "" 1 27525120 1 B
+  MARKER 3 112.02743590330446 bf109_engine_left_1 1 0 1 B
+  <REGIONRENDER 3
+    TRACK {1A0C8295-7CC0-814D-8ED5-935A7BA662EB}
+  >
+  MARKER 3 117.15705206203825 "" 1 0 1 B
+  MARKER 2 117.5 bf109_engine_right_1 1 0 1 B
+  <REGIONRENDER 2
+    TRACK {1A0C8295-7CC0-814D-8ED5-935A7BA662EB}
+  >
+  MARKER 2 122.5 "" 1 0 1 B
+  MARKER 4 227 bf109_engine_left_2 1 0 1 B
+  <REGIONRENDER 4
+    TRACK {1A0C8295-7CC0-814D-8ED5-935A7BA662EB}
+  >
+  MARKER 4 232 "" 1 0 1 B
+  MARKER 7 232 bf109_engine_right_2 1 0 1 B
+  <REGIONRENDER 7
+    TRACK {1A0C8295-7CC0-814D-8ED5-935A7BA662EB}
+  >
+  MARKER 7 237.2628956381356 "" 1 0 1 B
+  MARKER 5 318 bf109_engine_left_3 1 0 1 B
+  <REGIONRENDER 5
+    TRACK {1A0C8295-7CC0-814D-8ED5-935A7BA662EB}
+  >
+  MARKER 5 323 "" 1 0 1 B
+  MARKER 8 323 bf109_engine_right_3 1 0 1 B
+  <REGIONRENDER 8
+    TRACK {1A0C8295-7CC0-814D-8ED5-935A7BA662EB}
+  >
+  MARKER 8 328 "" 1 0 1 B
+  MARKER 6 370.5 bf109_engine_left_4 1 0 1 B
+  <REGIONRENDER 6
+    TRACK {1A0C8295-7CC0-814D-8ED5-935A7BA662EB}
+  >
+  MARKER 6 373.75675377829373 "" 1 0 1 B
+  MARKER 10 374.1096097306222 bf109_engine_right_4 1 0 1 B
+  <REGIONRENDER 10
+    TRACK {1A0C8295-7CC0-814D-8ED5-935A7BA662EB}
+  >
+  MARKER 10 377.32608000000346 "" 1 0 1 B
+  <PROJBAY
+  >
+  <TRACK {520C458E-13B8-4A40-B3A8-A13B28B62B02}
+    NAME FLY_OVERS
+    PEAKCOL 27359257
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 1 1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 45 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {520C458E-13B8-4A40-B3A8-A13B28B62B02}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {4C9F525D-0866-D34F-9DA1-896906300C63}
+    NAME EDIROL_1
+    PEAKCOL 18892711
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 211 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {4C9F525D-0866-D34F-9DA1-896906300C63}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 562
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8B729122-E0C2-0A47-A9F9-DE1E0149E590}
+      IID 4
+      NAME 1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {26148454-18C4-9747-AEC8-3687241C4415}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Edirol_1/Ed1Me109_005.pjt/1.wav"
+      >
+    >
+    <ITEM
+      POSITION 562
+      SNAPOFFS 0
+      LENGTH 13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4DB37161-96EA-214F-B4B5-9A7B42375800}
+      IID 4
+      NAME 1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 562
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DC3ADBFA-0E1C-DF46-A9F0-9EC9A512EE34}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Edirol_1/Ed1Me109_005.pjt/1.wav"
+      >
+    >
+    <ITEM
+      POSITION 575
+      SNAPOFFS 0
+      LENGTH 3589.7446666666665
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {EDA93F8D-65C9-C649-B6E5-19A91AF45F82}
+      IID 4
+      NAME 1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 575
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0367E7EA-1A4E-B240-99B6-AC8C13D9A467}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Edirol_1/Ed1Me109_005.pjt/1.wav"
+      >
+    >
+  >
+  <TRACK {E35E433B-2C57-9B49-9C31-F870C0E002AF}
+    NAME EDIROL_2
+    PEAKCOL 18892711
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 145 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E35E433B-2C57-9B49-9C31-F870C0E002AF}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 562
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C4CB1163-E3AE-6347-903C-280BDB7007ED}
+      IID 5
+      NAME 2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9F926816-CD0A-5546-963C-8A2F43191958}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Edirol_1/Ed1Me109_005.pjt/2.wav"
+      >
+    >
+    <ITEM
+      POSITION 562
+      SNAPOFFS 0
+      LENGTH 13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3008531C-9D9A-4544-A4DB-7429ED0A40D0}
+      IID 5
+      NAME 2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 562
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {317A6FE1-2D06-1A4F-8627-03E8904047C6}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Edirol_1/Ed1Me109_005.pjt/2.wav"
+      >
+    >
+    <ITEM
+      POSITION 575
+      SNAPOFFS 0
+      LENGTH 3589.7446666666665
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D201A3C4-6AD6-F74F-91DD-DD6ABF9D4DE0}
+      IID 5
+      NAME 2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 575
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4AB7C517-DB01-B940-A77B-45BCA68E325E}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Edirol_1/Ed1Me109_005.pjt/2.wav"
+      >
+    >
+  >
+  <TRACK {B0987A68-6955-4843-A269-5075000D6B36}
+    NAME OLIMPUS
+    PEAKCOL 18892711
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 89 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B0987A68-6955-4843-A269-5075000D6B36}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 562
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3190A05F-B941-2E41-81FD-8B298A0C87E0}
+      IID 6
+      NAME LS_50100.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {620ADDB8-A5FC-E041-A015-5D38E4524869}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Olympus/LS_50100.WAV"
+      >
+    >
+    <ITEM
+      POSITION 562
+      SNAPOFFS 0
+      LENGTH 13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {DD647492-98C6-E74B-B00C-8BF019742E5C}
+      IID 6
+      NAME LS_50100.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 562
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F5A29164-F0C2-CA44-9AC2-933D997C28AD}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Olympus/LS_50100.WAV"
+      >
+    >
+    <ITEM
+      POSITION 575
+      SNAPOFFS 0
+      LENGTH 361
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D0C21BD2-AFA5-3B4F-BC0E-141AB0184F5B}
+      IID 6
+      NAME LS_50100.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 575
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2D6DD89B-0FA7-EB47-8FD6-A8E7F6997749}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Olympus/LS_50100.WAV"
+      >
+    >
+    <ITEM
+      POSITION 936
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {32C7ADA6-A6DD-E24D-9B78-D0862D18C935}
+      IID 6
+      NAME LS_50100.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 936
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4B90AD40-3F6C-DB4F-973B-70BAE0BC9FEF}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Olympus/LS_50100.WAV"
+      >
+    >
+    <ITEM
+      POSITION 942
+      SNAPOFFS 0
+      LENGTH 222
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B69BD106-DDB9-4F4D-9941-9DBA25F202CF}
+      IID 6
+      NAME LS_50100.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 942
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6501E726-2548-2B4D-856B-7232552D479B}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Olympus/LS_50100.WAV"
+      >
+    >
+    <ITEM
+      POSITION 1164
+      SNAPOFFS 0
+      LENGTH 20
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E2B178A2-D12D-1443-8B42-5306BA588B1A}
+      IID 6
+      NAME LS_50100.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 1164
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D999FF08-8308-DA41-809B-DBE55D4A6AE2}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Olympus/LS_50100.WAV"
+      >
+    >
+    <ITEM
+      POSITION 1184
+      SNAPOFFS 0
+      LENGTH 48
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {87B9FBD1-20F1-354A-A6C5-81BD5E13C7EE}
+      IID 6
+      NAME LS_50100.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 1184
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2A771182-5298-0744-8C04-864972D5F424}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Olympus/LS_50100.WAV"
+      >
+    >
+    <ITEM
+      POSITION 1232
+      SNAPOFFS 0
+      LENGTH 567.552
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5352AB71-02F3-4146-A3C7-BC0CD20649DC}
+      IID 6
+      NAME LS_50100.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 1232
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D6F296C1-13DE-4F46-BE5B-25239499AA3D}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Olympus/LS_50100.WAV"
+      >
+    >
+  >
+  <TRACK {B5420B4A-4955-5843-964B-D15FCE42676D}
+    NAME ZAXCOM
+    PEAKCOL 25987911
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 1 1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 59 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B5420B4A-4955-5843-964B-D15FCE42676D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {AEA1FA87-A9E4-B449-AA2B-823FD42A3BCE}
+    NAME Z002001_1
+    PEAKCOL 25987911
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 45 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {AEA1FA87-A9E4-B449-AA2B-823FD42A3BCE}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 562
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D0CAAAD0-D66D-3549-9E39-837CBCB14377}
+      IID 7
+      NAME Z002001_1.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A22676F1-D6CF-0047-A105-EEB645F9A4DE}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Zaxcom/Z002/Z002001_1.WAV"
+      >
+    >
+    <ITEM
+      POSITION 562
+      SNAPOFFS 0
+      LENGTH 13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {73C37C79-4291-A149-AA6A-3A7F2403AA41}
+      IID 7
+      NAME Z002001_1.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 562
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {38F6C739-DCDF-E145-90DC-A5FB4F86079D}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Zaxcom/Z002/Z002001_1.WAV"
+      >
+    >
+    <ITEM
+      POSITION 575
+      SNAPOFFS 0
+      LENGTH 641.97333333333336
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {077D6FDC-06EB-C54A-8CED-7EB6D17F1F86}
+      IID 7
+      NAME Z002001_1.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 575
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4BC2CA51-FE61-DC46-A28D-DEB7DE118F10}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Zaxcom/Z002/Z002001_1.WAV"
+      >
+    >
+  >
+  <TRACK {14D676C2-F5B5-0348-9421-AD0D72D8EC5F}
+    NAME Z002001_2
+    PEAKCOL 25987911
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 45 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {14D676C2-F5B5-0348-9421-AD0D72D8EC5F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 562
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {82DA27E4-B35D-F24F-B8DF-ADD5B8A3D927}
+      IID 8
+      NAME Z002001_2.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {673F0752-A1D0-D049-92ED-F84E629E9C0E}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Zaxcom/Z002/Z002001_2.WAV"
+      >
+    >
+    <ITEM
+      POSITION 562
+      SNAPOFFS 0
+      LENGTH 13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5281EB42-AF8B-6E49-AB2B-13D1A6EB0404}
+      IID 8
+      NAME Z002001_2.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 562
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {472A654E-4B44-CE4F-BC61-0D6585BD1C41}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Zaxcom/Z002/Z002001_2.WAV"
+      >
+    >
+    <ITEM
+      POSITION 575
+      SNAPOFFS 0
+      LENGTH 641.97333333333336
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5A0C0714-83CB-534D-8615-971FFEB3D721}
+      IID 8
+      NAME Z002001_2.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 575
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {038CEE5B-3EFB-864B-8663-90A4B01D10C6}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Zaxcom/Z002/Z002001_2.WAV"
+      >
+    >
+  >
+  <TRACK {D4018467-4F39-8843-877B-D39F41AC6E84}
+    NAME Z002001_3
+    PEAKCOL 25987911
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 45 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D4018467-4F39-8843-877B-D39F41AC6E84}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 562
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D704D7C7-8D91-7A43-8BEF-AFFE409CECFD}
+      IID 9
+      NAME Z002001_3.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6406EC22-1D2E-6848-921B-4BB132BECAC2}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Zaxcom/Z002/Z002001_3.WAV"
+      >
+    >
+    <ITEM
+      POSITION 562
+      SNAPOFFS 0
+      LENGTH 13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {59C018CB-E603-5A42-BB89-58C64E740838}
+      IID 9
+      NAME Z002001_3.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 562
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5346A1B8-0F6A-AE4F-BD8B-9A22C1A501B9}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Zaxcom/Z002/Z002001_3.WAV"
+      >
+    >
+    <ITEM
+      POSITION 575
+      SNAPOFFS 0
+      LENGTH 641.97333333333336
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B5D28883-6CCF-B14E-BC22-219EA58A9448}
+      IID 9
+      NAME Z002001_3.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 575
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {081A1DA2-4D48-E14C-96FB-B5CD18EEC487}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Zaxcom/Z002/Z002001_3.WAV"
+      >
+    >
+  >
+  <TRACK {7F2AA1B0-3A5B-444E-81C0-CE6032CEFC83}
+    NAME Z002001_4
+    PEAKCOL 25987911
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 45 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7F2AA1B0-3A5B-444E-81C0-CE6032CEFC83}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 562
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FBBAC1F7-1834-B849-9773-EA4D1BA791EE}
+      IID 10
+      NAME Z002001_4.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {450F997B-1E57-4E45-9809-E47CFAC9DCC8}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Zaxcom/Z002/Z002001_4.WAV"
+      >
+    >
+    <ITEM
+      POSITION 562
+      SNAPOFFS 0
+      LENGTH 13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {EB51B9D5-192A-CE4B-9E7B-9420F57F4150}
+      IID 10
+      NAME Z002001_4.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 562
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8BE63BC4-B531-3B43-96D0-9E3F79E576C2}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Zaxcom/Z002/Z002001_4.WAV"
+      >
+    >
+    <ITEM
+      POSITION 575
+      SNAPOFFS 0
+      LENGTH 641.97333333333336
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {48A84ACA-84F5-2042-9128-5E956ABD1ABB}
+      IID 10
+      NAME Z002001_4.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 575
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {24AA739C-38C1-5E49-A3C7-15ABC79C8D8D}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Zaxcom/Z002/Z002001_4.WAV"
+      >
+    >
+  >
+  <TRACK {FEE98DB4-BA0B-1D44-820F-576420378D8B}
+    NAME Z002001_5
+    PEAKCOL 25987911
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 42 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {FEE98DB4-BA0B-1D44-820F-576420378D8B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 562
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6DFFF8AA-E147-4347-A468-11F5A27FD243}
+      IID 11
+      NAME Z002001_5.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {67167068-65AA-DD47-A468-52325E72CBDA}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Zaxcom/Z002/Z002001_5.WAV"
+      >
+    >
+    <ITEM
+      POSITION 562
+      SNAPOFFS 0
+      LENGTH 13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9015F043-3DA0-074F-98D9-B211EAEEDF75}
+      IID 11
+      NAME Z002001_5.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 562
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {04ED81F0-3A14-2848-A5DE-B9FFD015DCF9}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Zaxcom/Z002/Z002001_5.WAV"
+      >
+    >
+    <ITEM
+      POSITION 575
+      SNAPOFFS 0
+      LENGTH 641.97333333333336
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7D9FE7E6-6117-314D-8BB1-57FD943280C8}
+      IID 11
+      NAME Z002001_5.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 575
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6D0112A6-2F8F-5940-B049-DC223F34E1F0}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Zaxcom/Z002/Z002001_5.WAV"
+      >
+    >
+  >
+  <TRACK {2CFEC552-F1E3-1F45-B1E6-6AD3AEE56D4C}
+    NAME Z002001_6
+    PEAKCOL 25987911
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 45 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2CFEC552-F1E3-1F45-B1E6-6AD3AEE56D4C}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 562
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {ECC6B8A3-F452-B84B-A5C1-82E9EE63477B}
+      IID 12
+      NAME Z002001_6.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CE3F1286-DAE3-534A-857D-2A610F8BC501}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Zaxcom/Z002/Z002001_6.WAV"
+      >
+    >
+    <ITEM
+      POSITION 562
+      SNAPOFFS 0
+      LENGTH 13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {BFB5AC1F-552D-C24A-A591-90E07EFE76BB}
+      IID 12
+      NAME Z002001_6.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 562
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EEDA53AF-0F6A-844E-BC5D-06CFFFB4582F}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Zaxcom/Z002/Z002001_6.WAV"
+      >
+    >
+    <ITEM
+      POSITION 575
+      SNAPOFFS 0
+      LENGTH 641.97333333333336
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6826E20B-33EB-2842-A225-9F9A5CB49676}
+      IID 12
+      NAME Z002001_6.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 575
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B085FC49-E74C-774C-8E92-AB3F6D7788D7}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Zaxcom/Z002/Z002001_6.WAV"
+      >
+    >
+  >
+  <TRACK {956C3FE2-3A00-BF47-BAD9-49743C5F447E}
+    NAME Z002001_7
+    PEAKCOL 25987911
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 45 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {956C3FE2-3A00-BF47-BAD9-49743C5F447E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 562
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {81205ACA-7F0A-674E-B555-A20C59CF4C67}
+      IID 13
+      NAME Z002001_7.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D3DEE8E4-891F-CC46-AC24-0C7027E1A8B1}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Zaxcom/Z002/Z002001_7.WAV"
+      >
+    >
+    <ITEM
+      POSITION 562
+      SNAPOFFS 0
+      LENGTH 13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {85016766-EECC-5E43-8E52-6EF083F944C4}
+      IID 13
+      NAME Z002001_7.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 562
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D251BF23-C376-A14F-B9F2-B89055637D8A}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Zaxcom/Z002/Z002001_7.WAV"
+      >
+    >
+    <ITEM
+      POSITION 575
+      SNAPOFFS 0
+      LENGTH 641.97333333333336
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1500D68A-02AF-5743-97D1-CBB9D4DB7728}
+      IID 13
+      NAME Z002001_7.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 575
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {093D7826-FFE8-804D-93C1-18680A321D07}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Zaxcom/Z002/Z002001_7.WAV"
+      >
+    >
+  >
+  <TRACK {5B7C1C3B-5E96-E84A-8AB6-E4AEB5678290}
+    NAME Z002001_8
+    PEAKCOL 25987911
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 2 -1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 45 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5B7C1C3B-5E96-E84A-8AB6-E4AEB5678290}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 562
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {534BA458-973E-FD47-AF6D-5647E6031823}
+      IID 14
+      NAME Z002001_8.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {15AC7FF7-A3C7-1041-96AE-74587EECDAF8}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Zaxcom/Z002/Z002001_8.WAV"
+      >
+    >
+    <ITEM
+      POSITION 562
+      SNAPOFFS 0
+      LENGTH 13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B1D0293D-5605-1C4C-9FAE-BBA2BC96E8C3}
+      IID 14
+      NAME Z002001_8.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 562
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {59C410B6-F149-574F-8D1B-69EEDE386CEB}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Zaxcom/Z002/Z002001_8.WAV"
+      >
+    >
+    <ITEM
+      POSITION 575
+      SNAPOFFS 0
+      LENGTH 641.97333333333336
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {32E1124D-0241-7A4F-A7B3-8D238CCED8AE}
+      IID 14
+      NAME Z002001_8.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 575
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {708795B1-73CD-2B4C-A504-A01B0BDC0E4B}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Zaxcom/Z002/Z002001_8.WAV"
+      >
+    >
+  >
+  <TRACK {452842CD-41AC-8D49-B151-B935B56340A9}
+    NAME ZOOM_1
+    PEAKCOL 24922742
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 1 1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 45 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {452842CD-41AC-8D49-B151-B935B56340A9}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {4E6F5F25-BE8B-B242-AD15-D3C3A0A6E012}
+    NAME 4CH003I
+    PEAKCOL 24922742
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 45 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {4E6F5F25-BE8B-B242-AD15-D3C3A0A6E012}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 562
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {86D9CB5C-E6BC-AE43-9B5E-A09E7DB6F7A9}
+      IID 15
+      NAME 4CH003I.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ED31D7A9-ACC8-0740-980A-2E56D2C4B503}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Zoom_1/4CH003I.wav"
+      >
+    >
+    <ITEM
+      POSITION 562
+      SNAPOFFS 0
+      LENGTH 13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CDB82C1F-B6FD-7F4F-A12B-D788BF321DC8}
+      IID 15
+      NAME 4CH003I.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 562
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {20689F55-5077-F046-97F7-AFAB99CC5EEA}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Zoom_1/4CH003I.wav"
+      >
+    >
+    <ITEM
+      POSITION 575
+      SNAPOFFS 0
+      LENGTH 2604.7746666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {11B5F6E0-B924-494A-BB4F-7475CD9A0438}
+      IID 15
+      NAME 4CH003I.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 575
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {37E40DF4-A274-9147-BBA1-F549C00AAEED}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Zoom_1/4CH003I.wav"
+      >
+    >
+  >
+  <TRACK {3E1AA12F-9B47-3B4C-8EE0-0692E598880C}
+    NAME 4CH003M
+    PEAKCOL 24922742
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 2 -1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 45 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3E1AA12F-9B47-3B4C-8EE0-0692E598880C}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 562
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FAB63981-EC50-724A-9D15-C3B908C853B4}
+      IID 16
+      NAME 4CH003M.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C8A1450B-A8A2-FC46-B10F-D585B3E9728D}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Zoom_1/4CH003M.wav"
+      >
+    >
+    <ITEM
+      POSITION 562
+      SNAPOFFS 0
+      LENGTH 13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {75FD0442-441A-674B-AE86-564C2644DFF6}
+      IID 16
+      NAME 4CH003M.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 562
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BC443A51-AA03-0A47-8B3D-F563C7FE6DFD}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Zoom_1/4CH003M.wav"
+      >
+    >
+    <ITEM
+      POSITION 575
+      SNAPOFFS 0
+      LENGTH 2604.7746666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0B57C66D-E20A-CD4D-B722-0381E6A8FD00}
+      IID 16
+      NAME 4CH003M.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 575
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7AD9B659-51FB-4248-B0A8-1ED3A87BF254}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Zoom_1/4CH003M.wav"
+      >
+    >
+  >
+  <TRACK {06ECF8B3-53E0-404B-B02C-D9146A5A81DE}
+    NAME ZOOM_2
+    PEAKCOL 33141642
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 1 1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 45 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {06ECF8B3-53E0-404B-B02C-D9146A5A81DE}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {1FE17BE4-5236-EF46-8FF1-CE71163CA747}
+    NAME 4CH006I
+    PEAKCOL 33141642
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 45 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1FE17BE4-5236-EF46-8FF1-CE71163CA747}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 562
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9FAC512D-4858-BB45-8696-33255309C7FD}
+      IID 17
+      NAME 4CH006I.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AA06A770-5BE6-E745-BF47-25C222C27819}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Zoom_2/4CH006I.wav"
+      >
+    >
+    <ITEM
+      POSITION 562
+      SNAPOFFS 0
+      LENGTH 13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0A49D338-62AF-9A47-BCE0-8E2E08023055}
+      IID 17
+      NAME 4CH006I.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 562
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0D0D3AE2-E8DF-9641-AD0E-5FA6C7E89DDC}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Zoom_2/4CH006I.wav"
+      >
+    >
+    <ITEM
+      POSITION 575
+      SNAPOFFS 0
+      LENGTH 583.84666666666658
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3C9F1CE8-AC9D-354C-BE51-D31FC9BD955F}
+      IID 17
+      NAME 4CH006I.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 575
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F4496C0E-9052-A949-9F3D-3CE1E3AC06C6}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Zoom_2/4CH006I.wav"
+      >
+    >
+  >
+  <TRACK {6E0D330D-B5B6-9A4F-B4FA-B64DA519E447}
+    NAME 4CH006M
+    PEAKCOL 33141642
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 2 -2
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 45 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {6E0D330D-B5B6-9A4F-B4FA-B64DA519E447}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 562
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {DD578E26-75D5-4045-B5DD-CA2F8A94B097}
+      IID 18
+      NAME 4CH006M.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {41E2AC5E-CB2F-334C-8906-583AF52BA009}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Zoom_2/4CH006M.wav"
+      >
+    >
+    <ITEM
+      POSITION 562
+      SNAPOFFS 0
+      LENGTH 13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C13550A2-1443-934E-A76C-9F1AF6990CA4}
+      IID 18
+      NAME 4CH006M.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 562
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2C4D077A-5441-9B42-8D30-CF2F25DACC04}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Zoom_2/4CH006M.wav"
+      >
+    >
+    <ITEM
+      POSITION 575
+      SNAPOFFS 0
+      LENGTH 583.84666666666658
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8D501CAE-B00C-A640-B44B-E56BCB682D28}
+      IID 18
+      NAME 4CH006M.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 575
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4C793905-6BC7-DD4A-AA39-BF18D2DAFE66}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Fly_Overs/Zoom_2/4CH006M.wav"
+      >
+    >
+  >
+  <TRACK {17ECCB28-70BF-4643-BEDD-EC729FA0F94D}
+    NAME GROUND_RECORDINGS
+    PEAKCOL 23834623
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 1 1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 45 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {17ECCB28-70BF-4643-BEDD-EC729FA0F94D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {D204468B-D497-C947-847D-40937813B788}
+    NAME EDIROL_1
+    PEAKCOL 24360708
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 1 1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 45 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D204468B-D497-C947-847D-40937813B788}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {A00812C7-5D37-D043-8482-95C1BD0D9F40}
+    NAME 1
+    PEAKCOL 24360708
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 90 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A00812C7-5D37-D043-8482-95C1BD0D9F40}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 562
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6B92B2B3-AD3B-9443-8E9A-742AF8A8B872}
+      IID 21
+      NAME 1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D01D6946-D4DB-6742-A6B7-763253BB7170}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Edirol_1/Ed1Me109_002.pjt/1.wav"
+      >
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.607
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F35FB3BA-C3B2-E344-AFA9-2B53BAB7010D}
+      IID 19
+      NAME 1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BE6E152E-F983-7045-BADD-0F56AACC16AF}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Edirol_1/Ed1Me109_001.pjt/1.wav"
+      >
+    >
+    <ITEM
+      POSITION 562
+      SNAPOFFS 0
+      LENGTH 13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AF064A70-11BD-DE47-9324-1F2CEAF7CC01}
+      IID 21
+      NAME 1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 562
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E272316D-42A2-6D49-8637-A4A9A39FFB8A}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Edirol_1/Ed1Me109_002.pjt/1.wav"
+      >
+    >
+    <ITEM
+      POSITION 575
+      SNAPOFFS 0
+      LENGTH 678.363
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {01A3EF28-95BD-9245-B4A4-8B099A1FCD14}
+      IID 21
+      NAME 1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 575
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9DCA4785-E2AA-8644-8F51-F8B7A3616651}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Edirol_1/Ed1Me109_002.pjt/1.wav"
+      >
+    >
+  >
+  <TRACK {A0A66E35-8E22-D34D-AE45-11B857653825}
+    NAME 2
+    PEAKCOL 24360708
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 90 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A0A66E35-8E22-D34D-AE45-11B857653825}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 562
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {355BC3B7-2AED-2740-A9B1-AF8E4D6A6663}
+      IID 22
+      NAME 2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F36D8858-D366-1245-85FD-41C98B4E7BC0}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Edirol_1/Ed1Me109_002.pjt/2.wav"
+      >
+    >
+    <ITEM
+      POSITION 562
+      SNAPOFFS 0
+      LENGTH 13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {25CF9F5E-7E1F-E54A-A9D3-FB55A322564B}
+      IID 22
+      NAME 2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 562
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DFCCB3D7-B5E5-A54F-921A-D5479F965400}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Edirol_1/Ed1Me109_002.pjt/2.wav"
+      >
+    >
+    <ITEM
+      POSITION 575
+      SNAPOFFS 0
+      LENGTH 678.363
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CA7DA5E4-2DD5-7649-9509-62A99BF559CF}
+      IID 22
+      NAME 2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 575
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AC9F9843-56DA-F140-8ACF-D598BA574D31}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Edirol_1/Ed1Me109_002.pjt/2.wav"
+      >
+    >
+  >
+  <TRACK {993A79E4-5EFD-FC49-95C7-4BC185B054C3}
+    NAME 1
+    PEAKCOL 24360708
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 90 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {993A79E4-5EFD-FC49-95C7-4BC185B054C3}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 562
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F5468784-3157-1044-8187-837D2CF1C264}
+      IID 23
+      NAME 1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {01189083-1D43-894C-8519-D0362FAEBCE9}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Edirol_1/Ed1Me109_003.pjt/1.wav"
+      >
+    >
+    <ITEM
+      POSITION 562
+      SNAPOFFS 0
+      LENGTH 13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D6AC5252-8AA1-9E42-BABB-CBEF71A693CA}
+      IID 23
+      NAME 1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 562
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {116A731B-B806-9149-867D-D1DA47A3CE14}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Edirol_1/Ed1Me109_003.pjt/1.wav"
+      >
+    >
+    <ITEM
+      POSITION 575
+      SNAPOFFS 0
+      LENGTH 537.61966666666672
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {37E6890C-893F-C842-9AE4-584027B76CEA}
+      IID 23
+      NAME 1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 575
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F5C0B35B-FB1B-744E-9905-777D1D86F446}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Edirol_1/Ed1Me109_003.pjt/1.wav"
+      >
+    >
+  >
+  <TRACK {1482FFC2-54B3-5545-8D51-7FBB94167B03}
+    NAME 2
+    PEAKCOL 24360708
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 2 -1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 90 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1482FFC2-54B3-5545-8D51-7FBB94167B03}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 562
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E8A87A37-6E95-6D47-99F1-86C2464408C0}
+      IID 24
+      NAME 2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6E58007F-2D0F-8E4D-BDD8-BC13C922174B}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Edirol_1/Ed1Me109_003.pjt/2.wav"
+      >
+    >
+    <ITEM
+      POSITION 562
+      SNAPOFFS 0
+      LENGTH 13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B9CE2DAA-AD16-B54E-B6BE-A2C086571A7F}
+      IID 24
+      NAME 2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 562
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A3585553-D4D9-6F4E-A3CF-A45779F3B731}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Edirol_1/Ed1Me109_003.pjt/2.wav"
+      >
+    >
+    <ITEM
+      POSITION 575
+      SNAPOFFS 0
+      LENGTH 537.61966666666672
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7F1B5F76-4D81-A840-8CF2-255218CC6A32}
+      IID 24
+      NAME 2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 575
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FB6E2F58-ED88-F64F-8D40-A01ADC8A9391}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Edirol_1/Ed1Me109_003.pjt/2.wav"
+      >
+    >
+  >
+  <TRACK {655664A7-AEEC-C846-8C5A-49AC27CDD125}
+    NAME EDIROL_2
+    PEAKCOL 18390983
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 372 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {655664A7-AEEC-C846-8C5A-49AC27CDD125}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 74
+      SNAPOFFS 0
+      LENGTH 488
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0DD91605-0A86-D046-AA63-0BE259D5F0F2}
+      IID 25
+      NAME Ed2Me109_002.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {59CF958C-9FA6-8246-B349-953A9AA4D997}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Edirol_2/Ed2Me109_002.wav"
+      >
+    >
+    <ITEM
+      POSITION 562
+      SNAPOFFS 0
+      LENGTH 13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4F52DE94-2009-9147-8E98-090AC78A47A6}
+      IID 25
+      NAME Ed2Me109_002.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 488
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {47C08C1E-1410-044B-8067-1C1172AFD409}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Edirol_2/Ed2Me109_002.wav"
+      >
+    >
+    <ITEM
+      POSITION 575
+      SNAPOFFS 0
+      LENGTH 85.17166666666662
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {BF823848-3130-204D-86BE-8BB32DC1B0F1}
+      IID 25
+      NAME Ed2Me109_002.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 501
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F083A5B6-1F3F-8643-802F-0A4553B7F31C}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Edirol_2/Ed2Me109_002.wav"
+      >
+    >
+  >
+  <TRACK {8DEC6940-B9B1-2648-AB05-62A207D98D3D}
+    NAME OLYMPUS
+    PEAKCOL 18390983
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 112 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {8DEC6940-B9B1-2648-AB05-62A207D98D3D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 562
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F5DC2EDC-B267-554C-B581-BAE24D34ED8B}
+      IID 27
+      NAME LS_50099.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0770CF68-611B-8747-83C9-E25BE779E9E2}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Olympus/LS_50099.WAV"
+      >
+    >
+    <ITEM
+      POSITION 562
+      SNAPOFFS 0
+      LENGTH 13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5BD04383-35B0-3D40-BD9A-685176BFC498}
+      IID 27
+      NAME LS_50099.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 562
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C9E948EA-43D1-2E4C-99A4-4538AF2B7A3C}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Olympus/LS_50099.WAV"
+      >
+    >
+    <ITEM
+      POSITION 575
+      SNAPOFFS 0
+      LENGTH 7
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F63C05E9-D098-B447-8D38-20A16E72A2F9}
+      IID 27
+      NAME LS_50099.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 575
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {09C043B3-18E1-1745-8B4E-9DB2DDAEE047}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Olympus/LS_50099.WAV"
+      >
+    >
+    <ITEM
+      POSITION 582
+      SNAPOFFS 0
+      LENGTH 3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {082A7710-5478-A246-ADB4-97B352805C84}
+      IID 27
+      NAME LS_50099.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 582
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9299877C-6698-7C4A-842F-828EBFCCE7A5}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Olympus/LS_50099.WAV"
+      >
+    >
+    <ITEM
+      POSITION 585
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 1
+      IGUID {8D773649-2E34-3D4F-A99E-59F75D9AF56C}
+      IID 27
+      NAME LS_50099.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 585
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C2AC1C07-5A6F-F248-BE87-DAD200C833D9}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Olympus/LS_50099.WAV"
+      >
+    >
+    <ITEM
+      POSITION 586
+      SNAPOFFS 0
+      LENGTH 679.536
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7FD15C83-2611-704E-9404-4A21988952E5}
+      IID 27
+      NAME LS_50099.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 586
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8BA43DBC-3FD1-E04B-B295-9563BE63B27F}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Olympus/LS_50099.WAV"
+      >
+    >
+  >
+  <TRACK {FC7635F2-029C-7E4F-B04C-029335D6897D}
+    NAME SONY_CAM
+    PEAKCOL 18390983
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 42 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {FC7635F2-029C-7E4F-B04C-029335D6897D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 562
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {785EC6EA-F02D-A14B-9789-516716EC8B80}
+      IID 28
+      NAME Me_109.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {65A2995D-755B-7F43-BED0-DE648564321F}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Sony_Cam/Me_109.wav"
+      >
+    >
+    <ITEM
+      POSITION 562
+      SNAPOFFS 0
+      LENGTH 13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {566DA4A5-17F5-8640-9B9B-5C8017ABF20F}
+      IID 28
+      NAME Me_109.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 562
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E64E69E1-E7B2-2149-AAD0-54FC32C8D6DC}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Sony_Cam/Me_109.wav"
+      >
+    >
+    <ITEM
+      POSITION 575
+      SNAPOFFS 0
+      LENGTH 1607.16
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A356EB76-E1AD-7744-B993-B61755734E7D}
+      IID 28
+      NAME Me_109.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 575
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {082E0E5E-3F6C-B748-A055-A210E96C96FF}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Sony_Cam/Me_109.wav"
+      >
+    >
+  >
+  <TRACK {7BF5D56A-D9A3-0A4C-8E45-5A153A357048}
+    NAME ZAXCOM
+    PEAKCOL 18788719
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 1 1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 45 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7BF5D56A-D9A3-0A4C-8E45-5A153A357048}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {06640346-DEF4-594E-BAB3-3FB0EAA96E77}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 1 1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {06640346-DEF4-594E-BAB3-3FB0EAA96E77}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {7BD49813-1204-6C40-B91D-50BE3CE854CA}
+    NAME Z001002_1
+    PEAKCOL 18788719
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 45 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7BD49813-1204-6C40-B91D-50BE3CE854CA}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 562
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {175DC2D8-125D-7F46-8B8F-D18924B0062E}
+      IID 29
+      NAME Z001002_1.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E7BE0CA4-3616-4C45-A826-935B78FF7434}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001002_1.WAV"
+      >
+    >
+    <ITEM
+      POSITION 562
+      SNAPOFFS 0
+      LENGTH 13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C22255E3-5288-C049-945B-5FA3486E55B3}
+      IID 29
+      NAME Z001002_1.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 562
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {98E72999-EC95-9947-8E2C-2A183E770F95}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001002_1.WAV"
+      >
+    >
+    <ITEM
+      POSITION 575
+      SNAPOFFS 0
+      LENGTH 152.0333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {122EAB5C-D82D-E247-A1A8-5B4EFA437D05}
+      IID 29
+      NAME Z001002_1.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 575
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4C46710A-81F7-E749-8713-B0EA866C186A}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001002_1.WAV"
+      >
+    >
+  >
+  <TRACK {72EDB462-5F0C-AF41-ACD1-744FD89626DE}
+    NAME Z001002_2
+    PEAKCOL 18788719
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 41 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {72EDB462-5F0C-AF41-ACD1-744FD89626DE}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 562
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CB981FF3-A705-1F4D-B67D-EFD81287CFE4}
+      IID 30
+      NAME Z001002_2.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {17E5B66D-564E-9C48-A329-BD8794A4F8D1}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001002_2.WAV"
+      >
+    >
+    <ITEM
+      POSITION 562
+      SNAPOFFS 0
+      LENGTH 13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {175F95F0-19DF-8745-BBBF-7B33DC8358A6}
+      IID 30
+      NAME Z001002_2.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 562
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8026AA61-D337-084B-959B-73FF396F7B18}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001002_2.WAV"
+      >
+    >
+    <ITEM
+      POSITION 575
+      SNAPOFFS 0
+      LENGTH 152.0333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D403E9D2-E919-7C4C-9842-0BD15C60B620}
+      IID 30
+      NAME Z001002_2.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 575
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {960738E4-C7F9-0A45-971F-F8FD848CDABC}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001002_2.WAV"
+      >
+    >
+  >
+  <TRACK {866D716B-1D4B-7344-82E7-F82A33B320C3}
+    NAME Z001002_3
+    PEAKCOL 18788719
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 45 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {866D716B-1D4B-7344-82E7-F82A33B320C3}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 562
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D89F4976-B329-1842-B407-17BCBFD99BE9}
+      IID 31
+      NAME Z001002_3.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1713CADA-C0B8-E344-910D-EFBF6A85F55F}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001002_3.WAV"
+      >
+    >
+    <ITEM
+      POSITION 562
+      SNAPOFFS 0
+      LENGTH 13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {02F4F56A-D666-B343-8EA4-BC4131286F8E}
+      IID 31
+      NAME Z001002_3.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 562
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E7B8E2C3-2CA4-B44B-A503-F84F4078C857}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001002_3.WAV"
+      >
+    >
+    <ITEM
+      POSITION 575
+      SNAPOFFS 0
+      LENGTH 89
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2ABAC4BC-3662-644A-B9CF-37D65B0013FD}
+      IID 31
+      NAME Z001002_3.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 575
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {28138D9E-474E-7E42-B046-599FDC80A0B9}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001002_3.WAV"
+      >
+    >
+    <ITEM
+      POSITION 664
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E4D0B412-682F-CA46-8EBD-7B189EAE4B0A}
+      IID 31
+      NAME Z001002_3.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 664
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F4E5A392-9A97-2C4F-A151-AEC2A153CCF4}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001002_3.WAV"
+      >
+    >
+    <ITEM
+      POSITION 666
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C0D85985-AA2C-3441-8A23-5E1EA4ADC54B}
+      IID 31
+      NAME Z001002_3.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 666
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {913A12E8-B93A-8548-BB28-2D392A523AA4}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001002_3.WAV"
+      >
+    >
+    <ITEM
+      POSITION 668
+      SNAPOFFS 0
+      LENGTH 59.0333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B103B49B-0051-EC48-BBC7-0401E1C980E6}
+      IID 31
+      NAME Z001002_3.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 668
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4648CEF7-1596-8444-A619-02BA9014DE14}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001002_3.WAV"
+      >
+    >
+  >
+  <TRACK {805EFC33-AA48-E14F-B6E7-12336E7181BC}
+    NAME Z001002_4
+    PEAKCOL 18788719
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 45 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {805EFC33-AA48-E14F-B6E7-12336E7181BC}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 562
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C2A8B09E-0077-EF48-A927-3100ACBDDD1F}
+      IID 32
+      NAME Z001002_4.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A9C6DAA1-1FCB-EA4A-96B6-67B649EE6D72}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001002_4.WAV"
+      >
+    >
+    <ITEM
+      POSITION 562
+      SNAPOFFS 0
+      LENGTH 13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6F0AECB0-F94C-0F4D-B5EA-E1ECDCA7E95C}
+      IID 32
+      NAME Z001002_4.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 562
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4879958A-9C0F-4642-AF5C-7F29A424C023}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001002_4.WAV"
+      >
+    >
+    <ITEM
+      POSITION 575
+      SNAPOFFS 0
+      LENGTH 152.0333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D8E259D6-6314-6340-BB71-25FCD67DC9C9}
+      IID 32
+      NAME Z001002_4.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 575
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FB917F32-C110-6F42-A107-B891006CD008}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001002_4.WAV"
+      >
+    >
+  >
+  <TRACK {5DE94B6C-7186-E242-8D04-856A7262CC0B}
+    NAME Z001002_5
+    PEAKCOL 18788719
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 45 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5DE94B6C-7186-E242-8D04-856A7262CC0B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 562
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B0487C9B-A150-9847-B696-941CFF79CACB}
+      IID 33
+      NAME Z001002_5.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {84B2AA75-080C-E144-B5EB-81031B409B1A}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001002_5.WAV"
+      >
+    >
+    <ITEM
+      POSITION 562
+      SNAPOFFS 0
+      LENGTH 13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E92F79B2-4D50-B544-8EAA-EA72DCECE0CE}
+      IID 33
+      NAME Z001002_5.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 562
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C2E3A8F5-F266-C14A-96FC-CF3AFEC22DF7}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001002_5.WAV"
+      >
+    >
+    <ITEM
+      POSITION 575
+      SNAPOFFS 0
+      LENGTH 152.0333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1792B7FA-7616-DD4C-8967-707E1B84E5E2}
+      IID 33
+      NAME Z001002_5.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 575
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7D73778B-E2D4-714C-9032-804E1FB1D283}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001002_5.WAV"
+      >
+    >
+  >
+  <TRACK {A5A38812-3519-C645-80C2-832D0DD999F2}
+    NAME Z001002_6
+    PEAKCOL 18788719
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 45 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A5A38812-3519-C645-80C2-832D0DD999F2}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 562
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {36C4FD99-3421-F84A-B3AE-EE8928EBCDB0}
+      IID 34
+      NAME Z001002_6.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B4CB062C-CD10-244C-B176-24880F2D3D58}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001002_6.WAV"
+      >
+    >
+    <ITEM
+      POSITION 562
+      SNAPOFFS 0
+      LENGTH 13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {92A83548-E59C-664A-9E0E-A96D842150A7}
+      IID 34
+      NAME Z001002_6.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 562
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DBA0040A-6133-2D45-85F8-58B39D5C26B3}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001002_6.WAV"
+      >
+    >
+    <ITEM
+      POSITION 575
+      SNAPOFFS 0
+      LENGTH 152.0333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AE03F313-5CDC-4F46-B304-953D82E53966}
+      IID 34
+      NAME Z001002_6.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 575
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {498FF40E-D4D9-DD42-9122-7000C57A0C40}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001002_6.WAV"
+      >
+    >
+  >
+  <TRACK {FB174A1A-284A-E545-A20D-D14DD45F9030}
+    NAME Z001002_7
+    PEAKCOL 18788719
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 45 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {FB174A1A-284A-E545-A20D-D14DD45F9030}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 562
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {46E93F9B-F8C1-D444-87D5-9276D0F0D628}
+      IID 35
+      NAME Z001002_7.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {00550DC9-10A0-AA42-AFDB-10F72A9BA981}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001002_7.WAV"
+      >
+    >
+    <ITEM
+      POSITION 562
+      SNAPOFFS 0
+      LENGTH 13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F954F7CD-51D0-1343-ADE4-6C2C2CDC1B31}
+      IID 35
+      NAME Z001002_7.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 562
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {76FA5169-2337-1E4A-A21D-856B76BAB0D4}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001002_7.WAV"
+      >
+    >
+    <ITEM
+      POSITION 575
+      SNAPOFFS 0
+      LENGTH 152.0333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {32EF318E-D005-A54D-B3A1-D8CF69386191}
+      IID 35
+      NAME Z001002_7.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 575
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B74BEB6C-4C46-504E-B0AB-129B31E4ED8E}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001002_7.WAV"
+      >
+    >
+  >
+  <TRACK {449FA609-ECCD-EE43-BAAF-ACB05AC7AD99}
+    NAME Z001002_8
+    PEAKCOL 18788719
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 2 -1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 45 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {449FA609-ECCD-EE43-BAAF-ACB05AC7AD99}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 562
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {317F849E-CD89-5A43-BA20-062C345BBD64}
+      IID 36
+      NAME Z001002_8.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5DF71AE6-5E04-6447-A71A-775928C9E911}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001002_8.WAV"
+      >
+    >
+    <ITEM
+      POSITION 562
+      SNAPOFFS 0
+      LENGTH 13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C496AF58-465A-AF47-8E43-8AE73814088C}
+      IID 36
+      NAME Z001002_8.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 562
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {635C297D-CACD-5844-8411-8C4703A29C9A}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001002_8.WAV"
+      >
+    >
+    <ITEM
+      POSITION 575
+      SNAPOFFS 0
+      LENGTH 91
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D22894E1-4CEF-0F4D-9042-E984C9FE91A9}
+      IID 36
+      NAME Z001002_8.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 575
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {55106D18-68CD-6E41-84F7-CB4813A2160D}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001002_8.WAV"
+      >
+    >
+    <ITEM
+      POSITION 666
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {98096584-8290-2847-A362-5DB91F013546}
+      IID 36
+      NAME Z001002_8.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 666
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {87EDBB38-1E12-5D4C-B262-D2F1F8D7C92B}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001002_8.WAV"
+      >
+    >
+    <ITEM
+      POSITION 670
+      SNAPOFFS 0
+      LENGTH 57.0333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AECA02A1-7742-5744-8E83-725B0D32374D}
+      IID 36
+      NAME Z001002_8.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 670
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6BF032ED-B235-6742-B7B7-66F2D2CA3652}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001002_8.WAV"
+      >
+    >
+  >
+  <TRACK {7D7B217C-E382-8E4E-9F11-1B3DE6BCAEC8}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 1 1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7D7B217C-E382-8E4E-9F11-1B3DE6BCAEC8}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {FDEC36C0-264B-E749-8903-2B77F5781398}
+    NAME Z001003_1
+    PEAKCOL 18788719
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 48 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {FDEC36C0-264B-E749-8903-2B77F5781398}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 502.80333333333334
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {EC7AEAD1-B64E-944A-9F90-606AD7C9DBF6}
+      IID 38
+      NAME Z001004_1.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EDD88A92-E1AB-C34D-8B7A-A1A412612AC3}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001004_1.WAV"
+      >
+    >
+  >
+  <TRACK {E9BAF667-0C26-3442-A453-3CC60B021D75}
+    NAME Z001004_2
+    PEAKCOL 18788719
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 61 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E9BAF667-0C26-3442-A453-3CC60B021D75}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 502.80333333333334
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3A0E5BBE-A0DF-2143-99DB-DEE35FD24600}
+      IID 39
+      NAME Z001004_2.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E56E13C8-D5CB-4C4D-B503-3FBE295790F6}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001004_2.WAV"
+      >
+    >
+  >
+  <TRACK {1A0C8295-7CC0-814D-8ED5-935A7BA662EB}
+    NAME "SELECTED TAKE"
+    PEAKCOL 18788719
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 71 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1A0C8295-7CC0-814D-8ED5-935A7BA662EB}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 777 135 835 444
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.vst.dylib 0 "" 1919247729
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAqAAAAAEAAAAAABAA
+        IQAAAAQAAAAEAAAAAQAAAP///////01AqsP6crl+4j8B001iEFgDQAEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAQI9AAAAAAAAA
+        8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAiLNAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAAAFQCAABwAQAA
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {6FEB55E3-D607-7D4F-8C70-D58AA1398915}
+      WAK 0
+      BYPASS 0 0 0
+      <VST "VST: L1 limiter Mono (Waves)" "WaveShell-VST 9.2.vst" 0 "" 1278296909
+        TUMxTO5e7f4BAAAAAQAAAAAAAAABAAAAAwAAAAAAAAA7AgAAAQAAAAAAEAA=
+        AAACOwAAAAMAAAABTDFDTXNldEEAAAIbWFBzdDxQcmVzZXRDaHVua1hNTFRyZWUgdmVyc2lvbj0iMiI+Cgk8UHJlc2V0IE5hbWU9IiIgR2VuZXJpY1R5cGU9IkwxICAi
+        PgoJCTxQcmVzZXRIZWFkZXI+CgkJCTxQbHVnaW5OYW1lPkwxPC9QbHVnaW5OYW1lPgoJCQk8UGx1Z2luVmVyc2lvbj45LjEuMDwvUGx1Z2luVmVyc2lvbj4KCQkJPEFj
+        dGl2ZVNldHVwPlNFVFVQX0E8L0FjdGl2ZVNldHVwPgoJCQk8UmVhZE9ubHk+dHJ1ZTwvUmVhZE9ubHk+CgkJPC9QcmVzZXRIZWFkZXI+CgkJPE1lc3NhZ2VUb1NoZWxs
+        Lz4KCQk8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQSI+CgkJCTxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+MSAwIC0xICogKiAqICogKiAwIDAKMCAxIDEgMCA8
+        L1BhcmFtZXRlcnM+CgkJPC9QcmVzZXREYXRhPgoJCTxQcmVzZXREYXRhIFNldHVwPSJTRVRVUF9CIj4KCQkJPFBhcmFtZXRlcnMgVHlwZT0iUmVhbFdvcmxkIj4xIDAg
+        MCAqICogKiAqICogMCAwCjAgMSAxIDAgPC9QYXJhbWV0ZXJzPgoJCTwvUHJlc2V0RGF0YT4KCTwvUHJlc2V0Pgo8L1ByZXNldENodW5rWE1MVHJlZT4KcwAAAA==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {BFBDCF75-0699-9C45-8ADA-196CA5102EE3}
+      WAK 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 112.02743590330446
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {500552C7-32C0-1F44-A183-E6DB4B75D9F9}
+      IID 39
+      NAME Z001004_2.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D02D79E0-01D8-524C-A75E-8535D495AA63}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001004_2.WAV"
+      >
+    >
+    <ITEM
+      POSITION 112.02743590330446
+      SNAPOFFS 0
+      LENGTH 5.12961615873378
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {912ED01F-A4D0-344E-805E-A15EA42D7257}
+      IID 39
+      NAME Z001004_2.WAV
+      VOLPAN 1 0 2.511886 -1
+      SOFFS 112.02743590330446
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0694D977-F857-1547-B41E-CA73D7D5EFD4}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001004_2.WAV"
+      >
+    >
+    <ITEM
+      POSITION 117.3894960486338
+      SNAPOFFS 0
+      LENGTH 109.6105039513662
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {BB5A74C7-4743-294F-AFB2-A157D2FA737A}
+      IID 39
+      NAME Z001004_2.WAV
+      VOLPAN 1 0 2.511886 -1
+      SOFFS 117.3894960486338
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {07D5C801-AC61-AE49-B4AC-6A195DCA113F}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001004_2.WAV"
+      >
+    >
+    <ITEM
+      POSITION 227
+      SNAPOFFS 0
+      LENGTH 5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C28A44B9-6AB1-0440-87A6-E3DD9E26F55E}
+      IID 114
+      NAME Z001004_2-glued.wav
+      VOLPAN 1 0 1.995262 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {457BA409-2D33-A248-85F2-C5A7B9DB2901}
+      <SOURCE WAVE
+        FILE "MediaFiles/Z001004_2-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 232
+      SNAPOFFS 0
+      LENGTH 5.2628956381356
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {043B8CE6-BA7D-F64F-B1AE-966435C597C8}
+      IID 131
+      NAME Z001004_2-glued-01.wav
+      VOLPAN 1 0 1.995262 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5F45BD5B-389F-5E47-B6B7-6F19A20C20F4}
+      <SOURCE WAVE
+        FILE "MediaFiles/Z001004_2-glued-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 237.2628956381356
+      SNAPOFFS 0
+      LENGTH 80.7371043618644
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {566ADFAC-B232-4B4D-8206-25AF702D515E}
+      IID 39
+      NAME Z001004_2.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 237.2628956381356
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F5611F49-B2BC-DE4A-879B-FBE8FADD40DD}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001004_2.WAV"
+      >
+    >
+    <ITEM
+      POSITION 318
+      SNAPOFFS 0
+      LENGTH 5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C8A66237-88A4-B744-B9E8-4EAA2AE9FCFB}
+      IID 39
+      NAME Z001004_2.WAV
+      VOLPAN 1 0 2.511886 -1
+      SOFFS 318
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {963C7FF5-27E4-484E-BD3E-6B1419C12561}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001004_2.WAV"
+      >
+    >
+    <ITEM
+      POSITION 323
+      SNAPOFFS 0
+      LENGTH 5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5038967C-6B6D-824C-B1AF-3C07CBA01C3D}
+      IID 39
+      NAME Z001004_2.WAV
+      VOLPAN 1 0 2.511886 -1
+      SOFFS 323
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FC2813C6-D80C-0A46-A6C1-FF667557766B}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001004_2.WAV"
+      >
+    >
+    <ITEM
+      POSITION 328
+      SNAPOFFS 0
+      LENGTH 32
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9BDAAF10-1ADA-094D-B273-2EF593530DF1}
+      IID 39
+      NAME Z001004_2.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 328
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2C874F9A-DE1E-A04D-90CE-56276F05FFFE}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001004_2.WAV"
+      >
+    >
+    <ITEM
+      POSITION 360
+      SNAPOFFS 0
+      LENGTH 5.20911670729549
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A1AE78D4-0A87-2441-9276-FE4953530953}
+      IID 140
+      NAME Z001004_2-glued-03.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C8A5A0AF-863B-1048-8DC5-8A0B43339D6B}
+      <SOURCE WAVE
+        FILE "MediaFiles/Z001004_2-glued-03.wav"
+      >
+      <TAKEFX
+        WNDRECT 32 653 835 444
+        SHOW 0
+        LASTSEL 0
+        DOCKED 0
+        BYPASS 0 0 0
+        <VST "VST: ReaEQ (Cockos)" reaeq.vst.dylib 0 "" 1919247729
+          cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAqAAAAAEAAAAAABAA
+          IQAAAAQAAAAAAAAAAQAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAJlznYjw2o5AULN9PNfZ6j8AAAAAAAAAQAEIAAAAAQAAAKHsgAY55bxArps3sGO+
+          9z8AAAAAAAAAQAEBAAAAAQAAAIAkyFanwbNAALhRWE9O7z8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAAAFQCAABwAQAA
+          AAAQAAAA
+        >
+        FLOATPOS 0 0 0 0
+        FXID {8C8D57CB-590D-3F41-8B7E-D45870868851}
+        WAK 0
+      >
+    >
+    <ITEM
+      POSITION 365.20911670729549
+      SNAPOFFS 0
+      LENGTH 5.29088329270451
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4A71B3A9-CD15-8A4C-A5E4-BF279A6AAB56}
+      IID 39
+      NAME Z001004_2.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 365.20911670729549
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8EFBE200-9359-7C42-A632-9496EEE4C4CE}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001004_2.WAV"
+      >
+    >
+    <ITEM
+      POSITION 370.5
+      SNAPOFFS 0
+      LENGTH 3.25675377829373
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.001 0 1 0 0
+      FADEOUT 1 0.001 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C52C48D8-0093-A841-95AA-2E39D2CE4E5C}
+      IID 149
+      NAME Z001004_2-glued-06.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3B943887-240C-BF4B-AE41-EFAA0129FCBE}
+      <SOURCE WAVE
+        FILE "MediaFiles/Z001004_2-glued-06.wav"
+      >
+    >
+    <ITEM
+      POSITION 374.1096097306222
+      SNAPOFFS 0
+      LENGTH 3.21647026938126
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.001 0 1 0 0
+      FADEOUT 1 0.001 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F8AB0F5F-2557-3E49-9FDB-1FAB3CD1DCBA}
+      IID 151
+      NAME Z001004_2-glued-07.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2205AFA6-2E3E-DA44-B95A-2BED6C091CE8}
+      <SOURCE WAVE
+        FILE "MediaFiles/Z001004_2-glued-07.wav"
+      >
+    >
+    <ITEM
+      POSITION 377.5
+      SNAPOFFS 0
+      LENGTH 125.30333333333328
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {89C56E99-A649-4642-8C03-21908AB593F9}
+      IID 39
+      NAME Z001004_2.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 377.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {52CCC00F-F5CB-0647-B3EE-A9AAB21E13B4}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001004_2.WAV"
+      >
+    >
+  >
+  <TRACK {5E8743E5-CDFF-8946-97F7-486D44658011}
+    NAME Z001004_3
+    PEAKCOL 18788719
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 52 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5E8743E5-CDFF-8946-97F7-486D44658011}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 502.80333333333334
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E8F24DB7-3E67-ED4E-B719-4E4E24687F44}
+      IID 40
+      NAME Z001004_3.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ABB2DBB0-32D3-204D-8DFB-4FF05D1D3C97}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001004_3.WAV"
+      >
+    >
+  >
+  <TRACK {5855039A-6AB7-B548-B8F0-12DAC68EC5A3}
+    NAME Z001004_4
+    PEAKCOL 18788719
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 45 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5855039A-6AB7-B548-B8F0-12DAC68EC5A3}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 502.80333333333334
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D888E2F4-BF2C-0646-BF20-9F07ECC379F1}
+      IID 41
+      NAME Z001004_4.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D6242DE1-FBDC-E440-8158-AEA40A6FD669}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001004_4.WAV"
+      >
+    >
+  >
+  <TRACK {0832EDDB-78FE-4943-9D70-EF74DC53D640}
+    NAME Z001004_5
+    PEAKCOL 18788719
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 45 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {0832EDDB-78FE-4943-9D70-EF74DC53D640}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 502.80333333333334
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {44E6785D-E3E0-7F48-8671-E6C34AAEC7B7}
+      IID 42
+      NAME Z001004_5.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BA52C141-5366-E043-8CC8-1027DD83A3B6}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001004_5.WAV"
+      >
+    >
+  >
+  <TRACK {200549FA-EF71-524C-93CA-A1729BD00469}
+    NAME Z001004_6
+    PEAKCOL 18788719
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 45 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {200549FA-EF71-524C-93CA-A1729BD00469}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 502.80333333333334
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1079C977-1021-0341-8E6D-312AA60AADD8}
+      IID 43
+      NAME Z001004_6.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F3BC1BAE-D3A9-4A4D-A5F8-94D693CF41AC}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001004_6.WAV"
+      >
+    >
+  >
+  <TRACK {F6A527EC-2F45-A94C-AA53-40300B4AC703}
+    NAME Z001004_7
+    PEAKCOL 18788719
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 45 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F6A527EC-2F45-A94C-AA53-40300B4AC703}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 502.80333333333334
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2BB7A537-42C9-7347-A635-95090A02E7C6}
+      IID 44
+      NAME Z001004_7.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {550CF17F-DE52-D040-B82F-5F47BF6515C1}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001004_7.WAV"
+      >
+    >
+  >
+  <TRACK {28DDFED4-E50B-BC4F-A222-EB854A108D41}
+    NAME Z001004_8
+    PEAKCOL 18788719
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 2 -2
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 45 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {28DDFED4-E50B-BC4F-A222-EB854A108D41}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 370.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {263412E8-52FD-4942-9561-25C95DB9544C}
+      IID 45
+      NAME Z001004_8.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6FB39124-0BA8-064A-9ACA-ACBC779D5925}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001004_8.WAV"
+      >
+    >
+    <ITEM
+      POSITION 370.5
+      SNAPOFFS 0
+      LENGTH 3.25675377829373
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C6411E65-B7EF-1345-A7ED-426136C87E3B}
+      IID 45
+      NAME Z001004_8.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 370.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {97D3D557-8356-7446-B3D4-7A399C232DF0}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001004_8.WAV"
+      >
+    >
+    <ITEM
+      POSITION 373.75675377829373
+      SNAPOFFS 0
+      LENGTH 129.04657955503961
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {02A43A21-E082-7346-B5A2-BB145F20CD8E}
+      IID 45
+      NAME Z001004_8.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 373.75675377829373
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {87820844-0227-9142-AE23-2DF73994CA3D}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zaxcom/Z001/Z001004_8.WAV"
+      >
+    >
+  >
+  <TRACK {1AB8A2BB-8958-2B4A-BD6A-ED5A209CC3DC}
+    NAME ZOOM_1
+    PEAKCOL 25886572
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 1 1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 24 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1AB8A2BB-8958-2B4A-BD6A-ED5A209CC3DC}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {F0C5D3EA-650C-4C4A-A8C2-BD284BA10225}
+    NAME 4CH000I
+    PEAKCOL 25886572
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 45 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F0C5D3EA-650C-4C4A-A8C2-BD284BA10225}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 562
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A5C7D34F-1CC7-C145-9CA9-F1B574E8AFE9}
+      IID 46
+      NAME 4CH000I.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7E56EC82-40CF-8045-A0E6-CEDD0F9F7F12}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zoom_1/4CH000I.wav"
+      >
+    >
+    <ITEM
+      POSITION 562
+      SNAPOFFS 0
+      LENGTH 13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D30C0562-587C-0E4D-8A9E-12ACA93E2B36}
+      IID 46
+      NAME 4CH000I.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 562
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CE2B00AD-5860-A049-8EF7-351AD20D364B}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zoom_1/4CH000I.wav"
+      >
+    >
+    <ITEM
+      POSITION 575
+      SNAPOFFS 0
+      LENGTH 160.46
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8866DB39-0A1D-E64B-A1AF-5194687FC4C5}
+      IID 46
+      NAME 4CH000I.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 575
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9C0E4FC3-B943-5A42-BE48-CBC16FBE3808}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zoom_1/4CH000I.wav"
+      >
+    >
+  >
+  <TRACK {21A302DD-CB5B-1B40-9704-589C22D6A201}
+    NAME 4CH000M
+    PEAKCOL 25886572
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 45 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {21A302DD-CB5B-1B40-9704-589C22D6A201}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 562
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4137F3FD-CFF6-654B-8304-411E57E71609}
+      IID 47
+      NAME 4CH000M.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9E3CDE53-69BB-6546-B09B-726D92CFCA23}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zoom_1/4CH000M.wav"
+      >
+    >
+    <ITEM
+      POSITION 562
+      SNAPOFFS 0
+      LENGTH 13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {38C17D3A-FCF3-CF4C-BF63-164E2C7781BE}
+      IID 47
+      NAME 4CH000M.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 562
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {58262F65-FD8D-4A4C-B9C8-CA4A31FEA924}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zoom_1/4CH000M.wav"
+      >
+    >
+    <ITEM
+      POSITION 575
+      SNAPOFFS 0
+      LENGTH 160.46
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9BF5FDEE-240B-A242-AF69-EA9375F0F407}
+      IID 47
+      NAME 4CH000M.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 575
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {59175C29-3627-3A45-8C6B-C6E4385DFD54}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zoom_1/4CH000M.wav"
+      >
+    >
+  >
+  <TRACK {256687E9-61F6-814D-A616-CA6077A20EDF}
+    NAME 4CH002I
+    PEAKCOL 25886572
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 45 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {256687E9-61F6-814D-A616-CA6077A20EDF}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 562
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {43E76D10-4B27-4340-A1F0-4109D6A67F23}
+      IID 48
+      NAME 4CH002I.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EA22D265-6650-B447-815A-1ECCA13C9AF3}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zoom_1/4CH002I.wav"
+      >
+    >
+    <ITEM
+      POSITION 562
+      SNAPOFFS 0
+      LENGTH 13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {DB52CD56-F338-C041-A498-6BF0FFCDB57D}
+      IID 48
+      NAME 4CH002I.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 562
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7B8299D7-7692-1044-B556-B95F54A0F96A}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zoom_1/4CH002I.wav"
+      >
+    >
+    <ITEM
+      POSITION 575
+      SNAPOFFS 0
+      LENGTH 139.912
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1C7BF7EA-6E6B-5F47-91F8-ACD4CE44098C}
+      IID 48
+      NAME 4CH002I.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 575
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E9BC3B00-E6C6-CA4C-BDB6-8217B46D86FE}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zoom_1/4CH002I.wav"
+      >
+    >
+  >
+  <TRACK {2BD5F769-E062-D948-925A-7112CBF40B5A}
+    NAME 4CH002M
+    PEAKCOL 25886572
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 2 -1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 45 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2BD5F769-E062-D948-925A-7112CBF40B5A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 562
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {84334193-8FEE-F248-A72C-E424C22908F7}
+      IID 49
+      NAME 4CH002M.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {99C6C14D-61ED-3240-A2B6-36A139C9FBAB}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zoom_1/4CH002M.wav"
+      >
+    >
+    <ITEM
+      POSITION 562
+      SNAPOFFS 0
+      LENGTH 13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {BE7FE8BC-E0F4-F243-A057-EF3D1E883BF5}
+      IID 49
+      NAME 4CH002M.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 562
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8EDB67C8-979C-264A-8C59-8E98D080E7FB}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zoom_1/4CH002M.wav"
+      >
+    >
+    <ITEM
+      POSITION 575
+      SNAPOFFS 0
+      LENGTH 139.912
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FB5D52E9-5058-3C43-B9E2-DF4ABBD3B97A}
+      IID 49
+      NAME 4CH002M.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 575
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {337BFFFE-3F71-5C41-85EE-A82E6EBE96FA}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zoom_1/4CH002M.wav"
+      >
+    >
+  >
+  <TRACK {2803D3C5-0138-154E-B6B9-7E2DCF8966E5}
+    NAME ZOOM_2
+    PEAKCOL 22315156
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 1 1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 45 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2803D3C5-0138-154E-B6B9-7E2DCF8966E5}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {181C8D47-F543-624A-BD80-DE6C8AFEA47F}
+    NAME 4CH003I
+    PEAKCOL 22315156
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 45 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {181C8D47-F543-624A-BD80-DE6C8AFEA47F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.27205953549231
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2D16583A-BF5F-8448-BB3F-77844005BA77}
+      IID 50
+      NAME 4CH003I.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CC282EEA-A44B-504B-99EB-D589EC713FEA}
+      <SOURCE SECTION
+        LENGTH 0.27205953549231
+        STARTPOS 115.89736211972522
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zoom_2/4CH003I.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 0.27205953549231
+      SNAPOFFS 0
+      LENGTH 554.45733333333328
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {74655FF0-965A-5C40-9B5A-753E3C55ED9F}
+      IID 51
+      NAME 4CH003I.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {70218900-5E0E-E44D-AD4A-7095B2805DDF}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zoom_2/4CH003I.wav"
+      >
+    >
+  >
+  <TRACK {B2FE9A56-469C-304E-AA9C-DEA550B23C5B}
+    NAME 4CH003M
+    PEAKCOL 22315156
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 45 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B2FE9A56-469C-304E-AA9C-DEA550B23C5B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 554.45733333333328
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {96BFA7C6-C388-CA42-99CA-227D97EBE52A}
+      IID 52
+      NAME 4CH003M.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {20B6A8C8-2894-3643-928D-5CD3988F8B1D}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zoom_2/4CH003M.wav"
+      >
+    >
+  >
+  <TRACK {CEF80F5C-085A-3D4A-B953-C85CEDCF9C10}
+    NAME 4CH005I
+    PEAKCOL 22315156
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 45 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {CEF80F5C-085A-3D4A-B953-C85CEDCF9C10}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 401.99333333333334
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1445C6D7-E102-464F-8369-5C5708045521}
+      IID 53
+      NAME 4CH005I.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0D8B5280-887A-7046-898A-F3BF75C4A420}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zoom_2/4CH005I.wav"
+      >
+    >
+  >
+  <TRACK {701104EE-F469-5641-8948-30C4D8E77E04}
+    NAME 4CH005M
+    PEAKCOL 22315156
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 113 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {701104EE-F469-5641-8948-30C4D8E77E04}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 401.99333333333334
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F107A8D0-B1C3-6749-91E5-1B4F6D0FFCD2}
+      IID 54
+      NAME 4CH005M.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B9A5EE7C-9FD3-8B4E-B3AB-F11CEBE4279E}
+      <SOURCE WAVE
+        FILE "/Users/antonkuznecov/Documents/Samples/AirPlanes ME 109/Ground_Recording/Zoom_2/4CH005M.wav"
+      >
+    >
+  >
+  <EXTENSIONS
+  >
+>
